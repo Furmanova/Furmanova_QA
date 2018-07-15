@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EbayTest.iml" filepath="$PROJECT_DIR$/.idea/modules/EbayTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EbayTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/EbayTest_main.iml" group="EbayTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EbayTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/EbayTest_test.iml" group="EbayTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirstProject.iml" filepath="$PROJECT_DIR$/.idea/modules/FirstProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirstProject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FirstProject_main.iml" group="FirstProject" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirstProject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FirstProject_test.iml" group="FirstProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LoginPassword.iml" filepath="$PROJECT_DIR$/.idea/modules/LoginPassword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LoginPassword_main.iml" filepath="$PROJECT_DIR$/.idea/modules/LoginPassword_main.iml" group="LoginPassword" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LoginPassword_test.iml" filepath="$PROJECT_DIR$/.idea/modules/LoginPassword_test.iml" group="LoginPassword" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second_web_selenium_rekorder.iml" filepath="$PROJECT_DIR$/.idea/modules/second_web_selenium_rekorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second_web_selenium_rekorder_main.iml" filepath="$PROJECT_DIR$/.idea/modules/second_web_selenium_rekorder_main.iml" group="second_web_selenium_rekorder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second_web_selenium_rekorder_test.iml" filepath="$PROJECT_DIR$/.idea/modules/second_web_selenium_rekorder_test.iml" group="second_web_selenium_rekorder" />
     </modules>
   </component>
 </project>
