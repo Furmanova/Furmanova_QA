@@ -4,29 +4,27 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-
 import java.util.concurrent.TimeUnit;
-
-import static org.testng.Assert.fail;
 
 public class EbayRegistration {
     WebDriver driver;
 
     @BeforeMethod
-    public void ebayTest() {
+    public void setUp() {
 
             driver = new FirefoxDriver();
             driver.manage().window().maximize();
-            driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+            driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+            driver.get("https://signin.ebay.com/ws/eBayISAPI.dll");
         }
         @Test
-    public void registration(){
-       // driver.get("https://www ebay.com/");
-            driver.get("https://signin.ebay.com/ws/eBayISAPI.dll");
-            UserUp();
-            PasswordUp();
-            SignInUp();
-            ConfirmUp();
+    public void registrationTest(){
+
+
+            enterUsername();
+            enterPassword();
+            clickOnSigninButton();
+           // ConfirmUp();
             //driver.get("https://reg.ebay.com/reg/PartialReg");
             /*driver.findElement(By.id("firstname")).sendKeys("Olga");
             driver.findElement(By.id("lastname")).sendKeys("Furmanova");
@@ -39,19 +37,22 @@ public class EbayRegistration {
         driver.quit();
     }
 
-    public void ConfirmUp() {
+    /*public void ConfirmUp() {
         driver.findElement(By.id("sbtBtn")).click();
-    }
+    }*/
 
-    public void SignInUp() {
+    public void clickOnSigninButton() {
+
         driver.findElement(By.id("sgnBt")).click();
     }
 
-    public void PasswordUp() {
+    public void enterPassword() {
+
         driver.findElement(By.id("pass")).sendKeys("milistan1");
     }
 
-    public void UserUp() {
+    public void enterUsername() {
+
         driver.findElement(By.id("userid")).sendKeys("o.furmanova@mail.ru");
     }
 

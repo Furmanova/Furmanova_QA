@@ -2,29 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55f1efe3-98b8-4e00-bb65-473500ae2737" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/EbayRegistration_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/EbayRegistration_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/EbayTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/EbayTest_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/EbayTest_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/LoginPassword.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/LoginPassword_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/LoginPassword_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/second_web_selenium_rekorder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/second_web_selenium_rekorder_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/second_web_selenium_rekorder_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EbayTest/src/test/java/EbayRegistration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstProject/src/test/java/OpenGoogleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoginPassword/src/test/java/InputLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Addressbook-web-tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Addressbook-web-tests_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Addressbook-web-tests_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/CroupCreationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/FirstProject_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/FirstProject_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/FirstProject_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/FirstProject_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EbayTest/out/test/classes/EbayRegistration.class" beforeDir="false" afterPath="$PROJECT_DIR$/EbayTest/out/test/classes/EbayRegistration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EbayTest/src/test/java/EbayRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/EbayTest/src/test/java/EbayRegistration.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/selenium-tests/.gradle/" />
     <ignored path="$PROJECT_DIR$/selenium-tests/build/" />
@@ -44,6 +31,9 @@
     <ignored path="$PROJECT_DIR$/EbayTest/.gradle/" />
     <ignored path="$PROJECT_DIR$/EbayTest/build/" />
     <ignored path="$PROJECT_DIR$/EbayTest/out/" />
+    <ignored path="$PROJECT_DIR$/Addressbook-web-tests/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Addressbook-web-tests/build/" />
+    <ignored path="$PROJECT_DIR$/Addressbook-web-tests/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +42,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/Addressbook-web-tests">
+      <ProjectState />
+    </projectState>
     <projectState path="$PROJECT_DIR$/EbayRegistration">
       <ProjectState />
     </projectState>
@@ -88,15 +81,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EbayRegistration.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EbayRegistration.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EbayTest/src/test/java/EbayRegistration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+            <state relative-caret-position="783">
+              <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1342#1343#0" expanded="true" />
-                <element signature="e#1371#1372#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CroupCreationTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/CroupCreationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-216">
+              <caret line="37" column="6" lean-forward="true" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -117,6 +129,7 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
+        <entry key="$PROJECT_DIR$/Addressbook-web-tests" value="C:\Users\alx\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
         <entry key="$PROJECT_DIR$/EbayRegistration" value="C:\Users\alx\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
         <entry key="$PROJECT_DIR$/EbayTest" value="C:\Users\alx\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
         <entry key="$PROJECT_DIR$/FirstProject" value="C:\Users\alx\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
@@ -127,6 +140,7 @@
     </option>
     <option name="myGradleVersions">
       <map>
+        <entry key="$PROJECT_DIR$/Addressbook-web-tests" value="4.4" />
         <entry key="$PROJECT_DIR$/EbayRegistration" value="4.4" />
         <entry key="$PROJECT_DIR$/EbayTest" value="4.4" />
         <entry key="$PROJECT_DIR$/FirstProject" value="4.4" />
@@ -137,6 +151,22 @@
     </option>
     <option name="availableProjects">
       <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Addressbook-web-tests" />
+              <option name="path" value="$PROJECT_DIR$/Addressbook-web-tests" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="Addressbook-web-tests" />
+                <option name="path" value="$PROJECT_DIR$/Addressbook-web-tests" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
         <entry>
           <key>
             <ExternalProjectPojo>
@@ -237,6 +267,147 @@
     </option>
     <option name="availableTasks">
       <map>
+        <entry key="$PROJECT_DIR$/Addressbook-web-tests">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'Addressbook-web-tests'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'Addressbook-web-tests'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'Addressbook-web-tests'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'Addressbook-web-tests'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'Addressbook-web-tests'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'Addressbook-web-tests'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'Addressbook-web-tests'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'Addressbook-web-tests'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'Addressbook-web-tests'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/EbayRegistration">
           <value>
             <list>
@@ -1087,6 +1258,11 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$/Addressbook-web-tests" value="6127022487956" />
+        <entry key="$PROJECT_DIR$/Addressbook-web-tests/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/Addressbook-web-tests/build.gradle" value="2701781659" />
+        <entry key="$PROJECT_DIR$/Addressbook-web-tests/gradle/wrapper/gradle-wrapper.properties" value="1741342742" />
+        <entry key="$PROJECT_DIR$/Addressbook-web-tests/settings.gradle" value="4006488045" />
         <entry key="$PROJECT_DIR$/EbayRegistration" value="0" />
         <entry key="$PROJECT_DIR$/EbayRegistration/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/EbayRegistration/build.gradle" value="3467878654" />
@@ -1121,6 +1297,104 @@
     </option>
     <option name="projectBuildClasspath">
       <map>
+        <entry key="$PROJECT_DIR$/Addressbook-web-tests">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/Addressbook-web-tests">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/Addressbook-web-tests" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="Addressbook-web-tests" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/ant-1.9.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/ant-launcher-1.9.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-base-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-base-services-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-build-cache-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-build-option-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-cli-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-core-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-core-api-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-docs-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-installation-beacon-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-jvm-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-kotlin-dsl-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-kotlin-dsl-tooling-builders-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-kotlin-dsl-tooling-models-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-launcher-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-logging-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-messaging-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-model-core-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-model-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-persistent-cache-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-process-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-resources-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-runtime-api-info-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-tooling-api-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-wrapper-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-announce-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-antlr-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-build-cache-http-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-build-comparison-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-build-init-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-code-quality-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-composite-builds-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-dependency-management-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-diagnostics-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ear-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ide-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ide-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ide-play-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ivy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-jacoco-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-javascript-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-java-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-scala-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-maven-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-osgi-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-platform-base-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-platform-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-platform-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-platform-play-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-plugin-development-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-plugin-use-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-plugins-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-publish-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-reporting-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-resources-gcs-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-resources-http-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-resources-s3-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-resources-sftp-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-scala-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-signing-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-test-kit-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-testing-base-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-testing-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-testing-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-tooling-api-builders-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-version-control-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-workers-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/Addressbook-web-tests/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/Addressbook-web-tests/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/EbayRegistration">
           <value>
             <ExternalProjectBuildClasspathPojo>
@@ -1713,6 +1987,7 @@
     </option>
     <option name="projectSyncType">
       <map>
+        <entry key="$PROJECT_DIR$/Addressbook-web-tests" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/EbayRegistration" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/EbayTest" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/FirstProject" value="RE_IMPORT" />
@@ -1739,12 +2014,16 @@
         <option value="$PROJECT_DIR$/EbayTest/build.gradle" />
         <option value="$PROJECT_DIR$/second_web_selenium_rekorder/src/test/java/Trello.java" />
         <option value="$PROJECT_DIR$/EbayTest/src/test/java/EbayRegistration.java" />
+        <option value="$PROJECT_DIR$/Addressbook-web-tests/build.gradle" />
+        <option value="$PROJECT_DIR$/Addressbook-web-tests/src/test/java/AddressbookWebTests.java" />
+        <option value="$PROJECT_DIR$/Addressbook-web-tests/src/test/java/CroupCreationTest.java" />
+        <option value="$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/CroupCreationTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="204" />
-    <option name="y" value="347" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="264" />
+    <option name="y" value="257" />
     <option name="width" value="1059" />
     <option name="height" value="620" />
   </component>
@@ -1756,27 +2035,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EbayTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EbayTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EbayTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EbayTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -1787,7 +2067,6 @@
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1809,43 +2088,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.EbayRegistration">
+  <component name="RunManager" selected="TestNG.CroupCreationTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="EbayRegistration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EbayRegistration_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EbayRegistration" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="EbayRegistration.EbayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EbayRegistration_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EbayRegistration" />
-      <option name="METHOD_NAME" value="EbayTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -1862,6 +2107,87 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="CroupCreationTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Addressbook-web-tests_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="com.TelRan.QA.CroupCreationTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="CroupCreationTest.CroupCreationTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Addressbook-web-tests_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TelRan.QA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.TelRan.QA" />
+      <option name="MAIN_CLASS_NAME" value="com.TelRan.QA.CroupCreationTest" />
+      <option name="METHOD_NAME" value="CroupCreationTest" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="CroupCreationTest.login" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Addressbook-web-tests_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TelRan.QA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.TelRan.QA" />
+      <option name="MAIN_CLASS_NAME" value="com.TelRan.QA.CroupCreationTest" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
     </configuration>
     <configuration name="EbayRegistration" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EbayTest_test" />
@@ -1886,37 +2212,14 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="EbayRegistration.registration" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="EbayRegistration.registrationTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EbayTest_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="EbayRegistration" />
-      <option name="METHOD_NAME" value="registration" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="Trello.testTrello" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="second_web_selenium_rekorder_main" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Trello" />
-      <option name="METHOD_NAME" value="testTrello" />
+      <option name="METHOD_NAME" value="registrationTest" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -1955,19 +2258,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.Trello.testTrello" />
-      <item itemvalue="JUnit.EbayRegistration" />
-      <item itemvalue="JUnit.EbayRegistration.EbayTest" />
-      <item itemvalue="TestNG.EbayRegistration.registration" />
       <item itemvalue="TestNG.EbayRegistration" />
+      <item itemvalue="TestNG.EbayRegistration.registrationTest" />
+      <item itemvalue="TestNG.CroupCreationTest" />
+      <item itemvalue="TestNG.CroupCreationTest.CroupCreationTest" />
+      <item itemvalue="TestNG.CroupCreationTest.login" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.CroupCreationTest" />
+        <item itemvalue="TestNG.CroupCreationTest.CroupCreationTest" />
+        <item itemvalue="TestNG.CroupCreationTest.login" />
+        <item itemvalue="TestNG.EbayRegistration.registrationTest" />
         <item itemvalue="TestNG.EbayRegistration" />
-        <item itemvalue="TestNG.EbayRegistration.registration" />
-        <item itemvalue="JUnit.EbayRegistration.EbayTest" />
-        <item itemvalue="JUnit.EbayRegistration" />
-        <item itemvalue="TestNG.Trello.testTrello" />
       </list>
     </recent_temporary>
   </component>
@@ -1985,35 +2288,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EbayRegistration_registration - 2018.07.14 at 20h 01m 21s.xml">
-      <configuration name="EbayRegistration.registration" configurationId="TestNG" />
+    <history-entry file="CroupCreationTest - 2018.07.17 at 10h 44m 17s.xml">
+      <configuration name="CroupCreationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EbayRegistration_registration - 2018.07.14 at 20h 03m 31s.xml">
-      <configuration name="EbayRegistration.registration" configurationId="TestNG" />
+    <history-entry file="CroupCreationTest - 2018.07.17 at 10h 45m 56s.xml">
+      <configuration name="CroupCreationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EbayRegistration_registration - 2018.07.14 at 21h 12m 45s.xml">
-      <configuration name="EbayRegistration.registration" configurationId="TestNG" />
+    <history-entry file="CroupCreationTest - 2018.07.17 at 10h 46m 46s.xml">
+      <configuration name="CroupCreationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EbayRegistration_registration - 2018.07.14 at 21h 14m 20s.xml">
-      <configuration name="EbayRegistration.registration" configurationId="TestNG" />
+    <history-entry file="CroupCreationTest - 2018.07.17 at 10h 48m 18s.xml">
+      <configuration name="CroupCreationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EbayRegistration_registration - 2018.07.14 at 21h 17m 42s.xml">
-      <configuration name="EbayRegistration.registration" configurationId="TestNG" />
+    <history-entry file="CroupCreationTest - 2018.07.17 at 10h 49m 18s.xml">
+      <configuration name="CroupCreationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EbayRegistration_registration - 2018.07.14 at 21h 26m 37s.xml">
-      <configuration name="EbayRegistration.registration" configurationId="TestNG" />
+    <history-entry file="CroupCreationTest - 2018.07.17 at 10h 50m 33s.xml">
+      <configuration name="CroupCreationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EbayRegistration - 2018.07.14 at 21h 28m 27s.xml">
-      <configuration name="EbayRegistration" configurationId="TestNG" />
+    <history-entry file="CroupCreationTest - 2018.07.17 at 10h 59m 48s.xml">
+      <configuration name="CroupCreationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EbayRegistration_registration - 2018.07.14 at 21h 31m 14s.xml">
-      <configuration name="EbayRegistration.registration" configurationId="TestNG" />
+    <history-entry file="CroupCreationTest - 2018.07.17 at 11h 31m 18s.xml">
+      <configuration name="CroupCreationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EbayRegistration - 2018.07.14 at 21h 33m 28s.xml">
-      <configuration name="EbayRegistration" configurationId="TestNG" />
+    <history-entry file="CroupCreationTest - 2018.07.17 at 11h 33m 40s.xml">
+      <configuration name="CroupCreationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EbayRegistration - 2018.07.15 at 08h 53m 05s.xml">
-      <configuration name="EbayRegistration" configurationId="TestNG" />
+    <history-entry file="CroupCreationTest_CroupCreationTest - 2018.07.17 at 11h 34m 28s.xml">
+      <configuration name="CroupCreationTest.CroupCreationTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -2028,20 +2331,20 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2590604" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2590604" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.17802057" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.18701799" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32885906" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.32985073" />
       <window_info id="Structure" order="1" sideWeight="0.502" side_tool="true" weight="0.17609255" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" sideWeight="0.502" side_tool="true" weight="0.17609255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39912918" />
+      <window_info id="Favorites" order="2" sideWeight="0.502" side_tool="true" weight="0.17609255" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -2054,14 +2357,14 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Gradle" order="5" weight="0.32985073" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2590604" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17609255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2590604" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="5" />
@@ -2088,23 +2391,16 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/EbayTest/src/test/java/EbayRegistration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="38" column="7" selection-start-line="35" selection-start-column="3" selection-end-line="38" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1342#1343#0" expanded="true" />
-            <element signature="e#1371#1372#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EbayRegistration/build.gradle" />
     <entry file="file://$PROJECT_DIR$/EbayRegistration/src/test/java/EbayRegistration.java" />
     <entry file="file://$PROJECT_DIR$/EbayRegistration/build.gradle" />
@@ -2356,13 +2652,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EbayTest/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LoginPassword/src/test/java/InputLogin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -2377,14 +2666,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/EbayTest/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/EbayTest/src/test/java/EbayRegistration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+        <state relative-caret-position="783">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1342#1343#0" expanded="true" />
-            <element signature="e#1371#1372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/CroupCreationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="37" column="6" lean-forward="true" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2441,7 +2752,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>LoginPassword_main|LoginPassword</last-edited>
+          <last-edited>Addressbook-web-tests_test|Addressbook-web-tests</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
