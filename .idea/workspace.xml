@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55f1efe3-98b8-4e00-bb65-473500ae2737" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Addressbook-web-tests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Addressbook-web-tests_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Addressbook-web-tests_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/CroupCreationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/DeleteGroups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/EditGroupTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EbayTest/out/test/classes/EbayRegistration.class" beforeDir="false" afterPath="$PROJECT_DIR$/EbayTest/out/test/classes/EbayRegistration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EbayTest/src/test/java/EbayRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/EbayTest/src/test/java/EbayRegistration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Addressbook-web-tests/out/test/classes/com/TelRan/QA/CroupCreationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Addressbook-web-tests/out/test/classes/com/TelRan/QA/CroupCreationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/CroupCreationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/CroupCreationTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/selenium-tests/.gradle/" />
     <ignored path="$PROJECT_DIR$/selenium-tests/build/" />
@@ -40,6 +35,11 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/selenium_tests$DeleteGroupsTest.ic" NAME="DeleteGroupsTest Coverage Results" MODIFIED="1531821564420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.TelRan.QA.*</FILTER>
+    </SUITE>
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/Addressbook-web-tests">
@@ -81,18 +81,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EbayRegistration.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EbayTest/src/test/java/EbayRegistration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="783">
-              <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,8 +93,32 @@
       <file leaf-file-name="CroupCreationTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/CroupCreationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-216">
-              <caret line="37" column="6" lean-forward="true" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+            <state relative-caret-position="27">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EditGroupTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/EditGroupTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeleteGroups.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/DeleteGroups.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -2017,13 +2029,24 @@
         <option value="$PROJECT_DIR$/Addressbook-web-tests/build.gradle" />
         <option value="$PROJECT_DIR$/Addressbook-web-tests/src/test/java/AddressbookWebTests.java" />
         <option value="$PROJECT_DIR$/Addressbook-web-tests/src/test/java/CroupCreationTest.java" />
+        <option value="$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/AddAddressBookEntry.java" />
+        <option value="$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/GroupCreationTest.java" />
+        <option value="$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/DeleteGroupsTest.java" />
+        <option value="$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/EditGroupTest.java" />
+        <option value="$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/DeleteGroups.java" />
         <option value="$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/CroupCreationTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="264" />
-    <option name="y" value="257" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="308" />
+    <option name="y" value="354" />
     <option name="width" value="1059" />
     <option name="height" value="620" />
   </component>
@@ -2035,6 +2058,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -2061,12 +2085,19 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="QA" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2075,6 +2106,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.TelRan.QA" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2131,7 +2167,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="CroupCreationTest.CroupCreationTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DeleteGroups" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Addressbook-web-tests_test" />
       <extension name="coverage">
         <pattern>
@@ -2143,59 +2179,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.TelRan.QA" />
-      <option name="MAIN_CLASS_NAME" value="com.TelRan.QA.CroupCreationTest" />
-      <option name="METHOD_NAME" value="CroupCreationTest" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="CroupCreationTest.login" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Addressbook-web-tests_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.TelRan.QA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.TelRan.QA" />
-      <option name="MAIN_CLASS_NAME" value="com.TelRan.QA.CroupCreationTest" />
-      <option name="METHOD_NAME" value="login" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="EbayRegistration" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="EbayTest_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EbayRegistration" />
+      <option name="MAIN_CLASS_NAME" value="com.TelRan.QA.DeleteGroups" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -2212,14 +2196,78 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="EbayRegistration.registrationTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="EbayTest_test" />
+    <configuration name="DeleteGroups.DeleteGroups" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Addressbook-web-tests_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TelRan.QA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EbayRegistration" />
-      <option name="METHOD_NAME" value="registrationTest" />
+      <option name="PACKAGE_NAME" value="com.TelRan.QA" />
+      <option name="MAIN_CLASS_NAME" value="com.TelRan.QA.DeleteGroups" />
+      <option name="METHOD_NAME" value="DeleteGroups" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="EditGroupTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Addressbook-web-tests_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TelRan.QA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.TelRan.QA" />
+      <option name="MAIN_CLASS_NAME" value="com.TelRan.QA.EditGroupTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="EditGroupTest.EditGroup" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Addressbook-web-tests_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TelRan.QA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.TelRan.QA" />
+      <option name="MAIN_CLASS_NAME" value="com.TelRan.QA.EditGroupTest" />
+      <option name="METHOD_NAME" value="EditGroup" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -2258,19 +2306,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.EbayRegistration" />
-      <item itemvalue="TestNG.EbayRegistration.registrationTest" />
       <item itemvalue="TestNG.CroupCreationTest" />
-      <item itemvalue="TestNG.CroupCreationTest.CroupCreationTest" />
-      <item itemvalue="TestNG.CroupCreationTest.login" />
+      <item itemvalue="TestNG.DeleteGroups" />
+      <item itemvalue="TestNG.DeleteGroups.DeleteGroups" />
+      <item itemvalue="TestNG.EditGroupTest" />
+      <item itemvalue="TestNG.EditGroupTest.EditGroup" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.CroupCreationTest" />
-        <item itemvalue="TestNG.CroupCreationTest.CroupCreationTest" />
-        <item itemvalue="TestNG.CroupCreationTest.login" />
-        <item itemvalue="TestNG.EbayRegistration.registrationTest" />
-        <item itemvalue="TestNG.EbayRegistration" />
+        <item itemvalue="TestNG.EditGroupTest" />
+        <item itemvalue="TestNG.DeleteGroups" />
+        <item itemvalue="TestNG.EditGroupTest.EditGroup" />
+        <item itemvalue="TestNG.DeleteGroups.DeleteGroups" />
       </list>
     </recent_temporary>
   </component>
@@ -2288,83 +2336,83 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CroupCreationTest - 2018.07.17 at 10h 44m 17s.xml">
+    <history-entry file="EditGroupTest - 2018.07.17 at 20h 01m 25s.xml">
+      <configuration name="EditGroupTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DeleteGroups - 2018.07.17 at 20h 04m 31s.xml">
+      <configuration name="DeleteGroups" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EditGroupTest - 2018.07.17 at 20h 05m 08s.xml">
+      <configuration name="EditGroupTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CroupCreationTest - 2018.07.17 at 20h 05m 40s.xml">
       <configuration name="CroupCreationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CroupCreationTest - 2018.07.17 at 10h 45m 56s.xml">
+    <history-entry file="CroupCreationTest - 2018.07.17 at 20h 05m 52s.xml">
       <configuration name="CroupCreationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CroupCreationTest - 2018.07.17 at 10h 46m 46s.xml">
+    <history-entry file="CroupCreationTest - 2018.07.17 at 20h 06m 09s.xml">
       <configuration name="CroupCreationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CroupCreationTest - 2018.07.17 at 10h 48m 18s.xml">
+    <history-entry file="CroupCreationTest - 2018.07.17 at 20h 11m 39s.xml">
       <configuration name="CroupCreationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CroupCreationTest - 2018.07.17 at 10h 49m 18s.xml">
+    <history-entry file="CroupCreationTest - 2018.07.17 at 20h 12m 02s.xml">
       <configuration name="CroupCreationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CroupCreationTest - 2018.07.17 at 10h 50m 33s.xml">
+    <history-entry file="CroupCreationTest - 2018.07.17 at 20h 12m 43s.xml">
       <configuration name="CroupCreationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CroupCreationTest - 2018.07.17 at 10h 59m 48s.xml">
+    <history-entry file="CroupCreationTest - 2018.07.17 at 20h 13m 21s.xml">
       <configuration name="CroupCreationTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CroupCreationTest - 2018.07.17 at 11h 31m 18s.xml">
-      <configuration name="CroupCreationTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CroupCreationTest - 2018.07.17 at 11h 33m 40s.xml">
-      <configuration name="CroupCreationTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CroupCreationTest_CroupCreationTest - 2018.07.17 at 11h 34m 28s.xml">
-      <configuration name="CroupCreationTest.CroupCreationTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32885906" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2590604" />
+      <window_info anchor="right" id="Maven Projects" order="3" sideWeight="0.4981884" weight="0.32969153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2590604" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.18701799" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32885906" />
-      <window_info anchor="right" id="Gradle" order="3" weight="0.32985073" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.19730078" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" visible="true" weight="0.32885906" />
+      <window_info anchor="right" id="Gradle" order="3" sideWeight="0.4981884" weight="0.32969153" />
       <window_info id="Structure" order="1" sideWeight="0.502" side_tool="true" weight="0.17609255" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4981884" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39912918" />
       <window_info id="Favorites" order="2" sideWeight="0.502" side_tool="true" weight="0.17609255" />
+      <window_info anchor="right" id="Coverage" order="4" sideWeight="0.5018116" side_tool="true" weight="0.32969153" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32885906" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Gradle" order="5" weight="0.32985073" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2590604" />
       <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17609255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2590604" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="5" />
@@ -2375,7 +2423,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Build" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32885906" />
@@ -2393,7 +2441,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -2401,10 +2449,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/EbayRegistration/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/EbayRegistration/src/test/java/EbayRegistration.java" />
-    <entry file="file://$PROJECT_DIR$/EbayRegistration/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/EbayRegistration/src/test/java/EbayRegistration.java" />
     <entry file="file://$PROJECT_DIR$/LoginPassword/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -2606,13 +2650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.14.3/bfd2538501a129a142fe8366169c48b91609dc0b/testng-6.14.3-sources.jar!/org/testng/SuiteRunnerWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FirstProject/src/test/java/OpenOkMusik.java" />
     <entry file="file://$PROJECT_DIR$/second_web_selenium_rekorder/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
@@ -2673,6 +2710,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/EbayTest/src/test/java/EbayRegistration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -2680,10 +2724,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EbayTest/src/test/java/EbayRegistration.java">
+    <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/GroupCreationTest.java" />
+    <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/DeleteGroupsTest.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.14.3/bfd2538501a129a142fe8366169c48b91609dc0b/testng-6.14.3-sources.jar!/org/testng/SuiteRunnerWorker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        <state relative-caret-position="810">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/EditGroupTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/DeleteGroups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -2692,8 +2755,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/CroupCreationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216">
-          <caret line="37" column="6" lean-forward="true" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+        <state relative-caret-position="27">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
