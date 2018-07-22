@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="Addressbook-web-tests_main" target="1.8" />
       <module name="Addressbook-web-tests_test" target="1.8" />
+      <module name="AddressbookWebTests_main" target="1.8" />
+      <module name="AddressbookWebTests_test" target="1.8" />
       <module name="EbayRegistration_main" target="1.8" />
       <module name="EbayRegistration_test" target="1.8" />
       <module name="EbayTest_main" target="1.8" />

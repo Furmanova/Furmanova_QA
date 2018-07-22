@@ -1,19 +1,18 @@
 package com.TelRan.QA;
 
-import org.junit.BeforeClass;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+
 import java.util.concurrent.TimeUnit;
 
-    public abstract class  CroupCreationTest {
+    public class GroupCommonTest {
     WebDriver wd;
 
 
-    @BeforeClass
+    @BeforeMethod
     public void setUp() {
 
         wd = new ChromeDriver();
@@ -21,10 +20,6 @@ import java.util.concurrent.TimeUnit;
         wd.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
         wd.get("http://localhost/addressbook/");
         login("admin","secret");
-        Groups ("Car");
-        EditGroupTest editGroupTest = new EditGroupTest();
-        DeleteGroups car =  new DeleteGroups();
-
     }
 
     private void login (String user, String password) {
@@ -35,8 +30,7 @@ import java.util.concurrent.TimeUnit;
         wd.findElement (By.xpath ("//*[@ type ='submit']")).click();
         wd.findElement(By.xpath("//*[@id=\"nav\"]/ul/li[3]/a")).click();
     }
-
-    private void Groups (String newGroup){
+    private void createGroup(String newGroup){
         wd.findElement(By.name("new")).click();
         wd.findElement(By.name("group_name")).sendKeys("Car");
         wd.findElement(By.name("group_name")).click();
@@ -49,12 +43,17 @@ import java.util.concurrent.TimeUnit;
         wd.findElement(By.linkText("group page")).click();
     }
 
-    @Test
+@Test
     public void CroupCreationTest() {
 
-    }
+   }
     /*@AfterMethod
     public void tearDown() {
         wd.quit();
     }*/
+}
+
+
+
+
 }
