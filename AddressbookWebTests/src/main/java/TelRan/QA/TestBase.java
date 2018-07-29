@@ -28,35 +28,20 @@ public class TestBase {
         wd.findElement(By.name("pass")).sendKeys("secret");
         wd.findElement(By.xpath("//*[@value ='Login']")).click();
     }
-    public void goToAddNewPage() {
-        wd.findElement(By.linkText("add new")).click();
-    }
-    public void fillContactsForm(ContactData contactData) {
-        wd.findElement(By.name("lastname")).sendKeys(contactData.getLastName());
-        wd.findElement(By.name("lastname")).click();
-        wd.findElement(By.name("firstname")).sendKeys(contactData.getFirstName());
-        wd.findElement(By.name("firstname")).click();
-        wd.findElement(By.name("address")).sendKeys(contactData.getAddress());
-        wd.findElement(By.name("address")).click();
-        wd.findElement(By.name("email")).sendKeys(contactData.getEmail());
-        wd.findElement(By.name("email")).click();
-        wd.findElement(By.name("email2")).sendKeys(contactData.getEmail12());
-        wd.findElement(By.name("email2")).click();
-        wd.findElement(By.name("mobile")).sendKeys(contactData.getMobile());
-        wd.findElement(By.name("mobile")).click();
-    }
-    public void submitContactCreationTest() {
-        wd.findElement(By.name("submit")).click();
-    }
+
+
     public void openSite() {
         wd.get("http://localhost/addressbook/");
     }
+
     public void returnToTheGroupsPage() {
         wd.findElement(By.linkText("group page")).click();
     }
+
     public void submitGroupCreation() {
         wd.findElement(By.name("submit")).click();
     }
+
     public void fillGroupsForm(GroupData groupData) {
         wd.findElement(By.name("group_name")).sendKeys(groupData.getGroupName());
         wd.findElement(By.name("group_name")).click();
@@ -68,20 +53,30 @@ public class TestBase {
         wd.findElement(By.name("group_footer")).sendKeys(groupData.getGroupFooter());
         wd.findElement(By.name("group_footer")).click();
     }
+
     public void initGroupCreation() {
+
         wd.findElement(By.name("new")).click();
     }
+
     public void goToGroupsPage() {
         wd.findElement(By.linkText("groups")).click();
     }
+
     public void initGroupModification() {
         wd.findElement(By.name("edit")).click();
     }
+
     public void submitGroupModification() {
         wd.findElement(By.name("update")).click();
     }
+
     public void selectGroup() {
         wd.findElement(By.name("selected[]")).click();
+    }
+
+    public void selectGroupByIndex(int ind) {
+        wd.findElements(By.name("selected[]")).get(ind).click();
     }
 
     public void groupDeletion() {
@@ -105,27 +100,40 @@ public class TestBase {
         wd.switchTo().alert().accept();
     }
 
-    public void deleteContact() {
-        wd.findElement(By.xpath("//*[@value = 'Delete']")).click();
+
+    public int getGroupsCount() {
+        return wd.findElements(By.name("selected[]")).size();
     }
 
-    public void selectContact() {
-        wd.findElement(By.name("selected[]")).click();
+
+    /*public boolean isElementPresent(By locator){
+        try {
+            wd.findElement(locator);
+            return true;
+        }catch (NoSuchElementException e){
+            return false;
+        }
+    }*/
+    public boolean isElementPresent(By locator) {
+        return wd.findElements(locator).size() > 0;
     }
 
-    public void fillEditContactForm() {
-        wd.findElement(By.name("firstname")).click();
-        wd.findElement(By.name("firstname")).clear();
-        wd.findElement(By.name("firstname")).sendKeys("Ivanov1");
-        wd.findElement(By.name("lastname")).click();
-        wd.findElement(By.name("lastname")).clear();
-        wd.findElement(By.name("lastname")).sendKeys("Peter1");
-        wd.findElement(By.xpath("(//input[@name='update'])[2]")).click();
+    public boolean isGroupPresent() {
+        return isElementPresent(By.name("selected[]"));
     }
 
-    public void editContact() {
-        wd.findElement(By.xpath("//img[@alt='Edit']")).click();
+    public void createGroup() {
+        initGroupCreation();
+        fillGroupsForm(
+                new GroupData()
+                        .setGroupFooter("GroupFooter")
+                        .setGroupHeader("GroupHeader")
+                        .setGroupName("GroupName"));
+        submitGroupCreation();
+        returnToTheGroupsPage();
+
     }
+
     /*@AfterClass
     public void tearDown() {
         wd.quit();
