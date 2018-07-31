@@ -4,23 +4,21 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class GroupModificationTest extends TestBase {
-
-
     @Test
     public void testGroupModification() {
-        goToGroupsPage();
-        if (!isGroupPresent()){
-            createGroup();
+        app.goToGroupsPage();
+
+        if (!app.getGroupHelper().isGroupPresent()){
+            app.getGroupHelper().createGroup();
         }
-        int before = getGroupsCount();
-        selectGroup();
-        initGroupModification();
-        fillGroupModification();
-        submitGroupModification();
-        returnToTheGroupsPage();
-        int after = getGroupsCount();
+
+        int before = app.getGroupHelper().getGroupsCount();
+        app.getGroupHelper().selectGroup();
+        app.getGroupHelper().initGroupModification();
+        app.getGroupHelper().fillGroupModification();
+        app.getGroupHelper().submitGroupModification();
+        app.getGroupHelper().returnToTheGroupsPage();
+        int after = app.getGroupHelper().getGroupsCount();
         Assert.assertEquals(after, before);
-
     }
-
 }

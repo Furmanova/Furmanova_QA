@@ -1,4 +1,4 @@
-package TelRanContact;
+package TelRan.QA;
 
 public class ContactData {
     private String lastName;

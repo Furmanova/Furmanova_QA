@@ -8,17 +8,17 @@ public class GroupCreateTest extends TestBase {
 
     @Test
     public void testCreateGroupTest() {
-        goToGroupsPage();
-        int before = getGroupsCount();
-        initGroupCreation();
-        fillGroupsForm(
+        app.goToGroupsPage();
+        int before = app.getGroupHelper().getGroupsCount();
+        app.getGroupHelper().initGroupCreation();
+        app.getGroupHelper().fillGroupsForm(
                 new GroupData()
                         .setGroupFooter("GroupFooter")
                         .setGroupHeader("GroupHeader")
                         .setGroupName("GroupName"));
-        submitGroupCreation();
-        returnToTheGroupsPage();
-        int after = getGroupsCount();
+        app.getGroupHelper().submitGroupCreation();
+        app.getGroupHelper().returnToTheGroupsPage();
+        int after = app.getGroupHelper().getGroupsCount();
         Assert.assertEquals(after, before +1);
 
     }
