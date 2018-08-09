@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55f1efe3-98b8-4e00-bb65-473500ae2737" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/HelperBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/resources/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/production/classes/TelRan/QA/ApplicationManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/production/classes/TelRan/QA/ContactCreateTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/production/classes/TelRan/QA/ContactData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/production/classes/TelRan/QA/ContactDeleteTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/production/classes/TelRan/QA/ContactEditTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/production/classes/TelRan/QA/ContactHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/production/classes/TelRan/QA/GroupCreateTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/production/classes/TelRan/QA/GroupData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/production/classes/TelRan/QA/GroupHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/production/classes/TelRan/QA/GroupModificationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/production/classes/TelRan/QA/GroupsDeleteTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/production/classes/TelRan/QA/HelperBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/production/classes/TelRan/QA/SessionHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/production/classes/TelRan/QA/TestBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/production/classes/TelRanContact/TestBaseContact.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ApplicationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/ContactCreateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/ContactData.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/ContactData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/ContactDeleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/ContactEditTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactEditTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/ContactHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/GroupCreateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupCreateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/GroupData.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/GroupData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/GroupHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/GroupHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/GroupModificationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupModificationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/GroupsDeleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupsDeleteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/HelperBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/SessionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/SessionHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EbayTest/out/test/classes/EbayRegistration.class" beforeDir="false" afterPath="$PROJECT_DIR$/EbayTest/out/test/classes/EbayRegistration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/out/test/classes/OpenOkMusik.class" beforeDir="false" />
-    </list>
+    <list default="true" id="55f1efe3-98b8-4e00-bb65-473500ae2737" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/selenium-tests/.gradle/" />
     <ignored path="$PROJECT_DIR$/selenium-tests/build/" />
     <ignored path="$PROJECT_DIR$/selenium-tests/out/" />
