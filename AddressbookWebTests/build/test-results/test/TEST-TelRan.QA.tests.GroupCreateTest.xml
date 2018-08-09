@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TelRan.QA.tests.GroupCreateTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-08-06T17:26:19" hostname="alx-nb" time="11.75">
+  <properties/>
+  <testcase name="testCreateGroupTest" classname="TelRan.QA.tests.GroupCreateTest" time="11.75"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
