@@ -7,27 +7,28 @@ public class ContactDeleteTest extends TestBase {
     @Test
     public void lastContactDeletionTest() throws InterruptedException {
 
-        if (!app.getContactHelper().isContactPresent()){
+        if (!app.getContactHelper().isContactPresent()) {
             app.getContactHelper().createContact();
         }
         int before = app.getContactHelper().getContactCount();
         app.getContactHelper().selectContactByIndex(before - 1); //last group
         app.getContactHelper().deleteContact();
-      //app.confirmAlert();
+        app.confirmAlert();
         Thread.sleep(2000);
         int after = app.getContactHelper().getContactCount();
 
         Assert.assertEquals(after, before - 1);
     }
+
     @Test
     public void firstContactDeletionTest() throws InterruptedException {
-        if (!app.getContactHelper().isContactPresent()){
+        if (!app.getContactHelper().isContactPresent()) {
             app.getContactHelper().createContact();
         }
         int before = app.getContactHelper().getContactCount();
         app.getContactHelper().selectContact();
         app.getContactHelper().deleteContact();
-      // app.confirmAlert();
+        app.confirmAlert();
         Thread.sleep(2000);
         int after = app.getContactHelper().getContactCount();
 
