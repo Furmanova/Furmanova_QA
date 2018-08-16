@@ -21,7 +21,7 @@ public class GroupsDeleteTest extends TestBase {
     }
 
     @Test
-    public void testFirstDeleteGroup() throws InterruptedException {
+    public void testFirstDeleteGroup()  {
         app.getGroupHelper().goToGroupsPage();
 
         if (!app.getGroupHelper().isGroupPresent()) {
@@ -32,7 +32,7 @@ public class GroupsDeleteTest extends TestBase {
         app.getGroupHelper().groupDeletion();
         app.getGroupHelper().returnToTheGroupsPage();
         int after = app.getGroupHelper().getGroupsCount();
-        Thread.sleep(2000);
+
         Assert.assertEquals(after, before - 1);
     }
 }
