@@ -3,29 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="55f1efe3-98b8-4e00-bb65-473500ae2737" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/appManadger/ApplicationManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/appManadger/ApplicationManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/appManadger/ContactHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/appManadger/ContactHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/appManadger/SessionHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/appManadger/SessionHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/tests/ContactCreateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/tests/ContactCreateTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/tests/TestBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.ContactDeleteTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.ContactDeleteTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.ContactEditTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.ContactEditTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.GroupCreateTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.GroupCreateTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.GroupModificationTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.GroupModificationTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.GroupsDeleteTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.GroupsDeleteTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/packages/TelRan.QA.tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/packages/TelRan.QA.tests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.ContactDeleteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.ContactDeleteTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.ContactEditTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.ContactEditTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.GroupCreateTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.GroupCreateTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.GroupModificationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.GroupModificationTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.GroupsDeleteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.GroupsDeleteTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/appManadger/ApplicationManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/appManadger/ApplicationManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/TestBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ApplicationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupsDeleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupsDeleteTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/selenium-tests/.gradle/" />
     <ignored path="$PROJECT_DIR$/selenium-tests/build/" />
@@ -109,20 +88,12 @@
       <file leaf-file-name="ApplicationManager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ApplicationManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
+            <state relative-caret-position="675">
               <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#974#975#0" expanded="true" />
-                <element signature="e#1020#1021#0" expanded="true" />
-                <element signature="e#1046#1047#0" expanded="true" />
-                <element signature="e#1071#1072#0" expanded="true" />
-                <element signature="e#1114#1115#0" expanded="true" />
-                <element signature="e#1148#1149#0" expanded="true" />
-                <element signature="e#1195#1196#0" expanded="true" />
-                <element signature="e#1231#1232#0" expanded="true" />
                 <element signature="e#1278#1279#0" expanded="true" />
-                <element signature="e#1314#1315#0" expanded="true" />
+                <element signature="e#1312#1313#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -133,10 +104,33 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
               <caret line="9" column="93" selection-start-line="9" selection-start-column="86" selection-end-line="9" selection-end-column="93" />
-              <folding>
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/resources/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContactDeleteTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroupsDeleteTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupsDeleteTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="33" column="58" lean-forward="true" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -144,7 +138,7 @@
       <file leaf-file-name="ContactHelper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
+            <state relative-caret-position="1782">
               <caret line="84" selection-start-line="84" selection-end-line="84" />
               <folding>
                 <element signature="e#724#725#0" expanded="true" />
@@ -171,11 +165,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AddressbookWebTests/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+            <state relative-caret-position="621">
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -2343,8 +2337,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/ContactCreationtest.java" />
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/ContactCreationTest.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/CteateContactTest.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/EditGroupTest.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/DeleteGroupsTest.java" />
@@ -2394,6 +2386,8 @@
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestBase.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/build.gradle" />
+        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupsDeleteTest.java" />
+        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java" />
       </list>
     </option>
   </component>
@@ -2403,7 +2397,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="479" />
     <option name="y" value="1" />
     <option name="width" value="1059" />
@@ -2417,8 +2411,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -2486,7 +2478,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2769,26 +2763,25 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32885906" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.4981884" weight="0.32969153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37986577" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37986577" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.26992288" />
-      <window_info anchor="bottom" id="Build" order="10" weight="0.32885906" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.27313626" />
+      <window_info anchor="bottom" id="Build" order="10" visible="true" weight="0.32885906" />
       <window_info anchor="right" id="Gradle" order="5" sideWeight="0.4981884" weight="0.32969153" />
       <window_info id="Structure" order="1" sideWeight="0.502" side_tool="true" weight="0.17609255" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4981884" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info id="Favorites" order="5" sideWeight="0.502" side_tool="true" weight="0.17609255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39912918" />
+      <window_info id="Favorites" order="5" sideWeight="0.502" side_tool="true" weight="0.17609255" />
       <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5018116" side_tool="true" weight="0.32969153" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -2796,26 +2789,26 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32885906" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5018116" side_tool="true" weight="0.32969153" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Gradle" order="5" sideWeight="0.4981884" weight="0.32969153" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.24742931" />
       <window_info id="Structure" order="1" sideWeight="0.502" side_tool="true" weight="0.17609255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4981884" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info id="Capture Tool" order="6" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
-      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.4981884" weight="0.32969153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39912918" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -2823,9 +2816,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32885906" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32885906" />
-      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5018116" side_tool="true" weight="0.32969153" />
+      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.4981884" weight="0.32969153" />
       <window_info id="Favorites" order="5" sideWeight="0.502" side_tool="true" weight="0.17609255" />
     </layout-to-restore>
   </component>
@@ -2994,20 +2988,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupsDeleteTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -3051,13 +3031,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/resources/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/HelperBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -3082,34 +3055,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ApplicationManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
+        <state relative-caret-position="675">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#974#975#0" expanded="true" />
-            <element signature="e#1020#1021#0" expanded="true" />
-            <element signature="e#1046#1047#0" expanded="true" />
-            <element signature="e#1071#1072#0" expanded="true" />
-            <element signature="e#1114#1115#0" expanded="true" />
-            <element signature="e#1148#1149#0" expanded="true" />
-            <element signature="e#1195#1196#0" expanded="true" />
-            <element signature="e#1231#1232#0" expanded="true" />
             <element signature="e#1278#1279#0" expanded="true" />
-            <element signature="e#1314#1315#0" expanded="true" />
+            <element signature="e#1312#1313#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
+        <state relative-caret-position="1782">
           <caret line="84" selection-start-line="84" selection-end-line="84" />
           <folding>
             <element signature="e#724#725#0" expanded="true" />
@@ -3126,21 +3084,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="93" selection-start-line="9" selection-start-column="86" selection-end-line="9" selection-end-column="93" />
-          <folding>
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/build.gradle">
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/resources/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        <state relative-caret-position="343">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupsDeleteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="33" column="58" lean-forward="true" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
         </state>
       </provider>
     </entry>

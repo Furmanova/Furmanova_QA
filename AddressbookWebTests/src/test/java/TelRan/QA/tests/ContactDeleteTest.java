@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 public class ContactDeleteTest extends TestBase {
     @Test
-    public void lastContactDeletionTest() {
+    public void lastContactDeletionTest() throws InterruptedException {
 
         if (!app.getContactHelper().isContactPresent()){
             app.getContactHelper().createContact();
@@ -15,10 +15,11 @@ public class ContactDeleteTest extends TestBase {
         app.getContactHelper().deleteContact();
         app.confirmAlert();
         int after = app.getContactHelper().getContactCount();
+        Thread.sleep(2000);
         Assert.assertEquals(after, before - 1);
     }
     @Test
-    public void firstContactDeletionTest() {
+    public void firstContactDeletionTest() throws InterruptedException {
         if (!app.getContactHelper().isContactPresent()){
             app.getContactHelper().createContact();
         }
@@ -27,6 +28,7 @@ public class ContactDeleteTest extends TestBase {
         app.getContactHelper().deleteContact();
         app.confirmAlert();
         int after = app.getContactHelper().getContactCount();
+        Thread.sleep(2000);
         Assert.assertEquals(after, before - 1);
     }
 }
