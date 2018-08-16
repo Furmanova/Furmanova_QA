@@ -13,7 +13,7 @@ public class ContactDeleteTest extends TestBase {
         int before = app.getContactHelper().getContactCount();
         app.getContactHelper().selectContactByIndex(before - 1); //last group
         app.getContactHelper().deleteContact();
-        app.confirmAlert();
+       // app.confirmAlert();
         int after = app.getContactHelper().getContactCount();
         Thread.sleep(2000);
         Assert.assertEquals(after, before - 1);
@@ -26,9 +26,9 @@ public class ContactDeleteTest extends TestBase {
         int before = app.getContactHelper().getContactCount();
         app.getContactHelper().selectContact();
         app.getContactHelper().deleteContact();
-        app.confirmAlert();
+        //app.confirmAlert();
         int after = app.getContactHelper().getContactCount();
-        Thread.sleep(2000);
+       Thread.sleep(2000);
         Assert.assertEquals(after, before - 1);
     }
 }
