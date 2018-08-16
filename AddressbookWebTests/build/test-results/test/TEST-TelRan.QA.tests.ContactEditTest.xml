@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TelRan.QA.tests.ContactEditTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-08-06T17:27:08" hostname="alx-nb" time="14.062">
+<testsuite name="TelRan.QA.tests.ContactEditTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-08-16T06:42:42" hostname="alx-nb" time="4.32">
   <properties/>
-  <testcase name="contactEditTest" classname="TelRan.QA.tests.ContactEditTest" time="14.062"/>
+  <testcase name="contactEditTest" classname="TelRan.QA.tests.ContactEditTest" time="4.32"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

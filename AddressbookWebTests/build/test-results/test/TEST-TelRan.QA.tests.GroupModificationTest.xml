@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TelRan.QA.tests.GroupModificationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-08-06T17:26:31" hostname="alx-nb" time="1.905">
+<testsuite name="TelRan.QA.tests.GroupModificationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-08-16T06:42:13" hostname="alx-nb" time="1.918">
   <properties/>
-  <testcase name="testGroupModification" classname="TelRan.QA.tests.GroupModificationTest" time="1.905"/>
+  <testcase name="testGroupModification" classname="TelRan.QA.tests.GroupModificationTest" time="1.918"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
