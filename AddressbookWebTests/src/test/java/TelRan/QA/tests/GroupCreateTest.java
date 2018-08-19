@@ -13,7 +13,7 @@ public class GroupCreateTest extends TestBase {
     public void testCreateGroupTest() throws InterruptedException {
         app.getGroupHelper().goToGroupsPage();
         int before = app.getGroupHelper().getGroupsCount();
-        List<GroupData> groupsListBrfore=app.getGroupHelper().getGroupsList();
+        List<GroupData> groupsListBefore=app.getGroupHelper().getGroupsList();
         app.getGroupHelper().initGroupCreation();
         app.getGroupHelper().fillGroupsForm(
                 new GroupData()
@@ -24,7 +24,7 @@ public class GroupCreateTest extends TestBase {
         app.getGroupHelper().returnToTheGroupsPage();
         int after = app.getGroupHelper().getGroupsCount();
         List<GroupData> groupsListAfter=app.getGroupHelper().getGroupsList();
-        Assert.assertEquals(groupsListBrfore.size(),groupsListAfter.size()-1);
+        Assert.assertEquals(groupsListAfter.size(),groupsListBefore.size(),+1);
         //Assert.assertEquals(after, before +1);
 
     }

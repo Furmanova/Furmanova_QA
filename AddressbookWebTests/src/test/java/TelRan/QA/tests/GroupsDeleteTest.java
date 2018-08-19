@@ -20,7 +20,6 @@ public class GroupsDeleteTest extends TestBase {
         app.getGroupHelper().groupDeletion();
         app.getGroupHelper().returnToTheGroupsPage();
         // int after = app.getGroupHelper().getGroupsCount();
-        Thread.sleep(2000);
 
         List<GroupData> groupsListAfter = app.getGroupHelper().getGroupsList();
         Assert.assertEquals(groupsListAfter.size(), groupsListBefore.size() - 1);

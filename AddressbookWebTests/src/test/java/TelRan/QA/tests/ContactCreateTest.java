@@ -4,22 +4,29 @@ import TelRan.QA.model.ContactData;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import java.util.List;
+
 public class ContactCreateTest extends TestBase {
     @Test
     public void testCreationContact() {
         app.getContactHelper().isOnContactPage();
         int before = app.getContactHelper().getContactCount();
+        List<ContactData> contactListBefore=app.getContactHelper().getContactList();
         app.getContactHelper().goToAddNewPage();
-        app.getContactHelper().fillContactsForm(new ContactData()
-                .withFirstName("Ivanov")
-                .withAddress("Prodolna 3-a")
-                .withEmail("furmano@gmail.com")
-                .withLastName("Peter")
-                .withEmail12("furmano@gmail.com")
-                .withMobile("0987654332"));
+        app.getContactHelper().fillContactsForm(
+                new ContactData()
+                .setFirstName("Ivanov")
+                .setAddress("Prodolna 3-a")
+                .setEmail("furmano@gmail.com")
+                .setLastName("Peter")
+                .setEmail12("furmano@gmail.com")
+                .setMobile("0987654332"));
         app.getContactHelper().submitContactCreationTest();
         int after = app.getContactHelper().getContactCount();
-       Assert.assertEquals(after, before + 1);
+
+        List<ContactData> contactListAfter=app.getContactHelper().getContactList();
+        Assert.assertEquals(contactListAfter.size(),contactListBefore.size(),+1);
+       //Assert.assertEquals(after, before + 1);
     }
 }
 

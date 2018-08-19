@@ -4,9 +4,9 @@ import java.util.Objects;
 
 public class GroupData {
     private int id;
-    public   String groupName;
-    private  String groupHeader;
-    private  String groupFooter;
+    private String groupName;
+    private String groupHeader;
+    private String groupFooter;
 
     public GroupData setGroupName(String groupName) {
         this.groupName = groupName;
