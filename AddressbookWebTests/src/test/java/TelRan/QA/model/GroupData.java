@@ -1,7 +1,10 @@
 package TelRan.QA.model;
 
+import java.util.Objects;
+
 public class GroupData {
-    private  String groupName;
+    private int id;
+    public   String groupName;
     private  String groupHeader;
     private  String groupFooter;
 
@@ -30,5 +33,36 @@ public class GroupData {
 
     public String getGroupFooter() {
         return groupFooter;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public GroupData setId(int id) {
+        this.id = id;
+        return this;
+    }
+
+    @Override
+    public String toString() {
+        return "Group{" +
+                "id=" + id +
+                ", groupName=" + groupName;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        GroupData groupData = (GroupData) o;
+        return id == groupData.id &&
+                Objects.equals(groupName, groupData.groupName);
+    }
+
+    @Override
+    public int hashCode() {
+
+        return Objects.hash(id, groupName);
     }
 }

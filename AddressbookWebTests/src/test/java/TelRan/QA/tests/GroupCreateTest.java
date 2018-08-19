@@ -4,13 +4,16 @@ import TelRan.QA.model.GroupData;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import java.util.List;
+
 public class GroupCreateTest extends TestBase {
 
 
     @Test
-    public void testCreateGroupTest() {
+    public void testCreateGroupTest() throws InterruptedException {
         app.getGroupHelper().goToGroupsPage();
         int before = app.getGroupHelper().getGroupsCount();
+        List<GroupData> groupsListBrfore=app.getGroupHelper().getGroupsList();
         app.getGroupHelper().initGroupCreation();
         app.getGroupHelper().fillGroupsForm(
                 new GroupData()
@@ -20,7 +23,9 @@ public class GroupCreateTest extends TestBase {
         app.getGroupHelper().submitGroupCreation();
         app.getGroupHelper().returnToTheGroupsPage();
         int after = app.getGroupHelper().getGroupsCount();
-        Assert.assertEquals(after, before +1);
+        List<GroupData> groupsListAfter=app.getGroupHelper().getGroupsList();
+        Assert.assertEquals(groupsListBrfore.size(),groupsListAfter.size()-1);
+        //Assert.assertEquals(after, before +1);
 
     }
 
