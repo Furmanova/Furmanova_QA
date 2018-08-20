@@ -90,7 +90,7 @@ public class ContactHelper extends HelperBase {
 
     public List<ContactData> getContactList() {
         List<ContactData> contacts = new ArrayList<>();
-        List<WebElement> elements = wd.findElements(By.cssSelector("span.group"));
+        List<WebElement> elements = wd.findElements(By.cssSelector("table"));
         for (WebElement element : elements) {
             String contactName = element.getText();
            int id = Integer.parseInt(element.findElement(By.tagName("input")).getAttribute("value"));

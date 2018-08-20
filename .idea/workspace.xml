@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55f1efe3-98b8-4e00-bb65-473500ae2737" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/appManadger/ContactHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/appManadger/ContactHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/ContactCreateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/ContactCreateTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/ContactDeleteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/ContactDeleteTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/GroupCreateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/GroupCreateTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/GroupModificationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/GroupModificationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/GroupsDeleteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/GroupsDeleteTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/GroupHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/GroupHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/ContactData.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/ContactData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/GroupData.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/GroupData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactEditTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactEditTest.java" afterDir="false" />
@@ -92,63 +96,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ContactData.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/ContactData.java">
+      <file leaf-file-name="GroupCreateTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupCreateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            <state relative-caret-position="206">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
-                <element signature="e#1259#1260#0" expanded="true" />
-                <element signature="e#1288#1289#0" expanded="true" />
-                <element signature="e#1333#1334#0" expanded="true" />
-                <element signature="e#1358#1359#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContactHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="46" column="50" lean-forward="true" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
-              <folding>
-                <element signature="e#748#749#0" expanded="true" />
-                <element signature="e#788#789#0" expanded="true" />
-                <element signature="e#915#916#0" expanded="true" />
-                <element signature="e#959#960#0" expanded="true" />
-                <element signature="e#1309#1310#0" expanded="true" />
-                <element signature="e#1362#1363#0" expanded="true" />
-                <element signature="e#2109#2110#0" expanded="true" />
-                <element signature="e#2171#2172#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContactEditTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactEditTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GroupModificationTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupModificationTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-216">
-              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContactCreateTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -156,8 +111,8 @@
       <file leaf-file-name="GroupData.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/GroupData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+            <state relative-caret-position="260">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
               <folding>
                 <element signature="e#798#799#0" expanded="true" />
                 <element signature="e#823#824#0" expanded="true" />
@@ -166,20 +121,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContactDeleteTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java">
+      <file leaf-file-name="ContactHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="513">
+              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GroupCreateTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupCreateTest.java">
+      <file leaf-file-name="ContactCreateTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="640">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -187,8 +145,8 @@
       <file leaf-file-name="GroupHelper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/GroupHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="65" column="41" lean-forward="true" selection-start-line="65" selection-start-column="41" selection-end-line="65" selection-end-column="41" />
+            <state relative-caret-position="1971">
+              <caret line="99" column="9" selection-start-line="99" selection-start-column="9" selection-end-line="99" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#311#312#0" expanded="true" />
@@ -206,6 +164,15 @@
                 <element signature="e#2317#2318#0" expanded="true" />
                 <element signature="e#2379#2380#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContactDeleteTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -2400,16 +2367,16 @@
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/build.gradle" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestBase.java" />
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/GroupData.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/GroupHelper.java" />
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupCreateTest.java" />
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java" />
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java" />
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupsDeleteTest.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/ContactData.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupModificationTest.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactEditTest.java" />
+        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupsDeleteTest.java" />
+        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java" />
+        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java" />
+        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/GroupData.java" />
+        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupCreateTest.java" />
       </list>
     </option>
   </component>
@@ -2419,7 +2386,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="479" />
     <option name="y" value="1" />
     <option name="width" value="1059" />
@@ -2433,8 +2400,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -2512,6 +2477,8 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2711,35 +2678,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="GroupsDeleteTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AddressbookWebTests_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TelRan.QA.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="TelRan.QA.tests" />
-      <option name="MAIN_CLASS_NAME" value="TelRan.QA.tests.GroupsDeleteTest" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -2765,18 +2703,16 @@
     <list>
       <item itemvalue="TestNG.ContactCreateTest" />
       <item itemvalue="TestNG.ContactDeleteTest" />
-      <item itemvalue="TestNG.GroupsDeleteTest" />
       <item itemvalue="TestNG.GroupCreateTest" />
       <item itemvalue="TestNG.GroupModificationTest" />
       <item itemvalue="TestNG.ContactEditTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.GroupModificationTest" />
+        <item itemvalue="TestNG.ContactDeleteTest" />
         <item itemvalue="TestNG.GroupCreateTest" />
         <item itemvalue="TestNG.ContactEditTest" />
-        <item itemvalue="TestNG.ContactDeleteTest" />
-        <item itemvalue="TestNG.GroupsDeleteTest" />
+        <item itemvalue="TestNG.GroupModificationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -2794,56 +2730,55 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ContactCreateTest - 2018.08.19 at 21h 04m 18s.xml">
+    <history-entry file="TelRan_QA_tests_in_AddressbookWebTests_test - 2018.08.20 at 11h 04m 32s.xml">
+      <configuration name="TelRan.QA.tests in AddressbookWebTests_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TelRan_QA_tests_in_AddressbookWebTests_test - 2018.08.20 at 11h 04m 59s.xml">
+      <configuration name="TelRan.QA.tests in AddressbookWebTests_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TelRan_QA_tests_in_AddressbookWebTests_test - 2018.08.20 at 11h 05m 27s.xml">
+      <configuration name="TelRan.QA.tests in AddressbookWebTests_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContactCreateTest - 2018.08.20 at 11h 06m 03s.xml">
       <configuration name="ContactCreateTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ContactCreateTest - 2018.08.19 at 21h 08m 29s.xml">
+    <history-entry file="ContactCreateTest - 2018.08.20 at 11h 06m 51s.xml">
       <configuration name="ContactCreateTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ContactCreateTest - 2018.08.19 at 21h 11m 15s.xml">
-      <configuration name="ContactCreateTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ContactCreateTest - 2018.08.19 at 21h 16m 20s.xml">
-      <configuration name="ContactCreateTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GroupModificationTest - 2018.08.19 at 21h 58m 47s.xml">
-      <configuration name="GroupModificationTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GroupModificationTest - 2018.08.19 at 21h 59m 39s.xml">
-      <configuration name="GroupModificationTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ContactEditTest - 2018.08.19 at 22h 01m 00s.xml">
-      <configuration name="ContactEditTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ContactEditTest - 2018.08.19 at 22h 03m 52s.xml">
-      <configuration name="ContactEditTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GroupCreateTest - 2018.08.19 at 22h 05m 52s.xml">
+    <history-entry file="GroupCreateTest - 2018.08.20 at 11h 45m 29s.xml">
       <configuration name="GroupCreateTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GroupModificationTest - 2018.08.19 at 22h 07m 08s.xml">
-      <configuration name="GroupModificationTest" configurationId="TestNG" />
+    <history-entry file="ContactCreateTest - 2018.08.20 at 11h 48m 42s.xml">
+      <configuration name="ContactCreateTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ContactDeleteTest - 2018.08.20 at 11h 56m 50s.xml">
+      <configuration name="ContactDeleteTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ContactCreateTest - 2018.08.20 at 11h 57m 49s.xml">
+      <configuration name="ContactCreateTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ContactCreateTest - 2018.08.20 at 11h 58m 24s.xml">
+      <configuration name="ContactCreateTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32885906" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.4981884" weight="0.32969153" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27651006" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27651006" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.28084832" />
-      <window_info anchor="bottom" id="Build" order="10" weight="0.32885906" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.28856042" />
+      <window_info anchor="bottom" id="Build" order="10" visible="true" weight="0.32885906" />
       <window_info anchor="right" id="Gradle" order="5" sideWeight="0.4981884" weight="0.32969153" />
       <window_info id="Structure" order="1" sideWeight="0.502" side_tool="true" weight="0.17609255" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4981884" weight="0.25" />
@@ -2858,31 +2793,32 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32885906" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4981884" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5018116" side_tool="true" weight="0.32969153" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Gradle" order="5" sideWeight="0.4981884" weight="0.32969153" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.24742931" />
       <window_info id="Structure" order="1" sideWeight="0.502" side_tool="true" weight="0.17609255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4981884" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39912918" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5018116" side_tool="true" weight="0.32969153" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32885906" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -3061,16 +2997,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.14.3/bfd2538501a129a142fe8366169c48b91609dc0b/testng-6.14.3-sources.jar!/org/testng/Assert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="775" selection-start-line="775" selection-end-line="775" />
         </state>
       </provider>
     </entry>
@@ -3088,13 +3014,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ApplicationManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -3109,72 +3028,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java">
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="108">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupsDeleteTest.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.14.3/bfd2538501a129a142fe8366169c48b91609dc0b/testng-6.14.3-sources.jar!/org/testng/Assert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/GroupData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-          <folding>
-            <element signature="e#798#799#0" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/ContactData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-          <folding>
-            <element signature="e#1259#1260#0" expanded="true" />
-            <element signature="e#1288#1289#0" expanded="true" />
-            <element signature="e#1333#1334#0" expanded="true" />
-            <element signature="e#1358#1359#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="46" column="50" lean-forward="true" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
-          <folding>
-            <element signature="e#748#749#0" expanded="true" />
-            <element signature="e#788#789#0" expanded="true" />
-            <element signature="e#915#916#0" expanded="true" />
-            <element signature="e#959#960#0" expanded="true" />
-            <element signature="e#1309#1310#0" expanded="true" />
-            <element signature="e#1362#1363#0" expanded="true" />
-            <element signature="e#2109#2110#0" expanded="true" />
-            <element signature="e#2171#2172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactEditTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="-2286">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/GroupHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="65" column="41" lean-forward="true" selection-start-line="65" selection-start-column="41" selection-end-line="65" selection-end-column="41" />
+        <state relative-caret-position="1971">
+          <caret line="99" column="9" selection-start-line="99" selection-start-column="9" selection-end-line="99" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#311#312#0" expanded="true" />
@@ -3195,24 +3066,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupCreateTest.java">
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/ContactData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        <state>
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactEditTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupsDeleteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="44" column="33" lean-forward="true" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupModificationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216">
-          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        <state relative-caret-position="594">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="640">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/GroupData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupCreateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -13,17 +13,17 @@ public class ContactDeleteTest extends TestBase {
         if (!app.getContactHelper().isContactPresent()) {
             app.getContactHelper().createContact();
         }
-        int before = app.getContactHelper().getContactCount();
-        List<ContactData> contactListBefore=app.getContactHelper().getContactList();
-        app.getContactHelper().selectContactByIndex(before - 1); //last group
+
+        List<ContactData> before=app.getContactHelper().getContactList();
+       // app.getContactHelper().selectContactByIndex(before - 1); //last group
         app.getContactHelper().deleteContact();
         app.confirmAlert();
-        Thread.sleep(2000);
-        int after = app.getContactHelper().getContactCount();
-        List<ContactData> contactListAfter=app.getContactHelper().getContactList();
-        Assert.assertEquals(contactListAfter.size(),contactListBefore.size(),+1);
 
-       // Assert.assertEquals(after, before - 1);
+
+        List<ContactData> after=app.getContactHelper().getContactList();
+        Assert.assertEquals(after.size(),before.size(),+1);
+
+
     }
 
     @Test
@@ -31,15 +31,14 @@ public class ContactDeleteTest extends TestBase {
         if (!app.getContactHelper().isContactPresent()) {
             app.getContactHelper().createContact();
         }
-        int before = app.getContactHelper().getContactCount();
-        List<ContactData> contactListBefore=app.getContactHelper().getContactList();
+
+        List<ContactData> before=app.getContactHelper().getContactList();
         app.getContactHelper().selectContact();
         app.getContactHelper().deleteContact();
         app.confirmAlert();
 
-        int after = app.getContactHelper().getContactCount();
-        List<ContactData> contactListAfter=app.getContactHelper().getContactList();
-        Assert.assertEquals(contactListAfter.size(),contactListBefore.size(),+1);
-       // Assert.assertEquals(after, before - 1);
+        List<ContactData> after=app.getContactHelper().getContactList();
+        Assert.assertEquals(after.size(),before.size(),+1);
+
     }
 }
