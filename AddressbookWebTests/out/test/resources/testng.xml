@@ -3,17 +3,17 @@
 <suite name="Suite1" verbose="1" >
     <test name="Groups" >
         <classes>
-            <class name="TelRan.QA.tests.GroupCreateTest" />
-            <class name="TelRan.QA.tests.GroupModificationTest" />
-            <class name="TelRan.QA.tests.GroupsDeleteTest" />
+            <class name="TelRan.GroupCreateTest" />
+            <class name="TelRan.GroupModificationTest" />
+            <class name="TelRan.GroupsDeleteTest" />
         </classes>
     </test>
 
     <test name="Contacts">
         <classes>
-           <class name="TelRan.QA.tests.ContactCreateTest"/>
-            <class name="TelRan.QA.tests.ContactDeleteTest" />
-            <class name="TelRan.QA.tests.ContactEditTest" />
+           <class name="TelRan.ContactCreateTest"/>
+            <class name="TelRan.ContactDeleteTest" />
+            <class name="TelRan.ContactEditTest" />
 
         </classes>
     </test>

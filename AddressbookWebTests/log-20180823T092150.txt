@@ -1,0 +1,4 @@
+09:21:55.605 [main] INFO  TelRan.QA.tests.TestBase - Start testfirstContactDeletionTest
+09:22:03.352 [main] INFO  TelRan.QA.tests.TestBase - Stop testfirstContactDeletionTest
+09:22:03.352 [main] INFO  TelRan.QA.tests.TestBase - Start testlastContactDeletionTest
+09:22:15.978 [main] INFO  TelRan.QA.tests.TestBase - Stop testlastContactDeletionTest

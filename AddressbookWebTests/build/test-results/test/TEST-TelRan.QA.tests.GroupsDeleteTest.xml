@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TelRan.QA.tests.GroupsDeleteTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-08-16T06:42:15" hostname="alx-nb" time="17.886">
+<testsuite name="TelRan.QA.tests.GroupsDeleteTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-08-21T12:18:54" hostname="alx-nb" time="7.158">
   <properties/>
-  <testcase name="testFirstDeleteGroup" classname="TelRan.QA.tests.GroupsDeleteTest" time="5.56"/>
-  <testcase name="testLastDeleteGroup" classname="TelRan.QA.tests.GroupsDeleteTest" time="12.323"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="testFirstDeleteGroup" classname="TelRan.QA.tests.GroupsDeleteTest" time="3.545"/>
+  <testcase name="testLastDeleteGroup" classname="TelRan.QA.tests.GroupsDeleteTest" time="3.611"/>
+  <system-out><![CDATA[15:18:54.849 [Test worker] INFO  TelRan.QA.tests.TestBase - Start testtestFirstDeleteGroup
+[Group{id=18, groupName=GroupName, Group{id=19, groupName=GroupName, Group{id=20, groupName=GroupName, Group{id=21, groupName=GroupName, Group{id=22, groupName=GroupName, Group{id=23, groupName=GroupName, Group{id=3, groupName=testGroupName, Group{id=6, groupName=testGroupName, Group{id=7, groupName=testGroupName, Group{id=10, groupName=testGroupName, Group{id=11, groupName=testGroupName, Group{id=14, groupName=testGroupName, Group{id=17, groupName=testGroupName]
+[Group{id=19, groupName=GroupName, Group{id=20, groupName=GroupName, Group{id=21, groupName=GroupName, Group{id=22, groupName=GroupName, Group{id=23, groupName=GroupName, Group{id=3, groupName=testGroupName, Group{id=6, groupName=testGroupName, Group{id=7, groupName=testGroupName, Group{id=10, groupName=testGroupName, Group{id=11, groupName=testGroupName, Group{id=14, groupName=testGroupName, Group{id=17, groupName=testGroupName]
+[Group{id=19, groupName=GroupName, Group{id=20, groupName=GroupName, Group{id=21, groupName=GroupName, Group{id=22, groupName=GroupName, Group{id=23, groupName=GroupName, Group{id=3, groupName=testGroupName, Group{id=6, groupName=testGroupName, Group{id=7, groupName=testGroupName, Group{id=10, groupName=testGroupName, Group{id=11, groupName=testGroupName, Group{id=14, groupName=testGroupName, Group{id=17, groupName=testGroupName]
+[Group{id=19, groupName=GroupName, Group{id=20, groupName=GroupName, Group{id=21, groupName=GroupName, Group{id=22, groupName=GroupName, Group{id=23, groupName=GroupName, Group{id=3, groupName=testGroupName, Group{id=6, groupName=testGroupName, Group{id=7, groupName=testGroupName, Group{id=10, groupName=testGroupName, Group{id=11, groupName=testGroupName, Group{id=14, groupName=testGroupName]
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

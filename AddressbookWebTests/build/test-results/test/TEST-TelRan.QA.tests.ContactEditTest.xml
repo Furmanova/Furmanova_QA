@@ -1,7 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TelRan.QA.tests.ContactEditTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-08-16T06:42:42" hostname="alx-nb" time="4.32">
+<testsuite name="TelRan.QA.tests.ContactEditTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-08-21T12:19:15" hostname="alx-nb" time="4.237">
   <properties/>
-  <testcase name="contactEditTest" classname="TelRan.QA.tests.ContactEditTest" time="4.32"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="contactEditTest" classname="TelRan.QA.tests.ContactEditTest" time="4.237"/>
+  <system-out><![CDATA[15:19:15.475 [Test worker] INFO  TelRan.QA.tests.TestBase - Start testcontactEditTest
+[ContactData{id=110, firstName='Last name First name Address All e-mail All phones
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter1 Ivanov1 Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter1 Ivanov1 Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter1 Ivanov1 Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332'}]
+[ContactData{id=111, firstName='Last name First name Address All e-mail All phones
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter Ivanov Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter1 Ivanov1 Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter1 Ivanov1 Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter1 Ivanov1 Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332
+Peter1 Ivanov1 Prodolna 3-a furmano@gmail.com
+furmano@gmail.com 0987654332'}]
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

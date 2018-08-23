@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TelRan.QA.tests.GroupModificationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-08-16T06:42:13" hostname="alx-nb" time="1.918">
+<testsuite name="TelRan.QA.tests.GroupModificationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-08-21T12:18:50" hostname="alx-nb" time="4.13">
   <properties/>
-  <testcase name="testGroupModification" classname="TelRan.QA.tests.GroupModificationTest" time="1.918"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="testGroupModification" classname="TelRan.QA.tests.GroupModificationTest" time="4.13"/>
+  <system-out><![CDATA[15:18:50.717 [Test worker] INFO  TelRan.QA.tests.TestBase - Start testtestGroupModification
+[Group{id=17, groupName=GroupName, Group{id=18, groupName=GroupName, Group{id=19, groupName=GroupName, Group{id=20, groupName=GroupName, Group{id=21, groupName=GroupName, Group{id=22, groupName=GroupName, Group{id=23, groupName=GroupName, Group{id=3, groupName=testGroupName, Group{id=6, groupName=testGroupName, Group{id=7, groupName=testGroupName, Group{id=10, groupName=testGroupName, Group{id=11, groupName=testGroupName, Group{id=14, groupName=testGroupName]
+[Group{id=18, groupName=GroupName, Group{id=19, groupName=GroupName, Group{id=20, groupName=GroupName, Group{id=21, groupName=GroupName, Group{id=22, groupName=GroupName, Group{id=23, groupName=GroupName, Group{id=3, groupName=testGroupName, Group{id=6, groupName=testGroupName, Group{id=7, groupName=testGroupName, Group{id=10, groupName=testGroupName, Group{id=11, groupName=testGroupName, Group{id=14, groupName=testGroupName, Group{id=17, groupName=testGroupName]
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

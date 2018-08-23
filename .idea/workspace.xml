@@ -2,20 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55f1efe3-98b8-4e00-bb65-473500ae2737" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_hynnet_logback_classic_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_hynnet_logback_core_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_api_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_chrome_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_edge_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_firefox_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_java_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_opera_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_remote_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_safari_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_support_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Autoauction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Autoauction_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Autoauction_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/ApplicationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/GroupHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/HelperBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/SessionHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/model/GroupData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/OpenSiteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/AddressbookWebTests_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/AddressbookWebTests_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/AddressbookWebTests_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/AddressbookWebTests_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/appManadger/ContactHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/appManadger/ContactHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/appManadger/GroupHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/appManadger/GroupHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/model/ContactData.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/model/ContactData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/model/GroupData.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/model/GroupData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/tests/ContactCreateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/tests/ContactCreateTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/tests/ContactDeleteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/tests/ContactDeleteTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/tests/ContactEditTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/tests/ContactEditTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/tests/GroupCreateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/tests/GroupCreateTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/tests/GroupModificationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/tests/GroupModificationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/tests/GroupsDeleteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/tests/GroupsDeleteTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/classes/java/test/TelRan/QA/tests/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.ContactCreateTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.ContactCreateTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.ContactDeleteTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.ContactDeleteTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.ContactEditTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.ContactEditTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.GroupCreateTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.GroupCreateTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.GroupModificationTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.GroupModificationTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.GroupsDeleteTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/classes/TelRan.QA.tests.GroupsDeleteTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/packages/TelRan.QA.tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/reports/tests/test/packages/TelRan.QA.tests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.ContactCreateTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.ContactCreateTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.ContactDeleteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.ContactDeleteTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.ContactEditTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.ContactEditTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.GroupCreateTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.GroupCreateTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.GroupModificationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.GroupModificationTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.GroupsDeleteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/TEST-TelRan.QA.tests.GroupsDeleteTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/appManadger/ContactHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/appManadger/ContactHelper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/ContactCreateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/ContactCreateTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/ContactDeleteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/ContactDeleteTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/GroupCreateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/GroupCreateTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/GroupModificationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/GroupModificationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/GroupsDeleteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/GroupsDeleteTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/resources/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/GroupHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/GroupHelper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactEditTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactEditTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupCreateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupCreateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupModificationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupModificationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupsDeleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupsDeleteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/resources/testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/selenium-tests/.gradle/" />
     <ignored path="$PROJECT_DIR$/selenium-tests/build/" />
@@ -41,6 +104,9 @@
     <ignored path="$PROJECT_DIR$/AddressbookWebTests/.gradle/" />
     <ignored path="$PROJECT_DIR$/AddressbookWebTests/build/" />
     <ignored path="$PROJECT_DIR$/AddressbookWebTests/out/" />
+    <ignored path="$PROJECT_DIR$/Autoauction/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Autoauction/build/" />
+    <ignored path="$PROJECT_DIR$/Autoauction/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +124,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/AddressbookWebTests">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Autoauction">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/EbayRegistration">
@@ -96,73 +165,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GroupCreateTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupCreateTest.java">
+      <file leaf-file-name="GroupModificationTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupModificationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="405">
+              <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GroupData.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/GroupData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="67" selection-start-line="67" selection-end-line="67" />
-              <folding>
-                <element signature="e#798#799#0" expanded="true" />
-                <element signature="e#823#824#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContactHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContactCreateTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ContactCreateTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            <state relative-caret-position="756">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GroupHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/GroupHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1971">
-              <caret line="99" column="9" selection-start-line="99" selection-start-column="9" selection-end-line="99" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
-                <element signature="e#1168#1169#0" expanded="true" />
-                <element signature="e#1206#1207#0" expanded="true" />
-                <element signature="e#1324#1325#0" expanded="true" />
-                <element signature="e#1368#1369#0" expanded="true" />
-                <element signature="e#1415#1416#0" expanded="true" />
-                <element signature="e#1486#1487#0" expanded="true" />
-                <element signature="e#1521#1522#0" expanded="true" />
-                <element signature="e#1561#1562#0" expanded="true" />
-                <element signature="e#1830#1831#0" expanded="true" />
-                <element signature="e#1898#1899#0" expanded="true" />
-                <element signature="e#2317#2318#0" expanded="true" />
-                <element signature="e#2379#2380#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -171,8 +189,8 @@
       <file leaf-file-name="ContactDeleteTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="127">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -194,6 +212,7 @@
       <map>
         <entry key="$PROJECT_DIR$/Addressbook-web-tests" value="C:\Users\alx\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
         <entry key="$PROJECT_DIR$/AddressbookWebTests" value="C:\Users\alx\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
+        <entry key="$PROJECT_DIR$/Autoauction" value="C:\Users\alx\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
         <entry key="$PROJECT_DIR$/EbayRegistration" value="C:\Users\alx\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
         <entry key="$PROJECT_DIR$/EbayTest" value="C:\Users\alx\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
         <entry key="$PROJECT_DIR$/FirstProject" value="C:\Users\alx\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
@@ -206,6 +225,7 @@
       <map>
         <entry key="$PROJECT_DIR$/Addressbook-web-tests" value="4.4" />
         <entry key="$PROJECT_DIR$/AddressbookWebTests" value="4.4" />
+        <entry key="$PROJECT_DIR$/Autoauction" value="4.4" />
         <entry key="$PROJECT_DIR$/EbayRegistration" value="4.4" />
         <entry key="$PROJECT_DIR$/EbayTest" value="4.4" />
         <entry key="$PROJECT_DIR$/FirstProject" value="4.4" />
@@ -244,6 +264,22 @@
               <ExternalProjectPojo>
                 <option name="name" value="AddressbookWebTests" />
                 <option name="path" value="$PROJECT_DIR$/AddressbookWebTests" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Autoauction" />
+              <option name="path" value="$PROJECT_DIR$/Autoauction" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="Autoauction" />
+                <option name="path" value="$PROJECT_DIR$/Autoauction" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -625,6 +661,147 @@
               <ExternalTaskPojo>
                 <option name="description" value="Displays the properties of root project 'AddressbookWebTests'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/AddressbookWebTests" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Autoauction">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'Autoauction'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'Autoauction'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'Autoauction'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'Autoauction'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'Autoauction'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'Autoauction'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'Autoauction'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'Autoauction'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'Autoauction'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
             </list>
@@ -1485,11 +1662,15 @@
         <entry key="$PROJECT_DIR$/Addressbook-web-tests/build.gradle" value="2701781659" />
         <entry key="$PROJECT_DIR$/Addressbook-web-tests/gradle/wrapper/gradle-wrapper.properties" value="1741342742" />
         <entry key="$PROJECT_DIR$/Addressbook-web-tests/settings.gradle" value="4006488045" />
-        <entry key="$PROJECT_DIR$/AddressbookWebTests" value="6130080566485" />
+        <entry key="$PROJECT_DIR$/AddressbookWebTests" value="6130519664062" />
         <entry key="$PROJECT_DIR$/AddressbookWebTests/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/AddressbookWebTests/build.gradle" value="276055348" />
+        <entry key="$PROJECT_DIR$/AddressbookWebTests/build.gradle" value="3841140269" />
         <entry key="$PROJECT_DIR$/AddressbookWebTests/gradle/wrapper/gradle-wrapper.properties" value="1741342742" />
         <entry key="$PROJECT_DIR$/AddressbookWebTests/settings.gradle" value="3473649016" />
+        <entry key="$PROJECT_DIR$/Autoauction" value="4604563151403" />
+        <entry key="$PROJECT_DIR$/Autoauction/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/Autoauction/build.gradle" value="3807191821" />
+        <entry key="$PROJECT_DIR$/Autoauction/settings.gradle" value="2593242625" />
         <entry key="$PROJECT_DIR$/EbayRegistration" value="0" />
         <entry key="$PROJECT_DIR$/EbayRegistration/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/EbayRegistration/build.gradle" value="3467878654" />
@@ -1715,6 +1896,30 @@
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/ivy-2.2.0.jar" />
                   <option value="$PROJECT_DIR$/AddressbookWebTests/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/AddressbookWebTests/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Autoauction">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/Autoauction">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/Autoauction" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="Autoauction" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$PROJECT_DIR$/Autoauction/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/Autoauction/buildSrc/src/main/groovy" />
                 </list>
               </option>
             </ExternalProjectBuildClasspathPojo>
@@ -2314,6 +2519,7 @@
       <map>
         <entry key="$PROJECT_DIR$/Addressbook-web-tests" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/AddressbookWebTests" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/Autoauction" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/EbayRegistration" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/EbayTest" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/FirstProject" value="RE_IMPORT" />
@@ -2326,12 +2532,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/GroupData.java" />
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/CreateContactTest.java" />
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/CreateDeleteContactTest.java" />
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/ContactEdit.java" />
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/CreateModificationGroupTest.java" />
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/CreateGroupTest.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/CreateDeleteGroupsTest.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/GroupCreateTest.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRanContact/ContactEditTest.java" />
@@ -2365,18 +2565,24 @@
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/resources/testng.xml" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestLogin.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ApplicationManager.java" />
-        <option value="$PROJECT_DIR$/AddressbookWebTests/build.gradle" />
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestBase.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/GroupHelper.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/ContactData.java" />
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupModificationTest.java" />
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactEditTest.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupsDeleteTest.java" />
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java" />
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/GroupData.java" />
+        <option value="$PROJECT_DIR$/AddressbookWebTests/build.gradle" />
+        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestBase.java" />
+        <option value="$PROJECT_DIR$/Autoauction/build.gradle" />
+        <option value="$PROJECT_DIR$/Autoauction/src/test/java/QA/tests/ContactCreateTest.java" />
+        <option value="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/ContactCreateTest.java" />
+        <option value="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/OpenSiteTest.java" />
+        <option value="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/ApplicationManager.java" />
+        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java" />
+        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java" />
+        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupModificationTest.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupCreateTest.java" />
+        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java" />
       </list>
     </option>
   </component>
@@ -2386,11 +2592,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="479" />
-    <option name="y" value="1" />
-    <option name="width" value="1059" />
-    <option name="height" value="620" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="379" />
+    <option name="y" value="173" />
+    <option name="width" value="1072" />
+    <option name="height" value="543" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -2400,6 +2606,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -2454,15 +2663,6 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="QA" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AddressbookWebTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="QA" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -2472,13 +2672,67 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autoauction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autoauction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autoauction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autoauction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autoauction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="QA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autoauction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="QA" type="462c0819:PsiDirectoryNode" />
+              <item name="appManadger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autoauction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="QA" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autoauction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="QA" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2489,16 +2743,19 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\alx\Documents\GitHub\Furmanova_QA16\AddressbookWebTests\src\test\resources" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="TelRan" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alx\Documents\GitHub\Furmanova_QA16\Autoauction\src\test\java" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="TelRan.QA" />
       <recent name="com.TelRan.QA" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alx\Documents\GitHub\Furmanova_QA16\AddressbookWebTests\src\test\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -2513,7 +2770,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ContactCreateTest">
+  <component name="RunManager" selected="TestNG.ContactDeleteTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -2678,6 +2935,35 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="GroupsDeleteTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AddressbookWebTests_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TelRan.QA.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="TelRan.QA.tests" />
+      <option name="MAIN_CLASS_NAME" value="TelRan.QA.tests.GroupsDeleteTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -2702,17 +2988,19 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.ContactCreateTest" />
-      <item itemvalue="TestNG.ContactDeleteTest" />
       <item itemvalue="TestNG.GroupCreateTest" />
       <item itemvalue="TestNG.GroupModificationTest" />
+      <item itemvalue="TestNG.GroupsDeleteTest" />
       <item itemvalue="TestNG.ContactEditTest" />
+      <item itemvalue="TestNG.ContactDeleteTest" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.ContactDeleteTest" />
-        <item itemvalue="TestNG.GroupCreateTest" />
         <item itemvalue="TestNG.ContactEditTest" />
+        <item itemvalue="TestNG.GroupsDeleteTest" />
         <item itemvalue="TestNG.GroupModificationTest" />
+        <item itemvalue="TestNG.GroupCreateTest" />
       </list>
     </recent_temporary>
   </component>
@@ -2730,62 +3018,63 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TelRan_QA_tests_in_AddressbookWebTests_test - 2018.08.20 at 11h 04m 32s.xml">
-      <configuration name="TelRan.QA.tests in AddressbookWebTests_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TelRan_QA_tests_in_AddressbookWebTests_test - 2018.08.20 at 11h 04m 59s.xml">
-      <configuration name="TelRan.QA.tests in AddressbookWebTests_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TelRan_QA_tests_in_AddressbookWebTests_test - 2018.08.20 at 11h 05m 27s.xml">
-      <configuration name="TelRan.QA.tests in AddressbookWebTests_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ContactCreateTest - 2018.08.20 at 11h 06m 03s.xml">
-      <configuration name="ContactCreateTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ContactCreateTest - 2018.08.20 at 11h 06m 51s.xml">
-      <configuration name="ContactCreateTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GroupCreateTest - 2018.08.20 at 11h 45m 29s.xml">
+    <history-entry file="GroupCreateTest - 2018.08.23 at 09h 10m 02s.xml">
       <configuration name="GroupCreateTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ContactCreateTest - 2018.08.20 at 11h 48m 42s.xml">
+    <history-entry file="GroupCreateTest_testCreateGroupTest - 2018.08.23 at 09h 11m 50s.xml">
+      <configuration name="GroupCreateTest.testCreateGroupTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupCreateTest - 2018.08.23 at 09h 12m 53s.xml">
+      <configuration name="GroupCreateTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupCreateTest - 2018.08.23 at 09h 16m 27s.xml">
+      <configuration name="GroupCreateTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupModificationTest - 2018.08.23 at 09h 16m 56s.xml">
+      <configuration name="GroupModificationTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupsDeleteTest - 2018.08.23 at 09h 17m 45s.xml">
+      <configuration name="GroupsDeleteTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ContactCreateTest - 2018.08.23 at 09h 19m 24s.xml">
       <configuration name="ContactCreateTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ContactDeleteTest - 2018.08.20 at 11h 56m 50s.xml">
+    <history-entry file="ContactEditTest - 2018.08.23 at 09h 20m 39s.xml">
+      <configuration name="ContactEditTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ContactDeleteTest - 2018.08.23 at 09h 21m 33s.xml">
       <configuration name="ContactDeleteTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ContactCreateTest - 2018.08.20 at 11h 57m 49s.xml">
-      <configuration name="ContactCreateTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ContactCreateTest - 2018.08.20 at 11h 58m 24s.xml">
-      <configuration name="ContactCreateTest" configurationId="TestNG" />
+    <history-entry file="ContactDeleteTest - 2018.08.23 at 09h 22m 16s.xml">
+      <configuration name="ContactDeleteTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32885906" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.4981884" weight="0.32969153" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27651006" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41744965" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.28856042" />
-      <window_info anchor="bottom" id="Build" order="10" visible="true" weight="0.32885906" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.496" visible="true" weight="0.15745501" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.08859061" />
       <window_info anchor="right" id="Gradle" order="5" sideWeight="0.4981884" weight="0.32969153" />
-      <window_info id="Structure" order="1" sideWeight="0.502" side_tool="true" weight="0.17609255" />
+      <window_info id="Structure" order="1" sideWeight="0.504" side_tool="true" weight="0.15231362" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4981884" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39912918" />
-      <window_info id="Favorites" order="5" sideWeight="0.502" side_tool="true" weight="0.17609255" />
+      <window_info id="Favorites" order="5" sideWeight="0.504" side_tool="true" weight="0.15231362" />
       <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5018116" side_tool="true" weight="0.32969153" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -2793,32 +3082,31 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32885906" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5018116" side_tool="true" weight="0.32969153" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4981884" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Gradle" order="5" sideWeight="0.4981884" weight="0.32969153" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.24742931" />
       <window_info id="Structure" order="1" sideWeight="0.502" side_tool="true" weight="0.17609255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4981884" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39912918" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5018116" side_tool="true" weight="0.32969153" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32885906" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -2845,86 +3133,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/test/java/OpenOkMusik.java" />
-    <entry file="file://$PROJECT_DIR$/second_web_selenium_rekorder/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EbayRegistration/src/main/java/EbayRegistration.java" />
-    <entry file="file://$PROJECT_DIR$/LoginPassword/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="15" column="38" selection-start-line="13" selection-start-column="4" selection-end-line="15" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/second_web_selenium_rekorder/src/main/java/Trello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-189">
-          <caret line="14" column="68" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EbayRegistration/src/test/java/EbayRegistration.java" />
-    <entry file="file://$PROJECT_DIR$/EbayRegistration/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/FirstProject/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="38" selection-start-line="14" selection-start-column="3" selection-end-line="16" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/test/java/OpenGoogleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LoginPassword/src/test/java/InputLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="41" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/second_web_selenium_rekorder/src/test/java/Trello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EbayTest/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="16" column="38" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="16" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/GroupCreationTest.java" />
-    <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/DeleteGroupsTest.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.14.3/bfd2538501a129a142fe8366169c48b91609dc0b/testng-6.14.3-sources.jar!/org/testng/SuiteRunnerWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/BeforeClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="37" lean-forward="true" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/GroupCommonTest.java" />
-    <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/CreateGroupTests.java" />
-    <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/CreateGroupTest.java" />
     <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/DeleteGroupTest.java" />
     <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/EditGroupTest.java" />
     <entry file="file://$PROJECT_DIR$/Addressbook-web-tests/src/test/java/com/TelRan/QA/TestSuite.java" />
@@ -3000,13 +3208,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/resources/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
@@ -3028,13 +3229,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.14.3/bfd2538501a129a142fe8366169c48b91609dc0b/testng-6.14.3-sources.jar!/org/testng/Assert.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2286">
@@ -3042,10 +3236,128 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/ContactData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/GroupData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/log-20180821T143700.txt" />
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/log-20180821T145548.txt" />
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/testFile.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/log-20180821T151835.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding>
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" selection-start-line="14" selection-start-column="1" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoauction/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/model/ContactData.java" />
+    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/GroupsDeleteTest.java" />
+    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/ContactCreateTest.java" />
+    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/ContactDeleteTest.java" />
+    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/GroupHelper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/SessionHelper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/HelperBase.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/ContactHelper.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.14.0/8c0af6fdccdc89a4394de7e3a8817ed2d6e41d7d/selenium-api-3.14.0-sources.jar!/org/openqa/selenium/WebElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="151" column="9" selection-start-line="151" selection-start-column="9" selection-end-line="151" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/model/GroupData.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/ApplicationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestLogin.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="99" column="55" selection-start-line="99" selection-start-column="55" selection-end-line="99" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/OpenSiteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/GroupHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1971">
-          <caret line="99" column="9" selection-start-line="99" selection-start-column="9" selection-end-line="99" selection-end-column="9" />
+        <state relative-caret-position="433">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#311#312#0" expanded="true" />
@@ -3066,73 +3378,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/ContactData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactEditTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupsDeleteTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
+        <state relative-caret-position="1080">
           <caret line="44" column="33" lean-forward="true" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupModificationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        <state relative-caret-position="405">
+          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java">
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactEditTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        <state relative-caret-position="410">
+          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/GroupData.java">
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
-          <folding>
-            <element signature="e#798#799#0" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="127">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupCreateTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="405">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

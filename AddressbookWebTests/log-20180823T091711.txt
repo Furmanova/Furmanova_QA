@@ -1,0 +1,4 @@
+09:17:16.781 [main] INFO  TelRan.QA.tests.TestBase - Start testtestFirstDeleteGroup
+09:17:29.414 [main] INFO  TelRan.QA.tests.TestBase - Stop testtestFirstDeleteGroup
+09:17:29.414 [main] INFO  TelRan.QA.tests.TestBase - Start testtestLastDeleteGroup
+09:17:44.910 [main] INFO  TelRan.QA.tests.TestBase - Stop testtestLastDeleteGroup

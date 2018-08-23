@@ -1,0 +1,2 @@
+09:12:42.288 [main] INFO  TelRan.QA.tests.TestBase - Start testtestCreateGroupTest
+09:12:52.728 [main] INFO  TelRan.QA.tests.TestBase - Stop testtestCreateGroupTest

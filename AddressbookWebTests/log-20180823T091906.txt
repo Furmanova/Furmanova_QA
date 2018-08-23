@@ -1,0 +1,2 @@
+09:19:12.017 [main] INFO  TelRan.QA.tests.TestBase - Start testtestCreationContact
+09:19:23.058 [main] INFO  TelRan.QA.tests.TestBase - Stop testtestCreationContact
