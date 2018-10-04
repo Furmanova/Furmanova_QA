@@ -4,6 +4,7 @@ import TelRan.QA.model.ContactData;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.Select;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -21,6 +22,11 @@ public class ContactHelper extends HelperBase {
         type(By.name("email"), contactData.getEmail());
         type(By.name("email2"), contactData.getEmail12());
         type(By.name("mobile"), contactData.getMobile());
+        attach(By.name("photo"),contactData.getPhoto());
+
+        new Select(wd.findElement(By.name("new_group"))) //выпадающий список начинаем с new
+                .selectByVisibleText(contactData.getGroup()); //выбор группы
+
     }
 
     public void submitContactCreationTest() {
@@ -93,17 +99,13 @@ public class ContactHelper extends HelperBase {
         List<WebElement> rows = wd.findElements(By.name("entry"));
         for (WebElement row : rows) {
             List<WebElement> cells = row.findElements(By.tagName("td"));
-            for (WebElement cell : cells) {
-                int id = Integer.parseInt(cells.get(0).findElement(By.name("selected[]")).getAttribute("value"));
-                String lastName = cells.get(1).getText();
-                String firstName = cells.get(2).getText();
-                contacts.add(new ContactData().setId(id).setLastName(lastName).setFirstName(firstName));
-            }
-
+            int id = Integer.parseInt(cells.get(0).findElement(By.name("selected[]")).getAttribute("value"));
+            String lastName = cells.get(1).getText();
+            String firstName = cells.get(2).getText();
+            contacts.add(new ContactData().setId(id).setLastName(lastName).setFirstName(firstName));
         }
         System.out.println(contacts);
         return contacts;
     }
-
 }
 

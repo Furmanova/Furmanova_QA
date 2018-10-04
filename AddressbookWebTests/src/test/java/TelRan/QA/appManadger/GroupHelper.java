@@ -63,9 +63,9 @@ public class GroupHelper extends HelperBase {
     }
 
     public void fillGroupModification(GroupData group) {
-        type(By.name("group_name"), "testGroupName");
-        type(By.name("group_header"), "testGroupHeader");
-        type(By.name("group_footer"), "restGroupFooter");
+        type(By.name("group_name"),group.getGroupName());
+        type(By.name("group_header"), group.getGroupHeader());
+        type(By.name("group_footer"), group.getGroupHeader());
     }
 
     public int getGroupsCount() {

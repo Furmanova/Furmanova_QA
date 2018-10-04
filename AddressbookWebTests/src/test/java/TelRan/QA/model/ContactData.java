@@ -1,5 +1,6 @@
 package TelRan.QA.model;
 
+import java.io.File;
 import java.util.Objects;
 
 public class ContactData {
@@ -10,6 +11,8 @@ public class ContactData {
     private String email;
     private String email12;
     private String mobile;
+    private File photo;
+    private String group;
 
     @Override
     public String toString() {
@@ -17,6 +20,24 @@ public class ContactData {
                 "id=" + id +
                 ", firstName='" + firstName + '\'' +
                 '}';
+    }
+
+    public String getGroup() {
+        return group;
+    }
+
+    public ContactData setGroup(String group) {
+        this.group = group;
+        return this;
+    }
+
+    public File getPhoto() {
+        return photo;
+    }
+
+    public ContactData setPhoto(File photo) {
+        this.photo = photo;
+        return this;
     }
 
     public ContactData setLastName(String lastName) { //set

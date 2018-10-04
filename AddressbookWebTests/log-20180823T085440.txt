@@ -1,2 +1,0 @@
-08:54:45.708 [main] INFO  TelRan.QA.tests.TestBase - Start testlastContactDeletionTest
-08:55:00.477 [main] INFO  TelRan.QA.tests.TestBase - Stop testlastContactDeletionTest

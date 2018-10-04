@@ -1,2 +1,0 @@
-21:10:18.858 [main] INFO  TelRan.QA.tests.TestBase - Start testtestCreationContact
-21:10:36.292 [main] INFO  TelRan.QA.tests.TestBase - Stop testtestCreationContact

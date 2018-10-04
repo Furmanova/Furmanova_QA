@@ -12,6 +12,7 @@ public class TestLogin extends TestBase {
         app.getSessionHelper().logaut();
     }
 
+
     @Test
     public void loginTest() {
         app.getSessionHelper().login("admin", "secret");

@@ -1,34 +1,26 @@
 package TelRan.QA.tests;
 
+
 import org.openqa.selenium.By;
-import org.testng.Assert;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
+import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
 public class TestLogin extends TestBase {
-    @BeforeMethod
-    public void userPrecondition() {
-        app.getSessionHelper().logaut();
-    }
+
+    private WebDriver driver;
+
 
     @Test
-    public void loginTest() {
-        app.getSessionHelper().login("admin", "secret");
+    public void loginTest() throws InterruptedException {
+        app.getSessionHelper().clickToRegister();
+        app.getSessionHelper().login("ddf@mail.ru", "secret12");
+        /*driver.findElement(By.id("user_email-56")).click();
+        driver.findElement(By.id("user_email-56")).clear();
+        driver.findElement(By.id("user_email-56")).sendKeys("adad@sdsfd.com");
+        driver.findElement(By.id("user_pass-56")).click();
+        driver.findElement(By.id("user_pass-56")).clear();
+        driver.findElement(By.id("user_pass-56")).sendKeys("milihfc");*/
 
-        Assert.assertTrue(app.getSessionHelper().isElementPresent(By.xpath("//a[contains(text(),'Logout')]")));
-    }
-    @Test
-    public void negativeLoginTest() {
-        app.getSessionHelper().login("admin", "kjgg");
-
-        Assert.assertFalse(app.getSessionHelper().isElementPresent(By.xpath("//a[contains(text(),'Logout')]")));
-    }
-    @AfterMethod
-    public void postconditionAfterLoginTest(){
-        if (!app.getSessionHelper().isLoggin()){
-            app.getSessionHelper().login("admin","secret");
-        }
     }
 
 }

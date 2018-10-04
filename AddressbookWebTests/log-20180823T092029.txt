@@ -1,2 +1,0 @@
-09:20:34.187 [main] INFO  TelRan.QA.tests.TestBase - Start testcontactEditTest
-09:20:38.850 [main] INFO  TelRan.QA.tests.TestBase - Stop testcontactEditTest

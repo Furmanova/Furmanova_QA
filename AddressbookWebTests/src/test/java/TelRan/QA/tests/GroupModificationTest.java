@@ -18,17 +18,17 @@ public class GroupModificationTest extends TestBase {
         List<GroupData> before = app.getGroupHelper().getGroupList();
         app.getGroupHelper().selectGroup();
         app.getGroupHelper().initGroupModification();
-        GroupData group =  new GroupData().setId(before.get(0).getId());
+        GroupData group = new GroupData().setId(before.get(0).getId()).setGroupName("12fdf");
         app.getGroupHelper().fillGroupModification(group);
         app.getGroupHelper().submitGroupModification();
         app.getGroupHelper().returnToTheGroupsPage();
         List<GroupData> after = app.getGroupHelper().getGroupList();
 
-        Assert.assertEquals(after.size(),before.size());
-        before.remove(0);
+       Assert.assertEquals(after.size(), before.size());
+       before.remove(0);
         before.add(group);
-       Assert.assertEquals(new HashSet<Object>(before), new HashSet<Object>(after));
-
+       Assert.assertEquals(new HashSet<Object>(before),
+              new HashSet<Object>(after));
 
 
     }

@@ -1,2 +1,0 @@
-09:03:28.382 [main] INFO  TelRan.QA.tests.TestBase - Start testtestGroupModification
-09:03:37.463 [main] INFO  TelRan.QA.tests.TestBase - Stop testtestGroupModification

@@ -8,9 +8,9 @@ import org.openqa.selenium.WebElement;
 import java.util.ArrayList;
 import java.util.List;
 
-public class GroupHelper extends HelperBase {
+//public class GroupHelper extends HelperBase {
 
-    public GroupHelper(WebDriver wd) {
+    /*public GroupHelper(WebDriver wd) {
         super(wd);
     }
 
@@ -102,3 +102,4 @@ public class GroupHelper extends HelperBase {
         return groups;
     }
 }
+*/
