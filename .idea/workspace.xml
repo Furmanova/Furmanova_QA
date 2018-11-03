@@ -2,77 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55f1efe3-98b8-4e00-bb65-473500ae2737" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/generators/ContactDataGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/generators/GroupDataGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/MyListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestAboutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestContacsUsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestHowItWorksPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestPublishTenderForAVehiclePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestTendersPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/CV_Bank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/CV_Bank_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/CV_Bank_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/LoginCVBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/RegistrationCVBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180821T151835.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180822T102203.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180822T104214.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180822T104738.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180822T210900.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180822T211012.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180822T211325.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180822T211609.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180823T085113.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180823T085227.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180823T085327.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180823T085440.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180823T085505.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180823T085959.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180823T090147.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180823T090323.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180823T090614.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180823T090945.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180823T091133.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180823T091237.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180823T091608.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180823T091641.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180823T091711.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180823T091906.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180823T092029.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180823T092107.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/log-20180823T092150.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/appManadger/ApplicationManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/appManadger/ApplicationManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/appManadger/ContactHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/appManadger/ContactHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/appManadger/GroupHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/appManadger/GroupHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/appManadger/HelperBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/appManadger/HelperBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/model/ContactData.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/model/ContactData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/ContactCreateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/ContactCreateTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/ContactDeleteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/ContactDeleteTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/ContactEditTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/ContactEditTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/GroupCreateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/GroupCreateTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/GroupModificationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/GroupModificationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/TestBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/TestLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/out/test/classes/TelRan/QA/tests/TestLogin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ApplicationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/GroupHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/GroupHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/HelperBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/ContactData.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/ContactData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactEditTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactEditTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupCreateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupCreateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupModificationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupModificationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autoauction/out/test/classes/TelRan/QA/appManadger/GroupHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autoauction/out/test/classes/TelRan/QA/appManadger/SessionHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autoauction/out/test/classes/TelRan/QA/appManadger/SessionHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autoauction/out/test/classes/TelRan/QA/tests/OpenSiteTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autoauction/out/test/classes/TelRan/QA/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autoauction/out/test/classes/TelRan/QA/tests/TestBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autoauction/out/test/classes/TelRan/QA/tests/TestLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autoauction/out/test/classes/TelRan/QA/tests/TestLogin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/GroupHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/GroupHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/HelperBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/SessionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/SessionHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/OpenSiteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestOpenSite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/ApplicationManager.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/selenium-tests/.gradle/" />
     <ignored path="$PROJECT_DIR$/selenium-tests/build/" />
@@ -101,6 +40,9 @@
     <ignored path="$PROJECT_DIR$/Autoauction/.gradle/" />
     <ignored path="$PROJECT_DIR$/Autoauction/build/" />
     <ignored path="$PROJECT_DIR$/Autoauction/out/" />
+    <ignored path="$PROJECT_DIR$/CV_Bank/.gradle/" />
+    <ignored path="$PROJECT_DIR$/CV_Bank/build/" />
+    <ignored path="$PROJECT_DIR$/CV_Bank/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,6 +63,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/Autoauction">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/CV_Bank">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/EbayRegistration">
@@ -159,52 +104,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestLogin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestLogin.java">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CV_Bank/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+            <state relative-caret-position="154">
+              <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegistrationCVBank.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/RegistrationCVBank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#830#831#0" expanded="true" />
+                <element signature="e#851#852#0" expanded="true" />
+                <element signature="e#820#821#0" expanded="true" />
+                <element signature="e#841#842#0" expanded="true" />
+                <element signature="e#801#802#0" expanded="true" />
+                <element signature="e#822#823#0" expanded="true" />
+                <element signature="e#798#799#0" expanded="true" />
+                <element signature="e#814#815#0" expanded="true" />
+                <element signature="e#801#802#0" expanded="true" />
+                <element signature="e#822#823#0" expanded="true" />
+                <element signature="e#771#772#0" expanded="true" />
+                <element signature="e#792#793#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SessionHelper.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/SessionHelper.java">
+      <file leaf-file-name="LoginCVBank.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/LoginCVBank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="23" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="23" />
-              <folding>
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelperBase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/HelperBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="783">
+              <caret line="30" column="81" selection-start-line="30" selection-start-column="81" selection-end-line="30" selection-end-column="81" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#778#779#0" expanded="true" />
+                <element signature="e#799#800#0" expanded="true" />
+                <element signature="e#1025#1026#0" expanded="true" />
+                <element signature="e#1105#1106#0" expanded="true" />
+                <element signature="e#1398#1399#0" expanded="true" />
+                <element signature="e#1483#1484#0" expanded="true" />
+                <element signature="e#1516#1517#0" expanded="true" />
+                <element signature="e#1604#1605#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GroupHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/GroupHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -227,6 +175,7 @@
         <entry key="$PROJECT_DIR$/Addressbook-web-tests" value="C:\Users\alx\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
         <entry key="$PROJECT_DIR$/AddressbookWebTests" value="C:\Users\alx\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
         <entry key="$PROJECT_DIR$/Autoauction" value="C:\Users\alx\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
+        <entry key="$PROJECT_DIR$/CV_Bank" value="C:\Users\alx\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
         <entry key="$PROJECT_DIR$/EbayRegistration" value="C:\Users\alx\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
         <entry key="$PROJECT_DIR$/EbayTest" value="C:\Users\alx\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
         <entry key="$PROJECT_DIR$/FirstProject" value="C:\Users\alx\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
@@ -240,6 +189,7 @@
         <entry key="$PROJECT_DIR$/Addressbook-web-tests" value="4.4" />
         <entry key="$PROJECT_DIR$/AddressbookWebTests" value="4.4" />
         <entry key="$PROJECT_DIR$/Autoauction" value="4.4" />
+        <entry key="$PROJECT_DIR$/CV_Bank" value="4.4" />
         <entry key="$PROJECT_DIR$/EbayRegistration" value="4.4" />
         <entry key="$PROJECT_DIR$/EbayTest" value="4.4" />
         <entry key="$PROJECT_DIR$/FirstProject" value="4.4" />
@@ -294,6 +244,22 @@
               <ExternalProjectPojo>
                 <option name="name" value="Autoauction" />
                 <option name="path" value="$PROJECT_DIR$/Autoauction" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="CV_Bank" />
+              <option name="path" value="$PROJECT_DIR$/CV_Bank" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="CV_Bank" />
+                <option name="path" value="$PROJECT_DIR$/CV_Bank" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -816,6 +782,147 @@
               <ExternalTaskPojo>
                 <option name="description" value="Displays the properties of root project 'Autoauction'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Autoauction" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CV_Bank">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'CV_Bank'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'CV_Bank'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'CV_Bank'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'CV_Bank'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'CV_Bank'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'CV_Bank'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'CV_Bank'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'CV_Bank'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'CV_Bank'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CV_Bank" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
             </list>
@@ -1685,6 +1792,11 @@
         <entry key="$PROJECT_DIR$/Autoauction/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/Autoauction/build.gradle" value="3807191821" />
         <entry key="$PROJECT_DIR$/Autoauction/settings.gradle" value="2593242625" />
+        <entry key="$PROJECT_DIR$/CV_Bank" value="6165096450430" />
+        <entry key="$PROJECT_DIR$/CV_Bank/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/CV_Bank/build.gradle" value="3807191821" />
+        <entry key="$PROJECT_DIR$/CV_Bank/gradle/wrapper/gradle-wrapper.properties" value="1741342742" />
+        <entry key="$PROJECT_DIR$/CV_Bank/settings.gradle" value="2320244785" />
         <entry key="$PROJECT_DIR$/EbayRegistration" value="0" />
         <entry key="$PROJECT_DIR$/EbayRegistration/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/EbayRegistration/build.gradle" value="3467878654" />
@@ -1934,6 +2046,104 @@
                 <list>
                   <option value="$PROJECT_DIR$/Autoauction/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/Autoauction/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CV_Bank">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/CV_Bank">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/CV_Bank" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="CV_Bank" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/ant-1.9.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/ant-launcher-1.9.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-base-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-base-services-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-build-cache-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-build-option-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-cli-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-core-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-core-api-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-docs-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-installation-beacon-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-jvm-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-kotlin-dsl-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-kotlin-dsl-tooling-builders-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-kotlin-dsl-tooling-models-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-launcher-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-logging-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-messaging-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-model-core-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-model-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-persistent-cache-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-process-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-resources-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-runtime-api-info-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-tooling-api-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-wrapper-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-announce-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-antlr-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-build-cache-http-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-build-comparison-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-build-init-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-code-quality-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-composite-builds-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-dependency-management-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-diagnostics-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ear-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ide-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ide-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ide-play-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ivy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-jacoco-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-javascript-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-java-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-scala-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-maven-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-osgi-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-platform-base-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-platform-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-platform-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-platform-play-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-plugin-development-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-plugin-use-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-plugins-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-publish-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-reporting-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-resources-gcs-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-resources-http-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-resources-s3-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-resources-sftp-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-scala-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-signing-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-test-kit-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-testing-base-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-testing-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-testing-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-tooling-api-builders-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-version-control-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-workers-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/CV_Bank/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/CV_Bank/buildSrc/src/main/groovy" />
                 </list>
               </option>
             </ExternalProjectBuildClasspathPojo>
@@ -2534,6 +2744,7 @@
         <entry key="$PROJECT_DIR$/Addressbook-web-tests" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/AddressbookWebTests" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/Autoauction" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/CV_Bank" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/EbayRegistration" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/EbayTest" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/FirstProject" value="RE_IMPORT" />
@@ -2546,10 +2757,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/tests/GroupsDeleteTest.java" />
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/tests/GroupCreateTest.java" />
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/tests/GroupModificationTest.java" />
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/appManadger/GroupHelper.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/appManadger/HelperBase.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/resources/testng.xml" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/main/java/TelRan/QA/appManadger/ApplicationManager.java" />
@@ -2584,7 +2791,6 @@
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/model/ContactData.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java" />
-        <option value="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestSearchFilters.java" />
         <option value="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestBase.java" />
         <option value="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestAboutPage.java" />
@@ -2597,6 +2803,11 @@
         <option value="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/HelperBase.java" />
         <option value="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestLogin.java" />
         <option value="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/SessionHelper.java" />
+        <option value="$PROJECT_DIR$/CV_Bank/build.gradle" />
+        <option value="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/ApplicationManager.java" />
+        <option value="$PROJECT_DIR$/CV_Bank/src/test/java/CVRegistration.java" />
+        <option value="$PROJECT_DIR$/CV_Bank/src/test/java/RegistrationCVBank.java" />
+        <option value="$PROJECT_DIR$/CV_Bank/src/test/java/LoginCVBank.java" />
       </list>
     </option>
   </component>
@@ -2606,9 +2817,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="379" />
-    <option name="y" value="173" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="270" />
+    <option name="y" value="126" />
     <option name="width" value="1072" />
     <option name="height" value="543" />
   </component>
@@ -2620,53 +2831,42 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autoauction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="AddressbookWebTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autoauction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="AddressbookWebTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autoauction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autoauction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="AddressbookWebTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autoauction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="AddressbookWebTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="QA" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autoauction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="AddressbookWebTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="QA" type="462c0819:PsiDirectoryNode" />
-              <item name="appManadger" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autoauction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="AddressbookWebTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -2675,36 +2875,61 @@
             </path>
             <path>
               <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EbayTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="CV_Bank" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CV_Bank" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CV_Bank" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CV_Bank" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoginPassword" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CV_Bank" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alx\Documents\GitHub\Furmanova_QA16\AddressbookWebTests\src\test\resources" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="TelRan" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\alx\Documents\GitHub\Furmanova_QA16\Autoauction\src\test\java" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="TelRan.QA" />
       <recent name="com.TelRan.QA" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\alx\Documents\GitHub\Furmanova_QA16\AddressbookWebTests\src\test\resources" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alx\Documents\GitHub\Furmanova_QA16\Autoauction\src\test\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -2719,7 +2944,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestLogin">
+  <component name="RunManager" selected="TestNG.LoginCVBank">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -2765,6 +2990,52 @@
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="LoginCVBank" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CV_Bank_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginCVBank" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="RegistrationCVBank" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CV_Bank_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RegistrationCVBank" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
     </configuration>
@@ -2855,64 +3126,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="TestPublishTenderForAVehiclePage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Autoauction_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TelRan.QA.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="TelRan.QA.tests" />
-      <option name="MAIN_CLASS_NAME" value="TelRan.QA.tests.TestPublishTenderForAVehiclePage" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="TestTendersPage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Autoauction_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TelRan.QA.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="TelRan.QA.tests" />
-      <option name="MAIN_CLASS_NAME" value="TelRan.QA.tests.TestTendersPage" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -2937,19 +3150,19 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.ContactCreateTest" />
-      <item itemvalue="TestNG.TestTendersPage" />
       <item itemvalue="TestNG.TestLogin" />
-      <item itemvalue="TestNG.TestPublishTenderForAVehiclePage" />
       <item itemvalue="TestNG.TestLogin.loginTest" />
       <item itemvalue="TestNG.TestLogin.testUntitledTestCase" />
+      <item itemvalue="TestNG.RegistrationCVBank" />
+      <item itemvalue="TestNG.LoginCVBank" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LoginCVBank" />
+        <item itemvalue="TestNG.RegistrationCVBank" />
         <item itemvalue="TestNG.TestLogin" />
         <item itemvalue="TestNG.TestLogin.loginTest" />
         <item itemvalue="TestNG.TestLogin.testUntitledTestCase" />
-        <item itemvalue="TestNG.TestPublishTenderForAVehiclePage" />
-        <item itemvalue="TestNG.TestTendersPage" />
       </list>
     </recent_temporary>
   </component>
@@ -2967,27 +3180,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestLogin - 2018.09.15 at 11h 41m 55s.xml">
-      <configuration name="TestLogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestLogin - 2018.09.15 at 11h 43m 53s.xml">
-      <configuration name="TestLogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestLogin - 2018.09.15 at 11h 49m 58s.xml">
-      <configuration name="TestLogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestLogin - 2018.09.15 at 11h 52m 11s.xml">
-      <configuration name="TestLogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestLogin - 2018.09.15 at 12h 14m 51s.xml">
-      <configuration name="TestLogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestLogin - 2018.09.15 at 12h 17m 02s.xml">
-      <configuration name="TestLogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestLogin - 2018.09.15 at 12h 32m 51s.xml">
-      <configuration name="TestLogin" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TestLogin - 2018.09.15 at 12h 33m 47s.xml">
       <configuration name="TestLogin" configurationId="TestNG" />
     </history-entry>
@@ -2997,9 +3189,30 @@
     <history-entry file="TestLogin - 2018.09.15 at 12h 45m 04s.xml">
       <configuration name="TestLogin" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="CVRegistration - 2018.11.03 at 22h 14m 30s.xml">
+      <configuration name="CVRegistration" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CVRegistration - 2018.11.03 at 22h 28m 33s.xml">
+      <configuration name="CVRegistration" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CVRegistration - 2018.11.03 at 22h 29m 49s.xml">
+      <configuration name="CVRegistration" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CVRegistration - 2018.11.03 at 22h 30m 46s.xml">
+      <configuration name="CVRegistration" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CVRegistration - 2018.11.03 at 22h 31m 38s.xml">
+      <configuration name="CVRegistration" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginCVBank - 2018.11.03 at 22h 50m 18s.xml">
+      <configuration name="LoginCVBank" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginCVBank - 2018.11.03 at 22h 55m 35s.xml">
+      <configuration name="LoginCVBank" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -3010,20 +3223,20 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.4981884" weight="0.32969153" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38791946" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38662317" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32885906" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.496" visible="true" weight="0.22365038" />
-      <window_info anchor="bottom" id="Build" order="10" weight="0.26979867" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.496" visible="true" weight="0.22416413" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.26916802" />
       <window_info anchor="right" id="Gradle" order="5" sideWeight="0.4981884" weight="0.32969153" />
       <window_info id="Structure" order="1" sideWeight="0.504" side_tool="true" weight="0.15231362" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4981884" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986577" />
       <window_info id="Favorites" order="5" sideWeight="0.504" side_tool="true" weight="0.15231362" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986577" />
       <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5018116" side_tool="true" weight="0.32969153" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -3034,12 +3247,12 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5018116" side_tool="true" weight="0.32969153" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Gradle" order="5" sideWeight="0.4981884" weight="0.32969153" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38791946" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32885906" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.496" visible="true" weight="0.22107969" />
       <window_info id="Structure" order="1" sideWeight="0.504" side_tool="true" weight="0.15231362" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -3048,18 +3261,18 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info id="Capture Tool" order="6" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3986577" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5018116" side_tool="true" weight="0.32969153" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32885906" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.26979867" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32885906" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32885906" />
       <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.4981884" weight="0.32969153" />
       <window_info id="Favorites" order="5" sideWeight="0.504" side_tool="true" weight="0.15231362" />
     </layout-to-restore>
@@ -3108,29 +3321,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/3.14.0/ca6132159a19ff765f46742a78c7f985cb44be7d/selenium-support-3.14.0-sources.jar!/org/openqa/selenium/support/events/EventFiringWebDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/screen - 1535040445385.png" />
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/screen - 1535040450793.png" />
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactEditTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/model/GroupData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contacts.csv" />
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/resources/contact.csv">
       <provider selected="true" editor-type-id="text-editor">
@@ -3252,13 +3442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EbayTest/src/test/java/EbayRegistration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.14.0/8c0af6fdccdc89a4394de7e3a8817ed2d6e41d7d/selenium-api-3.14.0-sources.jar!/org/openqa/selenium/By.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="61">
@@ -3336,13 +3519,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="17" column="56" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/3.14.0/6a4c36c02a1f03bdcf5769bffec9ed530ca51111/selenium-remote-driver-3.14.0-sources.jar!/org/openqa/selenium/remote/ErrorHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
@@ -3385,12 +3561,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/ApplicationManager.java">
+    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/HelperBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="343">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
-            <element signature="e#1390#1391#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3402,22 +3580,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/HelperBase.java">
+    <entry file="file://$PROJECT_DIR$/Autoauction/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="432">
+          <caret line="16" column="29" selection-start-line="15" selection-start-column="4" selection-end-line="17" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestLogin.java">
+    <entry file="file://$PROJECT_DIR$/EbayTest/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+        <state relative-caret-position="-243" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EbayTest/src/test/java/EbayRegistration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -3426,13 +3604,86 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/SessionHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="23" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="23" />
+        <state relative-caret-position="594">
+          <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
           <folding>
             <element signature="e#190#191#0" expanded="true" />
             <element signature="e#215#216#0" expanded="true" />
             <element signature="e#255#256#0" expanded="true" />
             <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#1438#1439#0" expanded="true" />
+            <element signature="e#1504#1505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/ApplicationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="17" column="56" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/RegistrationCVBank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+            <element signature="e#771#772#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_Bank/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/LoginCVBank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="30" column="81" selection-start-line="30" selection-start-column="81" selection-end-line="30" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+            <element signature="e#1105#1106#0" expanded="true" />
+            <element signature="e#1398#1399#0" expanded="true" />
+            <element signature="e#1483#1484#0" expanded="true" />
+            <element signature="e#1516#1517#0" expanded="true" />
+            <element signature="e#1604#1605#0" expanded="true" />
           </folding>
         </state>
       </provider>

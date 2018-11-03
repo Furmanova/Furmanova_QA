@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Autoauction.iml" filepath="$PROJECT_DIR$/.idea/modules/Autoauction.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Autoauction_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Autoauction_main.iml" group="Autoauction" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Autoauction_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Autoauction_test.iml" group="Autoauction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CV_Bank.iml" filepath="$PROJECT_DIR$/.idea/modules/CV_Bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CV_Bank_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CV_Bank_main.iml" group="CV_Bank" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CV_Bank_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CV_Bank_test.iml" group="CV_Bank" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/EbayTest.iml" filepath="$PROJECT_DIR$/.idea/modules/EbayTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/EbayTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/EbayTest_main.iml" group="EbayTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/EbayTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/EbayTest_test.iml" group="EbayTest" />

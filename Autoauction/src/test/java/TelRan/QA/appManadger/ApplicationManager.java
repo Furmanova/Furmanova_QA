@@ -11,7 +11,7 @@ public class ApplicationManager {
 
 
     SessionHelper sessionHelper;
-    GroupHelper groupHelper;
+    //GroupHelper groupHelper;
     WebDriver wd;
     private String browser;
 
@@ -45,9 +45,9 @@ public class ApplicationManager {
         wd.quit();
     }
 
-    public GroupHelper getGroupHelper() {
-        return groupHelper;
-    }
+    //public GroupHelper getGroupHelper() {
+      //  return groupHelper;
+    //}
 
     public SessionHelper getSessionHelper() {
         return sessionHelper;
