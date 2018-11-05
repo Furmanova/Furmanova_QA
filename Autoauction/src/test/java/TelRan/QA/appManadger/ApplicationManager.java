@@ -21,7 +21,7 @@ public class ApplicationManager {
         this.browser = browser;
     }
 
-    public void start() {
+    public void start() throws InterruptedException {
         if (browser.equals(BrowserType.CHROME)) {
             wd = new ChromeDriver();
         } else if (browser.equals(BrowserType.FIREFOX)) {
@@ -32,7 +32,7 @@ public class ApplicationManager {
         wd.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         sessionHelper = new SessionHelper(wd);
         sessionHelper.openSite("http://autoauction.co.il/%D7%A8%D7%90%D7%A9%D7%99/");
-      //  sessionHelper.login("admin", "secret");
+      sessionHelper.login("admin", "secret");
        // groupHelper = new GroupHelper(wd);
         //contactHelper = new ContactHelper(wd);
     }
