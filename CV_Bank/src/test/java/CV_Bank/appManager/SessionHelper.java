@@ -1,4 +1,4 @@
-package CV_Bank.appManadger;
+package CV_Bank.appManager;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
