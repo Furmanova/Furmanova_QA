@@ -18,13 +18,13 @@ public class CreateHelper extends HelperBase {
         type(By.name("title"), titleCreateData.getCvTitle());
         type(By.name("first_name"), titleCreateData.getFirstName());
         type(By.name("last_name"), titleCreateData.getLastName());
-        //type(By.name("birthday"),titleCreateData.getYear());
+        type(By.name("birthday"), String.valueOf(titleCreateData.getYear()));
         type(By.id("summary"), titleCreateData.getSummary());
         type(By.cssSelector("#about"), titleCreateData.getAbout());
     }
     public void fillCreateContactInfo(ContactInfoData contactInfoData){
         click(By.xpath("//a[@aria-controls='contacts']//h3"));
-       //type(By.name("phone"), contactInfoData.getPhone());
+       type(By.name("phone"), String.valueOf(contactInfoData.getPhone()));
         type(By.xpath("//input[@placeholder='email*']"), contactInfoData.getEmail());
         type(By.name("residence"), contactInfoData.getResidence());
 
