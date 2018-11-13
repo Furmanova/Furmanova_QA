@@ -1,9 +1,7 @@
 package CV_Bank.testsCV;
 
 
-import CV_Bank.model.ContactInfoData;
-import CV_Bank.model.DescriptionData;
-import CV_Bank.model.TitleCreateData;
+import CV_Bank.model.*;
 import org.testng.annotations.Test;
 
 public class CreateTest extends TestBase {
@@ -29,7 +27,35 @@ public class CreateTest extends TestBase {
                 .setSalaryFrom(1)
                 .setSalaryTill(1);
         app.getCreateHelper().fillDescriptionCreate(description);
+        EducationData education = new EducationData()
+                .setSchoolInstitution("")
+                .setDegree("")
+                .setGraduationYear(1)
+                .setDescription("");
+        app.getCreateHelper().fillEducationCreate(education);
+        ProjectsJobsData projects = new ProjectsJobsData()
+                .setCompany("")
+                .setPosition("")
+                .setProjectDescription("")
+                .setYearFrom(1)
+                .setYearTill(2);
+        app.getCreateHelper().fillProjectCreate(projects);
+        AchievementsData achievements = new AchievementsData()
+                .setDescription("")
+                .setGraduationYear(1);
+        app.getCreateHelper().fillAchievementsCreate(achievements);
+        CertificationsData certification = new CertificationsData()
+                .setDescription("")
+                .setGraduationYear(1);
+        app.getCreateHelper().fillCertificationCreate(certification);
+        FooterLinksData footerLinks = new FooterLinksData()
+                .setLinkedinLink("")
+                .setGirHub("")
+                .setPortfolio("");
+        app.getCreateHelper().fillFooterLinkCreate(footerLinks);
+        FooterInfoData footerInfo = new FooterInfoData()
+                .setRecommendation("");
+        app.getCreateHelper().fillFooterInfoCreate(footerInfo);
+
     }
-
-
-}
+    }

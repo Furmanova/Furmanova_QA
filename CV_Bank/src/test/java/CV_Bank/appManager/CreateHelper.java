@@ -1,8 +1,6 @@
 package CV_Bank.appManager;
 
-import CV_Bank.model.ContactInfoData;
-import CV_Bank.model.DescriptionData;
-import CV_Bank.model.TitleCreateData;
+import CV_Bank.model.*;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
@@ -37,5 +35,46 @@ public class CreateHelper extends HelperBase {
         type(By.name("choose_position"), descriptionData.getChoosePreferables());
         type(By.name("salary_from"), String.valueOf(descriptionData.getSalaryFrom()));
         type(By.name("salary_till"), String.valueOf(descriptionData.getSalaryTill()));
+    }
+    public void fillEducationCreate(EducationData educationData){
+        click(By.xpath("//a[@aria-controls='education']//h3"));
+        type(By.xpath("//input[@placeholder='school/institution name*']"), educationData.getSchoolInstitution());
+        type(By.xpath("//input[@placeholder='degree*']"),educationData.getDegree());
+        type(By.xpath("//div[@id='education']//div//input[@placeholder='graduation year*']"), String.valueOf(educationData.getGraduationYear()));
+        type(By.xpath("//textarea[@placeholder='description']"), educationData.getDescription());
+    }
+    public void fillProjectCreate(ProjectsJobsData projectsJobsData){
+        click(By.xpath("//a[@aria-controls='projects']//h3"));
+        type(By.xpath("//input[@placeholder='company*']"),projectsJobsData.getCompany());
+        type(By.xpath("//input[@placeholder='position*']"), projectsJobsData.getPosition());
+        type(By.xpath("//input[@placeholder='year from']"), String.valueOf(projectsJobsData.getYearFrom()));
+        type(By.xpath("//input[@placeholder='year till']"), String.valueOf(projectsJobsData.getYearTill()));
+        type(By.xpath("//textarea[@placeholder='project description']"), projectsJobsData.getProjectDescription());
+    }
+    public void fillAchievementsCreate(AchievementsData achievementsData){
+        click(By.xpath("//a[@aria-controls='achievements']//h3"));
+        type(By.xpath("//div[@id='achievements']//div//textarea[@placeholder='description*']"), achievementsData.getDescription());
+        type(By.xpath("//div[@id='achievements']//div//input[@placeholder='graduation year*']"), String.valueOf(achievementsData.getGraduationYear()));
+    }
+    public void fillCertificationCreate(CertificationsData certificationsData){
+        click(By.xpath("//a[@aria-controls='certifications']//h3"));
+        type(By.xpath("//div[@id='certifications']//div//textarea[@placeholder='description*']"),certificationsData.getDescription());
+        type(By.xpath("//div[@id='certifications']//div//input[@placeholder='graduation year*']"), String.valueOf(certificationsData.getGraduationYear()));
+    }
+    public void fillFooterLinkCreate(FooterLinksData footerLinksData){
+        click(By.xpath("//a[@aria-controls='links']//h3"));
+        type(By.xpath("//input[@placeholder='linkedin link']"), footerLinksData.getLinkedinLink());
+        type(By.xpath("//input[@placeholder='github']"), footerLinksData.getGirHub());
+        type(By.xpath("//input[@placeholder='portfolio']"), footerLinksData.getPortfolio());
+    }
+    public  void fillFooterInfoCreate(FooterInfoData footerInfoData){
+        click(By.xpath("//a[@aria-controls='info']//h3"));
+        type(By.xpath("//textarea[@placeholder='recommendation']"), footerInfoData.getRecommendation());
+    }
+    public void fillLanguagesCreate(LanguagesData languagesData){
+        click(By.xpath("//a[@aria-controls='languages']//h3"));
+    }
+    public void fillSkillsCreate(SkillsData skillsData){
+        click(By.xpath("//a[@aria-controls='skills']//h3"));
     }
 }
