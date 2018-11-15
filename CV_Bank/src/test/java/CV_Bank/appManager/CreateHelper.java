@@ -18,20 +18,20 @@ public class CreateHelper extends HelperBase {
         type(By.name("title"), titleCreateData.getCvTitle());
         type(By.name("first_name"), titleCreateData.getFirstName());
         type(By.name("last_name"), titleCreateData.getLastName());
-       // type(By.name("birthday"), String.valueOf(titleCreateData.getYear()));
+       type(By.name("birthday"), titleCreateData.getYear(), false);
         type(By.id("summary"), titleCreateData.getSummary());
         type(By.cssSelector("#about"), titleCreateData.getAbout());
     }
 
     public void fillContactCreateInfo(ContactInfoData contactInfoData) {
         click(By.xpath("//a[@aria-controls='contacts']//h3"));
-        type(By.xpath("//input[@placeholder='phone*']"), String.valueOf(contactInfoData.getPhone()));
-        type(By.xpath("//input[@placeholder='email*']"), contactInfoData.getEmail());
+        type(By.name("phone"), String.valueOf(contactInfoData.getPhone()));
+        type(By.name("email"), contactInfoData.getEmail());
         type(By.name("residence"), contactInfoData.getResidence());
     }
     public void fillDescriptionCreate(DescriptionData descriptionData){
         click(By.xpath("//a[@aria-controls='desc']//h3"));
-        type(By.xpath("//input[@placeholder='choose preferable area']"), descriptionData.getChoosePreferable());
+        type(By.name("choose_preferable_area"), descriptionData.getChoosePreferable());
         type(By.name("choose_position"), descriptionData.getChoosePreferables());
         type(By.name("salary_from"), String.valueOf(descriptionData.getSalaryFrom()));
         type(By.name("salary_till"), String.valueOf(descriptionData.getSalaryTill()));
@@ -63,7 +63,7 @@ public class CreateHelper extends HelperBase {
     }
     public void fillFooterLinkCreate(FooterLinksData footerLinksData){
         click(By.xpath("//a[@aria-controls='links']//h3"));
-        type(By.xpath("//input[@placeholder='linkedin link']"), footerLinksData.getLinkedinLink());
+        type(By.name("linkedin_link"), footerLinksData.getLinkedinLink());
         type(By.xpath("//input[@placeholder='github']"), footerLinksData.getGirHub());
         type(By.xpath("//input[@placeholder='portfolio']"), footerLinksData.getPortfolio());
     }
@@ -71,9 +71,10 @@ public class CreateHelper extends HelperBase {
         click(By.xpath("//a[@aria-controls='info']//h3"));
         type(By.xpath("//textarea[@placeholder='recommendation']"), footerInfoData.getRecommendation());
     }
-    public void fillLanguagesCreate(LanguagesData languagesData){
+    /*public void fillLanguagesCreate(LanguagesData languagesData){
         click(By.xpath("//a[@aria-controls='languages']//h3"));
-    }
+        type(By.xpath("//select[@class='ng-pristine ng-valid ng-touched']"),languagesData.getLanguage());
+    }*/
     public void fillSkillsCreate(SkillsData skillsData){
         click(By.xpath("//a[@aria-controls='skills']//h3"));
     }

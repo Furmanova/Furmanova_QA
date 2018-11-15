@@ -1,12 +1,13 @@
 package CV_Bank.model;
 
+
 import java.util.Objects;
 
 public class TitleCreateData {
     private String cvTitle;
     private String firstName;
     private String lastName;
-    private int year;
+    private String year;
     private String summary;
     private String about;
 
@@ -38,11 +39,11 @@ public class TitleCreateData {
         return this;
     }
 
-    public int getYear() {
+    public String getYear() {
         return year;
     }
 
-    public TitleCreateData setYear(int year) {
+    public TitleCreateData setYear(String year) {
 
         this.year = year;
         return this;

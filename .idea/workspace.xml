@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55f1efe3-98b8-4e00-bb65-473500ae2737" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/AchievementsData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/CertificationsData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/EducationData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/FooterInfoData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/FooterLinksData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/LanguagesData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/ProjectsJobsData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/SkillsData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/appManager/CreateHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/appManager/CreateHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/appManager/HelperBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/appManager/HelperBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/model/TitleCreateData.class" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/model/TitleCreateData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/testsCV/CreateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/testsCV/CreateTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/CreateHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/CreateHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/HelperBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/LanguagesData.java" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/LanguagesData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/TitleCreateData.java" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/TitleCreateData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/CreateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/CreateTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/selenium-tests/.gradle/" />
@@ -105,11 +104,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CreateTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CreateTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/CreateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            <state relative-caret-position="162">
+              <caret line="60" column="63" selection-start-line="58" selection-start-column="8" selection-end-line="60" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,18 +116,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CreateHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/CreateHelper.java">
+      <file leaf-file-name="LanguagesData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/LanguagesData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="67" column="14" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
+            <state relative-caret-position="297">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3991#3992#0" expanded="true" />
-                <element signature="e#4014#4015#0" expanded="true" />
+                <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateHelper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/CreateHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="76" column="7" selection-start-line="73" selection-start-column="4" selection-end-line="76" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelperBase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/HelperBase.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -2731,7 +2746,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/generators/ContactDataGenerator.java" />
         <option value="$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java" />
         <option value="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/RgisterUsez.java" />
         <option value="$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/RegisterUsez.java" />
@@ -2770,8 +2784,6 @@
         <option value="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/TestBase.java" />
         <option value="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/ContactInfoData.java" />
-        <option value="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/HelperBase.java" />
-        <option value="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/TitleCreateData.java" />
         <option value="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/DescriptionData.java" />
         <option value="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/EducationData.java" />
         <option value="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/ProdjectsJobsData.java" />
@@ -2780,8 +2792,11 @@
         <option value="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/CertificationsData.java" />
         <option value="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/AchievementsData.java" />
         <option value="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/ProjectsJobsData.java" />
-        <option value="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/CreateHelper.java" />
+        <option value="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/TitleCreateData.java" />
+        <option value="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/HelperBase.java" />
+        <option value="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/LanguagesData.java" />
         <option value="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/CreateTest.java" />
+        <option value="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/CreateHelper.java" />
       </list>
     </option>
   </component>
@@ -2791,7 +2806,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="268" />
     <option name="y" value="49" />
     <option name="width" value="1072" />
@@ -2805,7 +2820,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -2870,8 +2884,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2912,7 +2927,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.CreateTest.testCreate">
+  <component name="RunManager" selected="TestNG.CreateTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -3132,8 +3147,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.CreateTest.testCreate" />
         <item itemvalue="TestNG.CreateTest" />
+        <item itemvalue="TestNG.CreateTest.testCreate" />
         <item itemvalue="TestNG.TestLogin" />
         <item itemvalue="JUnit.CreateTest.testCreate" />
         <item itemvalue="TestNG.TestLogin.negativeMailLoginTest" />
@@ -3154,35 +3169,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CreateTest_testCreate - 2018.11.13 at 13h 59m 15s.xml">
+    <history-entry file="CreateTest_testCreate - 2018.11.15 at 00h 43m 02s.xml">
       <configuration name="CreateTest.testCreate" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateTest_testCreate - 2018.11.13 at 14h 05m 58s.xml">
+    <history-entry file="CreateTest_testCreate - 2018.11.15 at 09h 47m 38s.xml">
       <configuration name="CreateTest.testCreate" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateTest_testCreate - 2018.11.13 at 14h 17m 47s.xml">
+    <history-entry file="CreateTest_testCreate - 2018.11.15 at 09h 48m 54s.xml">
       <configuration name="CreateTest.testCreate" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateTest_testCreate - 2018.11.13 at 14h 39m 10s.xml">
+    <history-entry file="CreateTest - 2018.11.15 at 09h 50m 29s.xml">
+      <configuration name="CreateTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateTest - 2018.11.15 at 11h 52m 44s.xml">
+      <configuration name="CreateTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateTest - 2018.11.15 at 11h 53m 48s.xml">
+      <configuration name="CreateTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateTest_testCreate - 2018.11.15 at 11h 54m 40s.xml">
       <configuration name="CreateTest.testCreate" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateTest_testCreate - 2018.11.13 at 14h 40m 15s.xml">
+    <history-entry file="CreateTest_testCreate - 2018.11.15 at 11h 56m 28s.xml">
       <configuration name="CreateTest.testCreate" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateTest_testCreate - 2018.11.13 at 14h 41m 49s.xml">
-      <configuration name="CreateTest.testCreate" configurationId="TestNG" />
+    <history-entry file="CreateTest - 2018.11.15 at 11h 57m 58s.xml">
+      <configuration name="CreateTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateTest_testCreate - 2018.11.13 at 14h 43m 12s.xml">
-      <configuration name="CreateTest.testCreate" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CreateTest_testCreate - 2018.11.13 at 14h 44m 26s.xml">
-      <configuration name="CreateTest.testCreate" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CreateTest_testCreate - 2018.11.13 at 14h 45m 43s.xml">
-      <configuration name="CreateTest.testCreate" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CreateTest_testCreate - 2018.11.13 at 14h 47m 21s.xml">
-      <configuration name="CreateTest.testCreate" configurationId="TestNG" />
+    <history-entry file="CreateTest - 2018.11.15 at 11h 59m 36s.xml">
+      <configuration name="CreateTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -3200,18 +3215,19 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952693" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32626426" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.4981884" weight="0.32969153" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42414355" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49429038" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32952693" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32789558" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49394673" visible="true" weight="0.21732523" />
-      <window_info anchor="bottom" id="Build" order="10" visible="true" weight="0.21207178" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49394673" visible="true" weight="0.22340426" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.21207178" />
       <window_info anchor="right" id="Gradle" order="5" sideWeight="0.4981884" weight="0.32969153" />
       <window_info id="Structure" order="1" sideWeight="0.50605327" side_tool="true" weight="0.24164134" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4981884" weight="0.25" />
@@ -3226,32 +3242,31 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32626426" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5018116" side_tool="true" weight="0.32969153" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4981884" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Gradle" order="5" sideWeight="0.4981884" weight="0.32969153" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38791946" />
       <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.496" visible="true" weight="0.22107969" />
       <window_info id="Structure" order="1" sideWeight="0.504" side_tool="true" weight="0.15231362" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4981884" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32885906" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3986577" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32885906" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5018116" side_tool="true" weight="0.32969153" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.26979867" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -3569,25 +3584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/TitleCreateData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1107">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#830#831#0" expanded="true" />
-            <element signature="e#857#858#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3595,23 +3591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="36" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="36" />
-          <folding>
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/HelperBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3619,10 +3598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3630,14 +3605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3645,16 +3612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-          <folding>
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#752#753#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3662,12 +3619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3675,12 +3626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3688,25 +3633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-          <folding>
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-            <element signature="e#715#716#0" expanded="true" />
-            <element signature="e#845#846#0" expanded="true" />
-            <element signature="e#886#887#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/LanguagesData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -3717,22 +3643,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/CreateHelper.java">
+    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/HelperBase.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/TitleCreateData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="67" column="14" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
+        <state relative-caret-position="1944">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/LanguagesData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3991#3992#0" expanded="true" />
-            <element signature="e#4014#4015#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/CreateTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        <state relative-caret-position="162">
+          <caret line="60" column="63" selection-start-line="58" selection-start-column="8" selection-end-line="60" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/CreateHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="76" column="7" selection-start-line="73" selection-start-column="4" selection-end-line="76" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

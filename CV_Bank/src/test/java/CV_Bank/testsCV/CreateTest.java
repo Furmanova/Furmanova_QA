@@ -13,7 +13,7 @@ public class CreateTest extends TestBase {
                 .setFirstName("")
                 .setLastName("")
                 .setSummary("")
-                //.setYear(98)
+                .setYear("01012018")
                 .setAbout("");
         app.getCreateHelper().fillTitleCreate(title);
         ContactInfoData contact = new ContactInfoData()
@@ -56,6 +56,9 @@ public class CreateTest extends TestBase {
         FooterInfoData footerInfo = new FooterInfoData()
                 .setRecommendation("");
         app.getCreateHelper().fillFooterInfoCreate(footerInfo);
+        /*LanguagesData languages = new LanguagesData()
+                .setLanguage("");
+        app.getCreateHelper().fillLanguagesCreate(languages);*/
 
-    }
+        }
     }
