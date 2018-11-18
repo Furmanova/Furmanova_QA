@@ -18,7 +18,7 @@ public class CreateHelper extends HelperBase {
         type(By.name("title"), titleCreateData.getCvTitle());
         type(By.name("first_name"), titleCreateData.getFirstName());
         type(By.name("last_name"), titleCreateData.getLastName());
-       type(By.name("birthday"), titleCreateData.getYear(), false);
+        type(By.name("birthday"), titleCreateData.getYear(), false);
         type(By.id("summary"), titleCreateData.getSummary());
         type(By.cssSelector("#about"), titleCreateData.getAbout());
     }
@@ -29,53 +29,138 @@ public class CreateHelper extends HelperBase {
         type(By.name("email"), contactInfoData.getEmail());
         type(By.name("residence"), contactInfoData.getResidence());
     }
-    public void fillDescriptionCreate(DescriptionData descriptionData){
+
+    public void fillDescriptionCreate(DescriptionData descriptionData) {
         click(By.xpath("//a[@aria-controls='desc']//h3"));
         type(By.name("choose_preferable_area"), descriptionData.getChoosePreferable());
         type(By.name("choose_position"), descriptionData.getChoosePreferables());
         type(By.name("salary_from"), String.valueOf(descriptionData.getSalaryFrom()));
         type(By.name("salary_till"), String.valueOf(descriptionData.getSalaryTill()));
     }
-    public void fillEducationCreate(EducationData educationData){
+
+    public void fillEducationCreate(EducationData educationData) {
         click(By.xpath("//a[@aria-controls='education']//h3"));
         type(By.xpath("//input[@placeholder='school/institution name*']"), educationData.getSchoolInstitution());
-        type(By.xpath("//input[@placeholder='degree*']"),educationData.getDegree());
+        type(By.xpath("//input[@placeholder='degree*']"), educationData.getDegree());
         type(By.xpath("//div[@id='education']//div//input[@placeholder='graduation year*']"), String.valueOf(educationData.getGraduationYear()));
         type(By.xpath("//textarea[@placeholder='description']"), educationData.getDescription());
     }
-    public void fillProjectCreate(ProjectsJobsData projectsJobsData){
+
+    public void fillProjectCreate(ProjectsJobsData projectsJobsData) {
         click(By.xpath("//a[@aria-controls='projects']//h3"));
-        type(By.xpath("//input[@placeholder='company*']"),projectsJobsData.getCompany());
+        type(By.xpath("//input[@placeholder='company*']"), projectsJobsData.getCompany());
         type(By.xpath("//input[@placeholder='position*']"), projectsJobsData.getPosition());
         type(By.xpath("//input[@placeholder='year from']"), String.valueOf(projectsJobsData.getYearFrom()));
         type(By.xpath("//input[@placeholder='year till']"), String.valueOf(projectsJobsData.getYearTill()));
         type(By.xpath("//textarea[@placeholder='project description']"), projectsJobsData.getProjectDescription());
     }
-    public void fillAchievementsCreate(AchievementsData achievementsData){
+
+    public void fillAchievementsCreate(AchievementsData achievementsData) {
         click(By.xpath("//a[@aria-controls='achievements']//h3"));
         type(By.xpath("//div[@id='achievements']//div//textarea[@placeholder='description*']"), achievementsData.getDescription());
         type(By.xpath("//div[@id='achievements']//div//input[@placeholder='graduation year*']"), String.valueOf(achievementsData.getGraduationYear()));
     }
-    public void fillCertificationCreate(CertificationsData certificationsData){
+
+    public void fillCertificationCreate(CertificationsData certificationsData) {
         click(By.xpath("//a[@aria-controls='certifications']//h3"));
-        type(By.xpath("//div[@id='certifications']//div//textarea[@placeholder='description*']"),certificationsData.getDescription());
+        type(By.xpath("//div[@id='certifications']//div//textarea[@placeholder='description*']"), certificationsData.getDescription());
         type(By.xpath("//div[@id='certifications']//div//input[@placeholder='graduation year*']"), String.valueOf(certificationsData.getGraduationYear()));
     }
-    public void fillFooterLinkCreate(FooterLinksData footerLinksData){
+
+    public void fillFooterLinkCreate(FooterLinksData footerLinksData) {
         click(By.xpath("//a[@aria-controls='links']//h3"));
         type(By.name("linkedin_link"), footerLinksData.getLinkedinLink());
         type(By.xpath("//input[@placeholder='github']"), footerLinksData.getGirHub());
         type(By.xpath("//input[@placeholder='portfolio']"), footerLinksData.getPortfolio());
     }
-    public  void fillFooterInfoCreate(FooterInfoData footerInfoData){
+
+    public void fillFooterInfoCreate(FooterInfoData footerInfoData) {
         click(By.xpath("//a[@aria-controls='info']//h3"));
         type(By.xpath("//textarea[@placeholder='recommendation']"), footerInfoData.getRecommendation());
     }
+
     /*public void fillLanguagesCreate(LanguagesData languagesData){
         click(By.xpath("//a[@aria-controls='languages']//h3"));
         type(By.xpath("//select[@class='ng-pristine ng-valid ng-touched']"),languagesData.getLanguage());
     }*/
-    public void fillSkillsCreate(SkillsData skillsData){
+    public void fillSkillsCreate(SkillsData skillsData) {
         click(By.xpath("//a[@aria-controls='skills']//h3"));
     }
+
+    public void createTitle(String title, String firstName, String lastName,
+                            String summary, String year, String about) {
+        TitleCreateData titleCreateData = new TitleCreateData()
+                .setCvTitle(title)
+                .setFirstName(firstName)
+                .setLastName(lastName)
+                .setSummary(summary)
+                .setYear(year)
+                .setAbout(about);
+        fillTitleCreate(titleCreateData);
+    }
+
+    public void contactInfo(int phone, String email, String residence) {
+        ContactInfoData contact = new ContactInfoData()
+                .setPhone(phone)
+                .setEmail(email)
+                .setResidence(residence);
+        fillContactCreateInfo(contact);
+    }
+
+    public void description(String choosePreferable, String choosePreferables, int salaryFrom, int salaryTill) {
+        DescriptionData descriptionData = new DescriptionData()
+                .setChoosePreferable(choosePreferable)
+                .setChoosePreferables(choosePreferables)
+                .setSalaryFrom(salaryFrom)
+                .setSalaryTill(salaryTill);
+        fillDescriptionCreate(descriptionData);
+    }
+
+    public void education(String schoolInstitution, String degree, int graduationYear, String description) {
+        EducationData educationData = new EducationData()
+                .setSchoolInstitution(schoolInstitution)
+                .setDegree(degree)
+                .setGraduationYear(graduationYear)
+                .setDescription(description);
+        fillEducationCreate(educationData);
+    }
+
+    public void projectsJobs(String company, String position, String projectDescription, int earFrom, int earTill) {
+        ProjectsJobsData projectsJobsData = new ProjectsJobsData()
+                .setCompany(company)
+                .setPosition(position)
+                .setProjectDescription(projectDescription)
+                .setYearFrom(earFrom)
+                .setYearTill(earTill);
+        fillProjectCreate(projectsJobsData);
+    }
+
+    public void achievements(String description, int graduationYear) {
+        AchievementsData achievementsData = new AchievementsData()
+                .setDescription(description)
+                .setGraduationYear(graduationYear);
+        fillAchievementsCreate(achievementsData);
+    }
+
+    public void certifications(String description, int graduationYear) {
+        CertificationsData certificationsData = new CertificationsData()
+                .setDescription(description)
+                .setGraduationYear(graduationYear);
+        fillCertificationCreate(certificationsData);
+    }
+
+    public void footerLinks(String linkedinLink, String girHub, String Portfolio) {
+        FooterLinksData footerLinksData = new FooterLinksData()
+                .setLinkedinLink(linkedinLink)
+                .setGirHub(girHub)
+                .setPortfolio(Portfolio);
+        fillFooterLinkCreate(footerLinksData);
+    }
+
+    public void footerInfo(String recommendation) {
+        FooterInfoData footerInfoData = new FooterInfoData()
+                .setRecommendation(recommendation);
+        fillFooterInfoCreate(footerInfoData);
+    }
+
 }

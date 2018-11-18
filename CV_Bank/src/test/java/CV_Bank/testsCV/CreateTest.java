@@ -1,64 +1,58 @@
 package CV_Bank.testsCV;
 
-
-import CV_Bank.model.*;
 import org.testng.annotations.Test;
 
 public class CreateTest extends TestBase {
     @Test
+
     public void testCreate() {
         app.getCreateHelper().goToTheCreatePage();
-        TitleCreateData title = new TitleCreateData()
-                .setCvTitle("")
-                .setFirstName("")
-                .setLastName("")
-                .setSummary("")
-                .setYear("01012018")
-                .setAbout("");
-        app.getCreateHelper().fillTitleCreate(title);
-        ContactInfoData contact = new ContactInfoData()
-                .setPhone(+521111111)
-                .setEmail("")
-                .setResidence("");
-        app.getCreateHelper().fillContactCreateInfo(contact);
-        DescriptionData description = new DescriptionData()
-                .setChoosePreferable("")
-                .setChoosePreferables("")
-                .setSalaryFrom(1)
-                .setSalaryTill(1);
-        app.getCreateHelper().fillDescriptionCreate(description);
-        EducationData education = new EducationData()
-                .setSchoolInstitution("")
-                .setDegree("")
-                .setGraduationYear(1)
-                .setDescription("");
-        app.getCreateHelper().fillEducationCreate(education);
-        ProjectsJobsData projects = new ProjectsJobsData()
-                .setCompany("")
-                .setPosition("")
-                .setProjectDescription("")
-                .setYearFrom(1)
-                .setYearTill(2);
-        app.getCreateHelper().fillProjectCreate(projects);
-        AchievementsData achievements = new AchievementsData()
-                .setDescription("")
-                .setGraduationYear(1);
-        app.getCreateHelper().fillAchievementsCreate(achievements);
-        CertificationsData certification = new CertificationsData()
-                .setDescription("")
-                .setGraduationYear(1);
-        app.getCreateHelper().fillCertificationCreate(certification);
-        FooterLinksData footerLinks = new FooterLinksData()
-                .setLinkedinLink("")
-                .setGirHub("")
-                .setPortfolio("");
-        app.getCreateHelper().fillFooterLinkCreate(footerLinks);
-        FooterInfoData footerInfo = new FooterInfoData()
-                .setRecommendation("");
-        app.getCreateHelper().fillFooterInfoCreate(footerInfo);
+        app.getCreateHelper().createTitle(
+                "sdsd",
+                "sdsd",
+                "dsd",
+                "sds",
+                "01022018",
+                "sds");
+        app.getCreateHelper().contactInfo(
+                121333,
+                "wqw",
+                "");
+        app.getCreateHelper().description(
+                "df",
+                "sfdsdgf",
+                1,
+                2);
+        app.getCreateHelper().education(
+                "sff",
+                "sff",
+                2,
+                "sf");
+        app.getCreateHelper().projectsJobs(
+                "dfd",
+                "ss",
+                "dsd",
+                2,
+                1);
+        app.getCreateHelper().achievements(
+                "fg",
+                3);
+        app.getCreateHelper().certifications(
+                "dhdh",
+                4);
+        app.getCreateHelper().footerLinks(
+                "",
+                "",
+                "");
+        app.getCreateHelper().footerInfo(
+                "");
+
+
+
+
         /*LanguagesData languages = new LanguagesData()
                 .setLanguage("");
         app.getCreateHelper().fillLanguagesCreate(languages);*/
 
-        }
     }
+}
