@@ -47,9 +47,6 @@ public class CreateTest extends TestBase {
         app.getCreateHelper().footerInfo(
                 "");
 
-
-
-
         /*LanguagesData languages = new LanguagesData()
                 .setLanguage("");
         app.getCreateHelper().fillLanguagesCreate(languages);*/
