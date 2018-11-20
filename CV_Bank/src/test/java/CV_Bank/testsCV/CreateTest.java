@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class CreateTest extends TestBase {
     @Test
 
-    public void testCreate() {
+    public void testCreate() throws InterruptedException {
         CreateHelper helper = app.getCreateHelper();
         helper.goToTheCreatePage();
         helper.createTitle(
@@ -48,9 +48,9 @@ public class CreateTest extends TestBase {
                 "");
         helper.footerInfo("");
 
-        /*LanguagesData languages = new LanguagesData()
-                .setLanguage("");
-        app.getCreateHelper().fillLanguagesCreate(languages);*/
+        helper.selectLanguages();
+
+        helper.fillSkillsCreate();
 
     }
 }

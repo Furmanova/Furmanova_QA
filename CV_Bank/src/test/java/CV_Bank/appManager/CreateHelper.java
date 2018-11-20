@@ -3,6 +3,8 @@ package CV_Bank.appManager;
 import CV_Bank.model.*;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.Select;
 
 public class CreateHelper extends HelperBase {
     public CreateHelper(WebDriver driver) {
@@ -79,12 +81,27 @@ public class CreateHelper extends HelperBase {
         type(By.xpath("//textarea[@placeholder='recommendation']"), footerInfoData.getRecommendation());
     }
 
-    /*public void fillLanguagesCreate(LanguagesData languagesData){
-        click(By.xpath("//a[@aria-controls='languages']//h3"));
-        type(By.xpath("//select[@class='ng-pristine ng-valid ng-touched']"),languagesData.getLanguage());
-    }*/
-    public void fillSkillsCreate(SkillsData skillsData) {
-        click(By.xpath("//a[@aria-controls='skills']//h3"));
+
+    public void selectLanguages() {
+        click(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Languages'])[1]/i[1]"));
+        WebElement languages = driver.findElement(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Languages'])[1]/following::select[1]"));
+        getSelect(languages);
+        select.selectByVisibleText("(Afan)/Oromoor/Oriya");
+        click(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Languages'])[1]/following::i[2]"));
+        WebElement languages2 = driver.findElement(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Languages'])[1]/following::select[2]"));
+        getSelect(languages2);
+        select.selectByVisibleText("Arabic");
+    }
+
+
+    public void fillSkillsCreate() throws InterruptedException {
+        click(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Education'])[1]/following::h3[1]"));
+        Thread.sleep(1000);
+        click(By.xpath("//u[contains(text(),'PHP')]"));
+        Thread.sleep(1000);
+        click(By.xpath("//u[contains(text(),'JavaScript')]"));
+        Thread.sleep(1000);
+        click(By.xpath("//u[contains(text(),'SQL')]"));
     }
 
     public void createTitle(String title, String firstName, String lastName,

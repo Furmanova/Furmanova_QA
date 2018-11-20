@@ -1,12 +1,11 @@
 package CV_Bank.appManager;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.NoSuchElementException;
-import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.*;
+import org.openqa.selenium.support.ui.Select;
 
 public class HelperBase {
     public WebDriver driver;
+    public Select select;
 
     public HelperBase(WebDriver driver) {
         this.driver = driver;
@@ -37,5 +36,9 @@ public class HelperBase {
         } catch (NoSuchElementException e) {
             return false;
         }
+    }
+    public Select getSelect(WebElement element) {
+        select = new Select(element);
+        return select;
     }
 }
