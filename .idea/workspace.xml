@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55f1efe3-98b8-4e00-bb65-473500ae2737" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/MyListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/CV_Bank_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/CV_Bank_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/appManager/ApplicationManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/appManager/ApplicationManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/appManager/CreateHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/appManager/CreateHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/appManager/HelperBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/appManager/HelperBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/model/LanguagesData.class" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/model/LanguagesData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/testsCV/CreateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/testsCV/CreateTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/testsCV/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/testsCV/TestBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/ApplicationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/CreateHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/CreateHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/HelperBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/LanguagesData.java" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/LanguagesData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/CreateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/CreateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_Bank/screen - 1543211636903.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_Bank/screen - 1543211686886.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_Bank/screen - 1543231892322.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_Bank/screen - 1543231932096.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_Bank/screen - 1543232132549.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_Bank/screen - 1543232189949.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/selenium-tests/.gradle/" />
     <ignored path="$PROJECT_DIR$/selenium-tests/build/" />
@@ -124,8 +116,8 @@
       <file leaf-file-name="CreateHelper.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/CreateHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="107" column="62" selection-start-line="107" selection-start-column="62" selection-end-line="107" selection-end-column="62" />
+            <state relative-caret-position="154">
+              <caret line="106" column="30" lean-forward="true" selection-start-line="106" selection-start-column="24" selection-end-line="106" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,8 +128,8 @@
       <file leaf-file-name="HelperBase.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/HelperBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="46" column="44" lean-forward="true" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="46" />
+            <state relative-caret-position="73">
+              <caret line="45" column="33" lean-forward="true" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
               <folding>
                 <element signature="e#412#413#0" expanded="true" />
                 <element signature="e#463#464#0" expanded="true" />
@@ -3291,11 +3283,11 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.4981884" weight="0.32969153" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32952693" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42414355" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42414355" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32626426" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49394673" visible="true" weight="0.24544074" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49394673" visible="true" weight="0.24544074" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.24306688" />
       <window_info anchor="right" id="Gradle" order="5" sideWeight="0.4981884" weight="0.32969153" />
       <window_info id="Structure" order="1" sideWeight="0.50605327" side_tool="true" weight="0.24164134" />
@@ -3697,19 +3689,6 @@
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/resources/08VEy0Pg.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/HelperBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="46" column="44" lean-forward="true" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="46" />
-          <folding>
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#1238#1239#0" expanded="true" />
-            <element signature="e#1293#1294#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CV_Bank/screen - 1543211636903.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -3723,10 +3702,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/HelperBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="45" column="33" lean-forward="true" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+          <folding>
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#1238#1239#0" expanded="true" />
+            <element signature="e#1293#1294#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/CreateHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="107" column="62" selection-start-line="107" selection-start-column="62" selection-end-line="107" selection-end-column="62" />
+        <state relative-caret-position="154">
+          <caret line="106" column="30" lean-forward="true" selection-start-line="106" selection-start-column="24" selection-end-line="106" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
