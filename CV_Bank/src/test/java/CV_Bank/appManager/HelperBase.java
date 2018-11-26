@@ -1,7 +1,9 @@
 package CV_Bank.appManager;
 
 import org.openqa.selenium.*;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class HelperBase {
     public WebDriver driver;
@@ -40,5 +42,16 @@ public class HelperBase {
     public Select getSelect(WebElement element) {
         select = new Select(element);
         return select;
+    }
+    public void waitUntilIsLoadedCustomTime(WebElement element) {
+        waitUntilIsLoadedCustomTime(element,30);
+    }
+
+    public void waitUntilIsLoadedCustomTime(WebElement element, int time) {
+        try {
+            new WebDriverWait(driver, time).until(ExpectedConditions.visibilityOf(element));
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 }
