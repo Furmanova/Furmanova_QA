@@ -21,12 +21,13 @@ public class CreateTest extends TestBase {
                 .certifications("dhdh", 4)
                 .footerLinks("", "", "")
                 .footerInfo("")
+                .selectLanguage(Arrays.asList(new String[]{"Russian","1"}))
                 .clickLanguages()
                 .selectLanguages("Russian", "1")
                 .addLanguages()
                 .selectLanguages("English", "2")
                 .addLanguages()
                 .selectLanguages("Hebrew", "3")
-                .fillSkillsCreate(Arrays.asList(new String[]{"Go", "SQL", "Linux"}));
+               .fillSkillsCreate(Arrays.asList(new String[]{"Go", "SQL", "Linux"}));
     }
 }

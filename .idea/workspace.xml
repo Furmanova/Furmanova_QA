@@ -3,12 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="55f1efe3-98b8-4e00-bb65-473500ae2737" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Bank/screen - 1543211636903.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Bank/screen - 1543211686886.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Bank/screen - 1543231892322.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Bank/screen - 1543231932096.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Bank/screen - 1543232132549.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Bank/screen - 1543232189949.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/appManager/CreateHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/appManager/CreateHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/testsCV/CreateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/out/test/classes/CV_Bank/testsCV/CreateTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/CreateHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/CreateHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/CreateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/CreateTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/selenium-tests/.gradle/" />
     <ignored path="$PROJECT_DIR$/selenium-tests/build/" />
@@ -104,8 +102,8 @@
       <file leaf-file-name="CreateTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/CreateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            <state relative-caret-position="-114">
+              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,28 +111,72 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CreateHelper.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CreateHelper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/CreateHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="106" column="30" lean-forward="true" selection-start-line="106" selection-start-column="24" selection-end-line="106" selection-end-column="39" />
+            <state relative-caret-position="135">
+              <caret line="107" column="59" selection-start-line="107" selection-start-column="7" selection-end-line="107" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelperBase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/HelperBase.java">
+      <file leaf-file-name="ApplicationManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ApplicationManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="45" column="33" lean-forward="true" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+            <state relative-caret-position="162">
+              <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SessionHelper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/SessionHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-27">
+              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
               <folding>
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#1238#1239#0" expanded="true" />
-                <element signature="e#1293#1294#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/ApplicationManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#634#635#0" expanded="true" />
+                <element signature="e#672#673#0" expanded="true" />
+                <element signature="e#1285#1286#0" expanded="true" />
+                <element signature="e#1314#1315#0" expanded="true" />
+                <element signature="e#1361#1362#0" expanded="true" />
+                <element signature="e#1397#1398#0" expanded="true" />
+                <element signature="e#1442#1443#0" expanded="true" />
+                <element signature="e#1477#1478#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SessionHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/SessionHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+              <folding>
+                <element signature="e#417#418#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#645#646#0" expanded="true" />
+                <element signature="e#712#713#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2889,12 +2931,51 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AddressbookWebTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AddressbookWebTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AddressbookWebTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AddressbookWebTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AddressbookWebTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="QA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AddressbookWebTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="QA" type="462c0819:PsiDirectoryNode" />
+              <item name="appManadger" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
               <item name="CV_Bank" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -2943,6 +3024,28 @@
               <item name="CV_Bank" type="462c0819:PsiDirectoryNode" />
               <item name="testsCV" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EbayTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EbayTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EbayTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EbayTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -2952,7 +3055,7 @@
   <component name="PropertiesComponent">
     <property name="extract.method.default.visibility" value="public" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CV_Bank" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -2988,7 +3091,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.CreateTest.testCreate">
+  <component name="RunManager" selected="TestNG.CV_Bank.testsCV">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -3030,6 +3133,35 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="CV_Bank.testsCV" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CV_Bank_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CV_Bank.testsCV.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="CV_Bank.testsCV" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
     </configuration>
     <configuration name="ContactCreateTest" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
       <module name="AddressbookWebTests_test" />
@@ -3147,35 +3279,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="TestLogin.negativeMailLoginTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="CV_Bank_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CV_Bank.testsCV.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="CV_Bank.testsCV" />
-      <option name="MAIN_CLASS_NAME" value="CV_Bank.testsCV.TestLogin" />
-      <option name="METHOD_NAME" value="negativeMailLoginTest" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -3200,19 +3303,19 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.ContactCreateTest" />
-      <item itemvalue="TestNG.TestLogin.negativeMailLoginTest" />
       <item itemvalue="JUnit.CreateTest.testCreate" />
       <item itemvalue="TestNG.CreateTest.testCreate" />
       <item itemvalue="TestNG.TestLogin" />
       <item itemvalue="TestNG.CreateTest" />
+      <item itemvalue="TestNG.CV_Bank.testsCV" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.CV_Bank.testsCV" />
         <item itemvalue="TestNG.CreateTest.testCreate" />
         <item itemvalue="TestNG.CreateTest" />
         <item itemvalue="TestNG.TestLogin" />
         <item itemvalue="JUnit.CreateTest.testCreate" />
-        <item itemvalue="TestNG.TestLogin.negativeMailLoginTest" />
       </list>
     </recent_temporary>
   </component>
@@ -3230,27 +3333,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CreateTest_testCreate - 2018.11.26 at 08h 03m 12s.xml">
-      <configuration name="CreateTest.testCreate" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CreateTest_testCreate - 2018.11.26 at 08h 09m 58s.xml">
-      <configuration name="CreateTest.testCreate" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CreateTest_testCreate - 2018.11.26 at 08h 10m 45s.xml">
-      <configuration name="CreateTest.testCreate" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CreateTest_testCreate - 2018.11.26 at 13h 31m 32s.xml">
-      <configuration name="CreateTest.testCreate" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CreateTest_testCreate - 2018.11.26 at 13h 32m 12s.xml">
-      <configuration name="CreateTest.testCreate" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CreateTest_testCreate - 2018.11.26 at 13h 35m 32s.xml">
-      <configuration name="CreateTest.testCreate" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CreateTest_testCreate - 2018.11.26 at 13h 36m 30s.xml">
-      <configuration name="CreateTest.testCreate" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="CreateTest_testCreate - 2018.11.26 at 13h 37m 05s.xml">
       <configuration name="CreateTest.testCreate" configurationId="TestNG" />
     </history-entry>
@@ -3259,6 +3341,27 @@
     </history-entry>
     <history-entry file="CreateTest_testCreate - 2018.11.26 at 13h 39m 36s.xml">
       <configuration name="CreateTest.testCreate" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateTest_testCreate - 2018.11.26 at 14h 23m 00s.xml">
+      <configuration name="CreateTest.testCreate" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateTest_testCreate - 2018.11.26 at 14h 23m 39s.xml">
+      <configuration name="CreateTest.testCreate" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateTest_testCreate - 2018.11.26 at 14h 30m 05s.xml">
+      <configuration name="CreateTest.testCreate" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateTest_testCreate - 2018.11.26 at 14h 33m 03s.xml">
+      <configuration name="CreateTest.testCreate" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateTest_testCreate - 2018.11.26 at 14h 33m 29s.xml">
+      <configuration name="CreateTest.testCreate" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateTest_testCreate - 2018.11.27 at 12h 44m 00s.xml">
+      <configuration name="CreateTest.testCreate" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CV_Bank_testsCV - 2018.11.27 at 12h 54m 04s.xml">
+      <configuration name="CV_Bank.testsCV" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -3282,20 +3385,20 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.4981884" weight="0.32969153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42414355" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32952693" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42414355" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32626426" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49394673" visible="true" weight="0.24544074" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49394673" visible="true" weight="0.25683892" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.24306688" />
       <window_info anchor="right" id="Gradle" order="5" sideWeight="0.4981884" weight="0.32969153" />
       <window_info id="Structure" order="1" sideWeight="0.50605327" side_tool="true" weight="0.24164134" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4981884" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info id="Favorites" order="5" sideWeight="0.50605327" side_tool="true" weight="0.24164134" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3980424" />
+      <window_info id="Favorites" order="5" sideWeight="0.50605327" side_tool="true" weight="0.24164134" />
       <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5018116" side_tool="true" weight="0.32969153" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -3306,22 +3409,23 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5018116" side_tool="true" weight="0.32969153" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32789558" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Gradle" order="5" sideWeight="0.4981884" weight="0.32969153" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38172922" />
-      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4981884" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49394673" visible="true" weight="0.24544074" />
       <window_info id="Structure" order="1" sideWeight="0.50605327" side_tool="true" weight="0.24164134" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4981884" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952693" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="6" />
       <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32789558" />
+      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.4981884" weight="0.32969153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3980424" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32626426" />
@@ -3329,10 +3433,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32952693" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.24306688" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32626426" />
-      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.4981884" weight="0.32969153" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5018116" side_tool="true" weight="0.32969153" />
       <window_info id="Favorites" order="5" sideWeight="0.50605327" side_tool="true" weight="0.24164134" />
     </layout-to-restore>
   </component>
@@ -3380,48 +3483,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/DescriptionData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/FooterInfoData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/FooterLinksData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/EducationData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/CertificationsData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/AchievementsData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/model/ProjectsJobsData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
@@ -3442,45 +3503,10 @@
     <entry file="file://$PROJECT_DIR$/CV_Bank/settings.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CV_Bank/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupCreateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/GroupHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-675">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactDeleteTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="86">
           <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/SessionHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -3503,13 +3529,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/SessionHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactEditTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
@@ -3528,13 +3547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
           <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="102" column="35" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -3566,31 +3578,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/HelperBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/MyListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -3628,29 +3619,6 @@
     <entry file="file://$PROJECT_DIR$/sh.exe.stackdump">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ApplicationManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="27" column="41" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/ApplicationManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#1074#1075#0" expanded="true" />
-            <element signature="e#1103#1104#0" expanded="true" />
-            <element signature="e#1230#1231#0" expanded="true" />
-            <element signature="e#1265#1266#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/3.14.0/ca6132159a19ff765f46742a78c7f985cb44be7d/selenium-support-3.14.0-sources.jar!/org/openqa/selenium/support/events/EventFiringWebDriver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -3658,25 +3626,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/MyListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="5" column="55" lean-forward="true" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/resources/contact.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/resources/testng.xml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -3689,13 +3643,21 @@
     <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/resources/08VEy0Pg.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CV_Bank/screen - 1543211636903.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/CreateTest.java">
+    <entry file="file://$PROJECT_DIR$/CV_Bank/screen - 1543211636903.png" />
+    <entry file="file://$PROJECT_DIR$/CV_Bank/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        <state relative-caret-position="220">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/MyListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="12" column="62" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -3704,9 +3666,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/HelperBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="45" column="33" lean-forward="true" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+        <state relative-caret-position="-27">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#412#413#0" expanded="true" />
             <element signature="e#463#464#0" expanded="true" />
             <element signature="e#1238#1239#0" expanded="true" />
@@ -3715,12 +3678,179 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/CreateHelper.java">
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestLogin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="106" column="30" lean-forward="true" selection-start-line="106" selection-start-column="24" selection-end-line="106" selection-end-column="39" />
+        <state relative-caret-position="75">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/GroupHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ContactHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2187">
+          <caret line="102" column="35" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding>
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/GroupCreateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/ContactCreateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/tests/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/appManadger/SessionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoauction/src/test/java/TelRan/QA/tests/TestLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginPassword/src/test/java/InputLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-141">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EbayTest/src/test/java/EbayRegistration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/TestLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/SessionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/HelperBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/ApplicationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#1285#1286#0" expanded="true" />
+            <element signature="e#1314#1315#0" expanded="true" />
+            <element signature="e#1361#1362#0" expanded="true" />
+            <element signature="e#1397#1398#0" expanded="true" />
+            <element signature="e#1442#1443#0" expanded="true" />
+            <element signature="e#1477#1478#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/testsCV/CreateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_Bank/src/test/java/CV_Bank/appManager/CreateHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="107" column="59" selection-start-line="107" selection-start-column="7" selection-end-line="107" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/ApplicationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddressbookWebTests/src/test/java/TelRan/QA/appManadger/SessionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
           </folding>
         </state>
       </provider>

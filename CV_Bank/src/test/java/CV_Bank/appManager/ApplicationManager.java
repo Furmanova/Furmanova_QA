@@ -1,6 +1,7 @@
 package CV_Bank.appManager;
 
 import CV_Bank.testsCV.MyListener;
+import CV_Bank.testsCV.TestLogin;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -11,7 +12,7 @@ import org.openqa.selenium.support.events.EventFiringWebDriver;
 import java.util.concurrent.TimeUnit;
 
 public class ApplicationManager {
-    public static final String HOST = "https://cv-app-test.herokuapp.com/";
+    public static final String HOST = "https://cvbank.soft-gen.com/";
     SessionHelper sessionHelper;
     CreateHelper createHelper;
     EventFiringWebDriver driver;
@@ -24,17 +25,20 @@ public class ApplicationManager {
     public void start() {
 
         if (browser.equals(BrowserType.CHROME)) {
-            driver =new EventFiringWebDriver( new ChromeDriver());
+            driver = new EventFiringWebDriver(new ChromeDriver());
         } else if (browser.equals(BrowserType.FIREFOX)) {
-            driver = new EventFiringWebDriver (new FirefoxDriver());
+            driver = new EventFiringWebDriver(new FirefoxDriver());
         }
         driver.register(new MyListener());
+
 
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         sessionHelper = new SessionHelper(driver);
         createHelper = new CreateHelper(driver);
         sessionHelper.openSite(HOST);
+        /*sessionHelper.loginClick();
+        sessionHelper.login("ivanov@mail.ru","123456");*/
     }
 
     public void stop() {

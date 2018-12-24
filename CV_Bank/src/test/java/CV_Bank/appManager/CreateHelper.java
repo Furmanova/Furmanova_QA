@@ -108,10 +108,24 @@ public class CreateHelper extends HelperBase {
         this.waitUntilIsLoadedCustomTime(driver.findElement(By.xpath("//select[@class='ng-pristine ng-valid ng-touched']")));
         new Select(driver.findElement(By.xpath("//div[@id='languages']//div//div[" + element + "]//select[1]")))
                 .selectByVisibleText(languages);
+        return this;
+    }
+    public CreateHelper selectLanguage(List<String> languages ) {
+        click(By.xpath("//a[@aria-controls='languages']//i[@class='fas fa-chevron-circle-down']"));
+
+//        this.waitUntilIsLoadedCustomTime(driver.findElement(By.xpath("//select[@class='ng-pristine ng-valid ng-touched']")));
+        for (String language :languages) {
+
+            WebElement element = driver.findElement(By.xpath("//div[@id='skill-list']"));
+            new Select(driver.findElement(By.xpath("//div[@id='languages']//div//div[" + element + "]//select[1]")))
+                    .selectByVisibleText(language);
+
+
+
+        }
 
         return this;
     }
-
     public CreateHelper fillSkillsCreate(List<String> skills) {
         click(By.xpath("//a[@aria-controls='skills']//i[@class='fas fa-chevron-circle-down']"));
         this.waitUntilIsLoadedCustomTime(driver.findElement(By.xpath("//div[@id='skills']")));
