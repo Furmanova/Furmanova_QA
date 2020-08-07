@@ -1,0 +1,718 @@
+2019-01-25 13:47:41 INFO  LogLog4j:31 - LoginTests BeforeMethod: homePage is loaded
+2019-01-25 13:47:41 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-25 13:47:41 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-25 13:47:41 INFO  LogLog4j:34 - LoginTests BeforeMethod: loginPage is loaded
+2019-01-25 13:47:41 INFO  LogLog4j:36 - LoginPageHelper: verify that cancel button was loaded
+2019-01-25 13:47:41 INFO  LogLog4j:41 - ----------- Test loginPositive DataProvider was started -----------------
+2019-01-25 13:47:41 INFO  LogLog4j:42 - --Parameter emailmarina@123.com
+2019-01-25 13:47:41 INFO  LogLog4j:43 - --Parameter passwordmarina
+2019-01-25 13:47:41 INFO  LogLog4j:44 - Test loginPositive:  loginPage is loaded 
+2019-01-25 13:47:41 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-25 13:47:41 INFO  LogLog4j:49 - LoginPageHelper: enter marina@123.com to email field
+2019-01-25 13:47:42 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-25 13:47:42 INFO  LogLog4j:57 - LoginPageHelper: enter marina to password field
+2019-01-25 13:47:42 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-25 13:47:42 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-25 13:47:42 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-25 13:47:44 INFO  LogLog4j:31 - LoginTests BeforeMethod: homePage is loaded
+2019-01-25 13:47:44 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-25 13:47:44 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-25 13:47:44 INFO  LogLog4j:34 - LoginTests BeforeMethod: loginPage is loaded
+2019-01-25 13:47:44 INFO  LogLog4j:36 - LoginPageHelper: verify that cancel button was loaded
+2019-01-25 13:47:45 INFO  LogLog4j:41 - ----------- Test loginPositive DataProvider was started -----------------
+2019-01-25 13:47:45 INFO  LogLog4j:42 - --Parameter emaildarya793@gmail.com
+2019-01-25 13:47:45 INFO  LogLog4j:43 - --Parameter passworddarya793
+2019-01-25 13:47:45 INFO  LogLog4j:44 - Test loginPositive:  loginPage is loaded 
+2019-01-25 13:47:45 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-25 13:47:45 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-25 13:47:45 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-25 13:47:45 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-25 13:47:45 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-25 13:47:45 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-25 13:47:45 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-28 16:39:17 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-28 16:39:18 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-28 16:39:18 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-28 16:39:18 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-28 16:39:19 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-28 16:39:19 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-28 16:39:19 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-28 16:39:19 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-28 16:39:19 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-28 16:41:30 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-28 16:41:31 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-28 16:41:31 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-28 16:41:31 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-28 16:41:31 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-28 16:41:31 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-28 16:41:31 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-28 16:41:31 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-28 16:41:31 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-28 16:42:16 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-28 16:42:16 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-28 16:42:16 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-28 16:42:16 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-28 16:42:17 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-28 16:42:17 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-28 16:42:17 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-28 16:42:17 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-28 16:42:17 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-28 19:26:56 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-28 19:26:56 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-28 19:26:56 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-28 19:26:56 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-28 19:26:57 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-28 19:26:57 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-28 19:26:57 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-28 19:26:57 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-28 19:26:57 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-28 20:04:22 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-28 20:04:23 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-28 20:04:23 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-28 20:04:23 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-28 20:04:23 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-28 20:04:23 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-28 20:04:23 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-28 20:04:23 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-28 20:04:23 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-28 20:32:26 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-28 20:32:26 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-28 20:32:26 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-28 20:32:26 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-28 20:32:27 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-28 20:32:27 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-28 20:32:27 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-28 20:32:27 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-28 20:32:27 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-28 20:33:52 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-28 20:33:52 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-28 20:33:52 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-28 20:33:52 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-28 20:33:53 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-28 20:33:53 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-28 20:33:53 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-28 20:33:53 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-28 20:33:53 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-28 20:34:51 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-28 20:34:51 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-28 20:34:51 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-28 20:34:51 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-28 20:34:52 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-28 20:34:52 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-28 20:34:52 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-28 20:34:52 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-28 20:34:52 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:01:15 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:01:15 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:01:15 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:01:15 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:01:16 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:01:16 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:01:16 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:01:16 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:01:16 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:02:27 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:02:27 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:02:27 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:02:27 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:02:27 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:02:27 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:02:27 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:02:27 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:02:27 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:02:41 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:02:41 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:02:41 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:02:41 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:02:41 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:02:41 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:02:42 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:02:42 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:02:42 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:03:55 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:03:55 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:03:55 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:03:55 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:03:56 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:03:56 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:03:56 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:03:56 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:03:56 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:04:37 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:04:37 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:04:37 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:04:37 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:04:38 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:04:38 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:04:38 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:04:38 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:04:38 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:06:45 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:06:45 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:06:45 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:06:45 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:06:46 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:06:46 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:06:46 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:06:46 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:06:46 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:07:50 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:07:50 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:07:50 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:07:50 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:07:50 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:07:50 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:07:50 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:07:50 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:07:50 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:11:50 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:11:50 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:11:50 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:11:50 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:11:50 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:11:50 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:11:50 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:11:50 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:11:51 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:14:19 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:14:19 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:14:19 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:14:19 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:14:19 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:14:19 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:14:19 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:14:19 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:14:20 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:15:11 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:15:11 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:15:11 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:15:11 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:15:11 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:15:11 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:15:12 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:15:12 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:15:12 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:18:41 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:18:41 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:18:41 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:18:41 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:18:41 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:18:41 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:18:41 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:18:41 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:18:42 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:22:10 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:22:10 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:22:10 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:22:10 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:22:11 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:22:11 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:22:11 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:22:11 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:22:11 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:22:45 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:22:45 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:22:46 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:22:46 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:22:46 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:22:46 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:22:46 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:22:46 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:22:46 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:23:30 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:23:30 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:23:30 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:23:30 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:23:31 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:23:31 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:23:31 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:23:31 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:23:31 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:24:32 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:24:32 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:24:32 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:24:32 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:24:32 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:24:32 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:24:33 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:24:33 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:24:33 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:26:35 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:26:35 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:26:35 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:26:35 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:26:35 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:26:35 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:26:35 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:26:35 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:26:35 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:34:12 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:34:12 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:34:12 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:34:12 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:34:13 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:34:13 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:34:13 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:34:13 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:34:13 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:41:00 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:41:00 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:41:00 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:41:00 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:41:01 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:41:01 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:41:01 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:41:01 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:41:01 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:41:15 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:41:15 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:41:15 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:41:15 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:41:15 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:41:15 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:41:15 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:41:15 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:41:15 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:43:20 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:43:21 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:43:21 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:43:21 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:43:21 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:43:21 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:43:21 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:43:21 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:43:21 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:44:07 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:44:07 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:44:07 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:44:07 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:44:07 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:44:07 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:44:08 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:44:08 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:44:08 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:44:20 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:44:20 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:44:20 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:44:20 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:44:20 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:44:20 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:44:21 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:44:21 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:44:21 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:44:55 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:44:55 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:44:56 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:44:56 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:44:56 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:44:56 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:44:56 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:44:56 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:44:56 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:54:43 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:54:43 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:54:43 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:54:43 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:54:44 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:54:44 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:54:44 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:54:44 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:54:44 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:56:11 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:56:11 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:56:11 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:56:11 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:56:11 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:56:11 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:56:11 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:56:11 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:56:11 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 11:56:55 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 11:56:55 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 11:56:55 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 11:56:55 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 11:56:55 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 11:56:55 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 11:56:55 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 11:56:55 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 11:56:55 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 12:03:46 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 12:03:46 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 12:03:46 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 12:03:46 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 12:03:47 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 12:03:47 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 12:03:47 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 12:03:47 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 12:03:47 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 12:04:15 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 12:04:15 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 12:04:15 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 12:04:15 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 12:04:16 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 12:04:16 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 12:04:16 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 12:04:16 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 12:04:16 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 12:17:02 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 12:17:02 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 12:17:02 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 12:17:02 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 12:17:02 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 12:17:02 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 12:17:03 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 12:17:03 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 12:17:03 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 12:21:25 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 12:21:25 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 12:21:25 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 12:21:25 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 12:21:25 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 12:21:25 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 12:21:25 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 12:21:25 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 12:21:25 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 12:21:38 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 12:21:38 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 12:21:38 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 12:21:38 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 12:22:08 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 12:22:08 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 12:22:08 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 12:22:08 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 12:22:08 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 12:22:08 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 12:22:09 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 12:22:09 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 12:22:09 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 12:23:15 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 12:23:15 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 12:23:15 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 12:23:15 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 12:23:16 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 12:23:16 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 12:23:16 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 12:23:16 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 12:23:16 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 12:37:39 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 12:37:39 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 12:37:39 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 12:37:39 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 12:37:39 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 12:37:39 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 12:37:40 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 12:37:40 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 12:37:40 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 12:38:33 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 12:38:33 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 12:38:33 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 12:38:33 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 12:38:34 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 12:38:34 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 12:38:34 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 12:38:34 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 12:38:34 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 12:38:57 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 12:38:57 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 12:38:58 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 12:38:58 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 12:38:58 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 12:38:58 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 12:38:58 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 12:38:58 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 12:38:58 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 12:41:27 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 12:41:27 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 12:41:28 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 12:41:28 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 12:41:28 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 12:41:28 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 12:41:28 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 12:41:28 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 12:41:28 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 12:42:26 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 12:42:27 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 12:42:27 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 12:42:27 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 12:42:27 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 12:42:27 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 12:42:27 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 12:42:27 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 12:42:27 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 15:50:01 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 15:50:01 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 15:50:06 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 15:50:06 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 15:50:07 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 15:50:07 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 15:50:07 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 15:50:07 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 15:50:07 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 15:51:29 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 15:51:29 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-01-31 15:51:29 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-01-31 15:51:29 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-01-31 15:51:29 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-01-31 15:51:29 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-01-31 15:51:29 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-01-31 15:51:29 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-01-31 15:51:29 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-01-31 22:45:57 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 22:52:15 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-01-31 22:54:55 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 08:00:16 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 08:03:44 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 09:17:22 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 09:17:22 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 09:17:23 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 09:17:23 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 09:17:23 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 09:17:23 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 09:17:23 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 09:17:23 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 09:17:23 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 09:55:13 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 09:55:13 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 09:55:13 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 09:55:13 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 09:55:13 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 09:55:13 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 09:55:14 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 09:55:14 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 09:55:14 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 09:56:53 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 09:56:53 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 09:56:53 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 09:56:53 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 09:57:18 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 09:57:18 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 09:57:18 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 09:57:18 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 09:57:43 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 09:57:44 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 09:57:44 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 09:57:44 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 09:57:44 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 09:57:44 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 09:57:44 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 09:57:44 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 09:57:44 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 09:58:06 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 09:58:06 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 09:58:07 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 09:58:07 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 09:58:07 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 09:58:07 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 09:58:07 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 09:58:07 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 09:58:07 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 09:58:46 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 09:58:46 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 09:58:46 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 09:58:46 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 09:58:46 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 09:58:46 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 09:58:46 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 09:58:46 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 09:58:46 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 10:08:27 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 10:08:27 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 10:08:27 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 10:08:27 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 10:08:28 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 10:08:28 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 10:08:28 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 10:08:28 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 10:08:28 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 10:17:27 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 10:17:27 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 10:17:27 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 10:17:27 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 10:17:27 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 10:17:27 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 10:17:27 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 10:17:27 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 10:17:28 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 10:18:00 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 10:18:00 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 10:18:00 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 10:18:00 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 10:18:01 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 10:18:01 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 10:18:01 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 10:18:01 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 10:18:01 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 10:18:21 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 10:18:21 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 10:18:21 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 10:18:21 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 10:18:21 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 10:18:21 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 10:18:22 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 10:18:22 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 10:18:22 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 10:19:05 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 10:19:05 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 10:19:05 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 10:19:05 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 10:19:05 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 10:19:05 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 10:19:05 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 10:19:05 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 10:19:05 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 10:19:44 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 10:19:44 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 10:19:44 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 10:19:44 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 10:19:44 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 10:19:44 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 10:19:45 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 10:19:45 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 10:19:45 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 10:23:39 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 10:23:39 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 10:23:39 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 10:23:39 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 10:23:39 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 10:23:39 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 10:23:39 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 10:23:39 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 10:23:39 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 10:23:58 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 10:23:58 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 10:23:59 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 10:23:59 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 10:23:59 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 10:23:59 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 10:23:59 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 10:23:59 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 10:23:59 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 10:27:14 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 10:27:14 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 10:27:15 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 10:27:15 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 10:27:15 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 10:27:15 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 10:27:15 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 10:27:15 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 10:27:15 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 10:43:23 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 10:43:23 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 10:43:23 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 10:43:23 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 10:43:23 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 10:43:23 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 10:43:23 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 10:43:23 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 10:43:23 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 10:44:24 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 10:44:24 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 10:44:24 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 10:44:24 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 10:44:24 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 10:44:24 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 10:44:24 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 10:44:24 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 10:44:24 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 10:44:36 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 10:44:36 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 10:44:36 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 10:44:36 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 10:44:37 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 10:44:37 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 10:44:37 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 10:44:37 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 10:44:37 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 10:45:08 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 10:45:08 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 10:45:08 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 10:45:08 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 10:45:09 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 10:45:09 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 10:45:09 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 10:45:09 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 10:45:09 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 15:39:31 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 15:39:32 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 15:39:32 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 15:39:32 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 15:39:32 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 15:39:32 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 15:39:32 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 15:39:32 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 15:39:32 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 15:40:19 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 15:40:19 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 15:40:19 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 15:40:19 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 15:40:20 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 15:40:20 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 15:40:20 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 15:40:20 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 15:40:20 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 15:41:08 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 15:41:08 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 15:41:08 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 15:41:08 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 15:41:09 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 15:41:09 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 15:41:09 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 15:41:09 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 15:41:09 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 15:42:05 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 15:42:05 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 15:42:05 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 15:42:05 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 15:42:06 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 15:42:06 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 15:42:06 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 15:42:06 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 15:42:06 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 16:51:28 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 16:51:28 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 16:51:28 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 16:51:28 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 16:51:29 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 16:51:29 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 16:51:29 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 16:51:29 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 16:51:29 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 16:52:04 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 16:52:04 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 16:52:05 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 16:52:05 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 16:52:05 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 16:52:05 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 16:52:05 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 16:52:05 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 16:52:05 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 21:56:19 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 21:56:19 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 21:56:20 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 21:56:20 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 21:56:20 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 21:56:20 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 21:56:20 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 21:56:20 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 21:56:20 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2019-02-01 21:59:25 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2019-02-01 21:59:25 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2019-02-01 21:59:25 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2019-02-01 21:59:25 INFO  LogLog4j:49 - LoginPageHelper: enter darya793@gmail.com to email field
+2019-02-01 21:59:25 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2019-02-01 21:59:25 INFO  LogLog4j:57 - LoginPageHelper: enter darya793 to password field
+2019-02-01 21:59:25 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2019-02-01 21:59:25 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2019-02-01 21:59:25 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton
+2020-08-05 13:56:15 INFO  LogLog4j:31 - LoginTests BeforeMethod: homePage is loaded
+2020-08-05 13:56:15 INFO  LogLog4j:42 - HomePageHelper: wait until gotoEventButton is loaded
+2020-08-05 13:56:31 INFO  LogLog4j:81 - HomePageHelper: login button was pressed
+2020-08-05 13:56:31 INFO  LogLog4j:34 - LoginTests BeforeMethod: loginPage is loaded
+2020-08-05 13:56:31 INFO  LogLog4j:36 - LoginPageHelper: verify that cancel button was loaded
+2020-08-05 13:56:31 INFO  LogLog4j:48 - --- LoginPageHelper: method enterEmail was started ---
+2020-08-05 13:56:31 INFO  LogLog4j:49 - LoginPageHelper: enter marina@123.com to email field
+2020-08-05 13:56:31 INFO  LogLog4j:56 - --- LoginPageHelper: method enterPassword was started ---
+2020-08-05 13:56:31 INFO  LogLog4j:57 - LoginPageHelper: enter marina to password field
+2020-08-05 13:56:32 INFO  LogLog4j:64 - --- LoginPageHelper: method pressSubmitButton was started ---
+2020-08-05 13:56:32 INFO  LogLog4j:65 - LoginPageHelper: wait until submitButton was loaded
+2020-08-05 13:56:32 INFO  LogLog4j:67 - LoginPageHelper: clicking on submitButton

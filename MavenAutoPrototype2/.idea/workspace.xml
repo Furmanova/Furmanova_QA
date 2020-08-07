@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a539a2d8-fcb6-46f4-a5ab-9c3a0854ddcc" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoauction/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Autoauction/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoauction/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Autoauction/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoauction/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../Autoauction/gradlew" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MavenAutoPrototype2$AuthEventsPageTests_newEventCreationPositiveTest.ic" NAME="AuthEventsPageTests.newEventCreationPositiveTest Coverage Results" MODIFIED="1547798179021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.stqa.selenium.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MavenAutoPrototype2$HomePageTests_verifyCreateAccountButton.ic" NAME="HomePageTests.verifyCreateAccountButton Coverage Results" MODIFIED="1545667332532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.stqa.selenium.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1296" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectId" id="1coidEbVCJasJ2esWJ747ccgO8F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testBrick2_ssh" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.22068965" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.stqa.selenium" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.stqa.selenium" />
+      <recent name="ru.stqa.selenium.pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MichaelY\Documents\GitHub\MavenAutoPrototype2\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginPageTests.loginPositiveTest">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthEventsPageTests.newEvent_AutoDataGeneration_PositiveTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenAutoPrototype2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.selenium" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.selenium.AuthEventsPageTests" />
+      <option name="METHOD_NAME" value="newEvent_AutoDataGeneration_PositiveTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtendsTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenAutoPrototype2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.selenium" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.selenium.ExtendsTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTests.openHomePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenAutoPrototype2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.selenium" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.selenium.HomePageTests" />
+      <option name="METHOD_NAME" value="openHomePageTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTests.loginPositiveDataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenAutoPrototype2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.selenium" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.selenium.LoginPageTests" />
+      <option name="METHOD_NAME" value="loginPositiveDataProvider" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTests.loginPositiveTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenAutoPrototype2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.selenium" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.selenium.LoginPageTests" />
+      <option name="METHOD_NAME" value="loginPositiveTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.AuthEventsPageTests.newEvent_AutoDataGeneration_PositiveTest" />
+      <item itemvalue="TestNG.ExtendsTest.test1" />
+      <item itemvalue="TestNG.HomePageTests.openHomePageTest" />
+      <item itemvalue="TestNG.LoginPageTests.loginPositiveDataProvider" />
+      <item itemvalue="TestNG.LoginPageTests.loginPositiveTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginPageTests.loginPositiveTest" />
+        <item itemvalue="TestNG.ExtendsTest.test1" />
+        <item itemvalue="TestNG.LoginPageTests.loginPositiveDataProvider" />
+        <item itemvalue="TestNG.HomePageTests.openHomePageTest" />
+        <item itemvalue="TestNG.AuthEventsPageTests.newEvent_AutoDataGeneration_PositiveTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a539a2d8-fcb6-46f4-a5ab-9c3a0854ddcc" name="Default" comment="" />
+      <created>1545379041881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545379041881</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added UnAuthEventPageHelper, AuthEventPageHelper and LoginPageHelper.&#10;Also added Test in this classes">
+      <created>1546003796161</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546003796161</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added CreateAccountPage Helper and goCreateAccountTest to the HomePageTests">
+      <created>1546775039102</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546775039102</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added RegistrationFormHelper and CreateAccountPositiveTest but not for all fields of the form">
+      <created>1546796808283</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1546796808283</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added methods to the RegistrationFormHelper for createAccountPositiveTests">
+      <created>1546802849602</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1546802849602</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Classes added to the Git Repository">
+      <created>1546803331041</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1546803331041</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added selectGender to the test.">
+      <created>1546805252090</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1546805252090</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Changed the order of the function calls in the test. Put the selectGender on the first place. Still don't find the trouble with the selectLanguage and selectBirthday functions">
+      <created>1547056061402</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1547056061402</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added two sentences of the code to the selectFood method. Actions emptyPush = new Actions(driver);&#10;                                                                  emptyPush.moveToElement(emptyClick).click().build().perform();">
+      <created>1547137173452</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1547137173452</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added last method to Test. Last was the enterBirthday. Test was passed.">
+      <created>1547138512096</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1547138512096</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Created Assert in the createAccountPositive Test for registration form">
+      <created>1547146332839</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1547146332839</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Created AuthEventsPageTests">
+      <created>1547149199868</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1547149199868</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Created DataProvider class with csv file with data for login test">
+      <created>1547201065626</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1547201065626</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Created HamburgerMenuHelper">
+      <created>1547201132747</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1547201132747</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added AfterMethod for logOut after witch test">
+      <created>1547387160497</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1547387160497</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Optimized method enterBirthday for biggest range of the birthday year used If loops">
+      <created>1547492480965</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1547492480965</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Created classes UserProfileTests and UserProfileHelper. Added test for changing Avatar Picture using class File">
+      <created>1547586240187</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1547586240187</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Created Test changeUserProfileData() with method changeFoodValue()">
+      <created>1547664266110</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1547664266110</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added AfterMethod for logOut after witch test in UserProfileTests. Created Test change_LanguageValue_UserProfile() with method changeLanguageValue in the UserProfileHelper">
+      <created>1547725425300</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1547725425300</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Created test newEventCreationPositiveTest()">
+      <created>1547831592594</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1547831592594</updated>
+    </task>
+    <task id="LOCAL-00020" summary="change address in test newEventCreationPositiveTest">
+      <created>1547832139950</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1547832139950</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Created tests newEvent_AutoDataGeneration_PositiveTest() with methods for auto Generation Day data and Time data for the new Event">
+      <created>1547840600215</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1547840600215</updated>
+    </task>
+    <task id="LOCAL-00022" summary="deleted some comments">
+      <created>1547840805594</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1547840805594</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Complited test for creating new Event. Form filled successfully.">
+      <created>1548934657878</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1548934657878</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Install ExtentReports plugin for creating HTML reports after test running.&#10;Report saved to the MyOwnReport.html file into the Screenshots folder">
+      <created>1549051608586</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1549051608586</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added UnAuthEventPageHelper, AuthEventPageHelper and LoginPageHelper.&#10;Also added Test in this classes" />
+    <MESSAGE value="Added CreateAccountPage Helper and goCreateAccountTest to the HomePageTests" />
+    <MESSAGE value="Added RegistrationFormHelper and CreateAccountPositiveTest but not for all fields of the form" />
+    <MESSAGE value="Added methods to the RegistrationFormHelper for createAccountPositiveTests" />
+    <MESSAGE value="Classes added to the Git Repository" />
+    <MESSAGE value="Added selectGender to the test." />
+    <MESSAGE value="Changed the order of the function calls in the test. Put the selectGender on the first place. Still don't find the trouble with the selectLanguage and selectBirthday functions" />
+    <MESSAGE value="Added two sentences of the code to the selectFood method." />
+    <MESSAGE value="Added two sentences of the code to the selectFood method. Actions emptyPush = new Actions(driver);&#10;                                                                  emptyPush.moveToElement(emptyClick).click().build().perform();" />
+    <MESSAGE value="Added last method to Test. Last was the enterBirthday. Test was passed." />
+    <MESSAGE value="Created Assert in the createAccountPositive Test for registration form" />
+    <MESSAGE value="Created AuthEventsPageTests" />
+    <MESSAGE value="Created DataProvider class with csv file with data for login test" />
+    <MESSAGE value="Created HamburgerMenuHelper" />
+    <MESSAGE value="Added AfterMethod for logOut after witch test" />
+    <MESSAGE value="Optimized method enterBirthday for biggest range of the birthday year used If loops" />
+    <MESSAGE value="Created classes UserProfileTests and UserProfileHelper. Added test for changing Avatar Picture using class File" />
+    <MESSAGE value="Created Test changeUserProfileData() with method changeFoodValue()" />
+    <MESSAGE value="Added AfterMethod for logOut after witch test in UserProfileTests. Created Test change_LanguageValue_UserProfile() with method changeLanguageValue in the UserProfileHelper" />
+    <MESSAGE value="Created test newEventCreationPositiveTest()" />
+    <MESSAGE value="change address in test newEventCreationPositiveTest" />
+    <MESSAGE value="Created tests newEvent_AutoDataGeneration_PositiveTest() with methods for auto Generation Day data and Time data for the new Event" />
+    <MESSAGE value="deleted some comments" />
+    <MESSAGE value="Complited test for creating new Event. Form filled successfully." />
+    <MESSAGE value="Install ExtentReports plugin for creating HTML reports after test running.&#10;Report saved to the MyOwnReport.html file into the Screenshots folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Install ExtentReports plugin for creating HTML reports after test running.&#10;Report saved to the MyOwnReport.html file into the Screenshots folder" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="210" key="GridCell.Tab.0.bottom" timestamp="1596629860451">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596629860451" />
+    <state width="1237" height="210" key="GridCell.Tab.0.center" timestamp="1596629860451">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596629860451" />
+    <state width="1237" height="210" key="GridCell.Tab.0.left" timestamp="1596629860451">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596629860451" />
+    <state width="1237" height="210" key="GridCell.Tab.0.right" timestamp="1596629860451">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596629860451" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1596619340226">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1596619340226" />
+    <state x="350" y="73" width="579" height="534" key="find.popup" timestamp="1596621061993">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="350" y="73" width="579" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1596621061993" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>((String)((RemoteWebElement)el).id).value</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.openqa.selenium.remote.RemoteWebElement,java.lang.String</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
