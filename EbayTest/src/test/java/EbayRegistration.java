@@ -16,7 +16,7 @@ public class EbayRegistration {
         driver = new ChromeDriver();
             driver.manage().window().maximize();
             driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-            driver.get("https://signin.ebay.com/ws/eBayISAPI.dll");
+            driver.get("https://signin.ebay");
         }
         @Test
     public void registrationTest(){
@@ -44,17 +44,17 @@ public class EbayRegistration {
 
     public void clickOnSigninButton() {
 
-        driver.findElement(By.id("sgnBt")).click();
+       // driver.findElement(By.id("sgnBt")).click();
     }
 
     public void enterPassword() {
 
-        driver.findElement(By.id("pass")).sendKeys("milistan1");
+      //  driver.findElement(By.id("pass")).sendKeys("milistan1");
     }
 
     public void enterUsername() {
 
-        driver.findElement(By.id("userid")).sendKeys("o.furmanova@mail.ru");
+       // driver.findElement(By.id("userid")).sendKeys("o.furmanova@mail.ru");
     }
 
 }

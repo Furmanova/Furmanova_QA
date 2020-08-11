@@ -1,0 +1,40 @@
+CV_Bank/model/ProjectsJobsData.java
+ CV_Bank.model.ProjectsJobsData
+CV_Bank/model/AchievementsData.java
+ CV_Bank.model.AchievementsData
+CV_Bank/appManager/CreateHelper.java
+ CV_Bank.appManager.CreateHelper
+CV_Bank/model/EducationData.java
+ CV_Bank.model.EducationData
+CV_Bank/model/FooterInfoData.java
+ CV_Bank.model.FooterInfoData
+CV_Bank/testsCV/TestLogin.java
+ CV_Bank.testsCV.TestLogin
+CV_Bank/RegistrationCVBank.java
+ CV_Bank.RegistrationCVBank
+CV_Bank/model/LanguagesData.java
+ CV_Bank.model.LanguagesData
+CV_Bank/appManager/ApplicationManager.java
+ CV_Bank.appManager.ApplicationManager
+CV_Bank/testsCV/TestBase.java
+ CV_Bank.testsCV.TestBase
+CV_Bank/appManager/HelperBase.java
+ CV_Bank.appManager.HelperBase
+CV_Bank/testsCV/CreateTest.java
+ CV_Bank.testsCV.CreateTest
+CV_Bank/appManager/SessionHelper.java
+ CV_Bank.appManager.SessionHelper
+CV_Bank/model/TitleCreateData.java
+ CV_Bank.model.TitleCreateData
+CV_Bank/model/DescriptionData.java
+ CV_Bank.model.DescriptionData
+CV_Bank/testsCV/MyListener.java
+ CV_Bank.testsCV.MyListener
+CV_Bank/model/CertificationsData.java
+ CV_Bank.model.CertificationsData
+CV_Bank/model/SkillsData.java
+ CV_Bank.model.SkillsData
+CV_Bank/model/ContactInfoData.java
+ CV_Bank.model.ContactInfoData
+CV_Bank/model/FooterLinksData.java
+ CV_Bank.model.FooterLinksData

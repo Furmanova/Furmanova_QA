@@ -1,0 +1,24 @@
+TelRan/QA/tests/TestAboutPage.java
+ TelRan.QA.tests.TestAboutPage
+TelRan/QA/tests/TestContacsUsPage.java
+ TelRan.QA.tests.TestContacsUsPage
+TelRan/QA/tests/TestPublishTenderForAVehiclePage.java
+ TelRan.QA.tests.TestPublishTenderForAVehiclePage
+TelRan/QA/appManadger/ApplicationManager.java
+ TelRan.QA.appManadger.ApplicationManager
+TelRan/QA/tests/TestTendersPage.java
+ TelRan.QA.tests.TestTendersPage
+TelRan/QA/model/GroupData.java
+ TelRan.QA.model.GroupData
+TelRan/QA/appManadger/SessionHelper.java
+ TelRan.QA.appManadger.SessionHelper
+TelRan/QA/tests/TestBase.java
+ TelRan.QA.tests.TestBase
+TelRan/QA/tests/TestHowItWorksPage.java
+ TelRan.QA.tests.TestHowItWorksPage
+TelRan/QA/tests/TestLogin.java
+ TelRan.QA.tests.TestLogin
+TelRan/QA/appManadger/HelperBase.java
+ TelRan.QA.appManadger.HelperBase
+TelRan/QA/tests/TestOpenSite.java
+ TelRan.QA.tests.TestOpenSite
