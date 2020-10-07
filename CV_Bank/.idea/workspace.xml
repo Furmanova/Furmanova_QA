@@ -23,111 +23,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2611e2ac-81d8-446a-bea4-eabfc269b58f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__com_google_inject_guice_no_aop_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__com_hynnet_logback_classic_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__com_hynnet_logback_core_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__junit_junit_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__org_testng_testng_7_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/libraries/Gradle__org_yaml_snakeyaml_1_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/modules/Autoauction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/modules/Autoauction.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/.idea/modules/Autoauction.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/build/classes/java/test/TelRan/QA/appManadger/ApplicationManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/build/classes/java/test/TelRan/QA/appManadger/HelperBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/build/classes/java/test/TelRan/QA/appManadger/SessionHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/build/classes/java/test/TelRan/QA/model/GroupData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/build/classes/java/test/TelRan/QA/tests/TestAboutPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/build/classes/java/test/TelRan/QA/tests/TestBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/build/classes/java/test/TelRan/QA/tests/TestContacsUsPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/build/classes/java/test/TelRan/QA/tests/TestHowItWorksPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/build/classes/java/test/TelRan/QA/tests/TestLogin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/build/classes/java/test/TelRan/QA/tests/TestOpenSite.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/build/classes/java/test/TelRan/QA/tests/TestPublishTenderForAVehiclePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/build/classes/java/test/TelRan/QA/tests/TestTendersPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autoauction/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/CV_Bank.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/CV_Bank.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Autoauction/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Autoauction/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Autoauction/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Autoauction/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Autoauction/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Autoauction/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Autoauction/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Autoauction/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Autoauction/src/test/java/TelRan/QA/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Autoauction/src/test/java/TelRan/QA/tests/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_beust_jcommander_1_72.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_25_0_jre.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_hynnet_logback_classic_1_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_hynnet_logback_classic_1_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_hynnet_logback_core_1_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_hynnet_logback_core_1_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_8_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_extras_beanshell_bsh_2_0b6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_api_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_api_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_chrome_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_chrome_driver_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_edge_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_edge_driver_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_firefox_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_firefox_driver_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_java_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_java_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_opera_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_opera_driver_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_remote_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_remote_driver_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_safari_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_safari_driver_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_support_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_support_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_testng_testng_6_14_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_testng_testng_6_14_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/CV_Bank_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/CV_Bank_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_beust_jcommander_1_72.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_25_0_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_hynnet_logback_classic_1_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_hynnet_logback_core_1_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_8_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_extras_beanshell_bsh_2_0b6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_api_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_chrome_driver_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_edge_driver_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_firefox_driver_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_java_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_opera_driver_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_remote_driver_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_safari_driver_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_support_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_testng_testng_6_14_3.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CV_Bank/RegistrationCVBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CV_Bank/RegistrationCVBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EbayTest/build/classes/java/test/EbayRegistration.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EbayTest/build/classes/java/test/EbayRegistration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EbayTest/src/test/java/EbayRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EbayTest/src/test/java/EbayRegistration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545563764839.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545564226072.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545564434581.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545564491240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545564557727.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545564807383.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545565670089.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545565821503.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545565941642.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545566017356.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545566171373.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545566242736.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545566350277.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545566420919.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545566502795.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545566545346.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545566754888.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545566907139.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545566968571.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545567026332.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen - 1545567077677.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,12 +111,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="268" />
-    <option name="y" value="49" />
-    <option name="width" value="1072" />
-    <option name="height" value="543" />
-  </component>
   <component name="ProjectId" id="1fwj0CHXXEoBSm8emjk5GRA9kQU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -180,9 +123,9 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.22068965" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RunManager" selected="TestNG.RegistrationCVBank (1)">
@@ -349,7 +292,7 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Olga\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -377,10 +320,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597138738263">
+    <state x="348" y="76" key="#Servers" timestamp="1598344208929">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1597138738263" />
+    <state x="348" y="76" key="#Servers/0.0.1280.680@0.0.1280.680" timestamp="1598344208929" />
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598362434748">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1598362434748" />
     <state x="420" y="45" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1597138714071">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -389,30 +336,42 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="370" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1597138723587" />
-    <state width="1237" height="182" key="GridCell.Tab.0.bottom" timestamp="1597144077896">
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1598363626186">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="182" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597144077896" />
-    <state width="1237" height="182" key="GridCell.Tab.0.center" timestamp="1597144077896">
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598363626186" />
+    <state width="1237" height="259" key="GridCell.Tab.0.bottom" timestamp="1597147745110">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="182" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597144077896" />
-    <state width="1237" height="182" key="GridCell.Tab.0.left" timestamp="1597144077895">
+    <state width="1237" height="259" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597147745110" />
+    <state width="1237" height="259" key="GridCell.Tab.0.center" timestamp="1597147745110">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="182" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597144077895" />
-    <state width="1237" height="182" key="GridCell.Tab.0.right" timestamp="1597144077896">
+    <state width="1237" height="259" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597147745110" />
+    <state width="1237" height="259" key="GridCell.Tab.0.left" timestamp="1597147745110">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="182" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597144077896" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1597137413522">
+    <state width="1237" height="259" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597147745110" />
+    <state width="1237" height="259" key="GridCell.Tab.0.right" timestamp="1597147745110">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1597137413522" />
+    <state width="1237" height="259" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597147745110" />
+    <state x="373" y="61" key="RollbackChangesDialog" timestamp="1598269243903">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="373" y="61" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1598269243903" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1599122218629">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599122218629" />
     <state x="350" y="73" width="579" height="534" key="find.popup" timestamp="1597137974331">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="350" y="73" width="579" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1597137974331" />
+    <state x="185" y="0" width="1095" height="680" key="new project wizard" timestamp="1598364420045">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="185" y="0" width="1095" height="680" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1598364420045" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1597138746883">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

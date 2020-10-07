@@ -1,1 +1,0 @@
-# Furmanova_QA16
